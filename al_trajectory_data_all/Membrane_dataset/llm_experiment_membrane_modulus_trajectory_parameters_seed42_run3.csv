@@ -1,0 +1,976 @@
+Iteration,Experiment Index,Experiment Parameters,Suggested Parameters,Observed Elastic Modulus,Max Modulus in Dataset,Stopping Reason
+0,14,Initial Selection,N/A,39.58562154046682,296.35081017123304,Initial selection
+1,69,Index: 77; Auto: True; Heating: True; Concentration: 15.0; Heating Block Temperature: 80; Mixed: True; Rest Time (days): 2; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 58; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"Based on the provided observation, I'll recommend the next experiment to maximize the elastic modulus for your membrane synthesis via NIPS.
+
+# Recommended Next Experiment
+
+| Parameter | Recommended Value | Rationale |
+|-----------|-------------------|-----------|
+| Auto | True | Maintain automation for consistency |
+| Heating | True | Try heating to potentially improve polymer dissolution and chain entanglement |
+| Concentration | 15.0 | Increase polymer concentration as higher concentrations typically yield higher modulus |
+| Heating Block Temperature | 40 | Moderate heating to enhance polymer dissolution without degradation |
+| Mixed | True | Maintain robot mixing for homogeneity |
+| Rest Time (days) | 1 | Reduce rest time to minimize potential polymer aggregation |
+| Coupon-to-Bath Wait Time (min) | 2.0 | Introduce slight delay to allow for controlled surface film formation |
+| Relative Humidity | 40 | Lower humidity to reduce water vapor absorption during casting |
+| Nitrogen (Side from drop) | 1 | Add nitrogen flow to create more controlled atmosphere |
+| Nitrogen (After blade) | 1 | Add nitrogen flow after blade to promote more uniform solvent evaporation |
+
+The high standard deviation in your current result (39.76 bar) suggests significant variability in the membrane properties. The proposed changes aim to create more controlled conditions and increase polymer concentration, which should lead to a denser polymer network and potentially higher modulus with better consistency.",110.69482106635698,296.35081017123304,Continuing
+2,72,Index: 78; Auto: True; Heating: True; Concentration: 17.0; Heating Block Temperature: 80; Mixed: False; Rest Time (days): 2; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 58; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the two prior observations, I can see that the second experiment (Index 77) produced a significantly higher modulus (110.69 bar) compared to the first experiment (39.59 bar). The key differences that likely contributed to this improvement were:
+
+1. **Heating**: Changed from False to True
+2. **Concentration**: Increased from 10.0% to 15.0%
+3. **Heating Block Temperature**: Increased from 25°C to 80°C
+4. **Relative Humidity**: Slightly higher (58% vs 56%)
+
+For the next experiment, I recommend building on these findings by further optimizing these parameters:
+
+## Recommended Next Experiment Parameters:
+- **Auto**: True (maintain automated process)
+- **Heating**: True (maintain heating which showed benefit)
+- **Concentration**: 18.0% (increase further as higher concentration improved modulus)
+- **Heating Block Temperature**: 85°C (slightly increase from previous successful experiment)
+- **Mixed**: True (maintain robot mixing)
+- **Rest Time (days)**: 3 (slightly increase to allow better polymer chain organization)
+- **Coupon-to-Bath Wait Time (min)**: 0.5 (introduce slight delay to allow more controlled phase separation)
+- **Relative Humidity**: 60% (slightly increase as trend shows benefit)
+- **Nitrogen (Side from drop)**: 0 (maintain current setting)
+- **Nitrogen (After blade)**: 0 (maintain current setting)
+
+This recommendation aims to further enhance modulus by increasing polymer concentration, optimizing thermal conditions, and allowing slightly more time for polymer organization before phase separation.",189.441220061326,296.35081017123304,Continuing
+3,16,Index: 20; Auto: True; Heating: False; Concentration: 10.0; Heating Block Temperature: 25; Mixed: True; Rest Time (days): 1; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 58; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I can identify several trends that appear to influence the elastic modulus:
+
+1. **Concentration**: Higher polymer concentration (17.0% > 15.0% > 10.0%) correlates with higher modulus values (189.44 > 110.69 > 39.59 bar)
+2. **Heating**: Experiments with heating (True) showed significantly higher modulus values than without heating
+3. **Heating Block Temperature**: Higher temperature (80°C) appears beneficial
+4. **Mixed**: The highest modulus was achieved with Mixed = False (pre-mixed solution)
+
+For the next experiment, I recommend:
+
+## Recommended Parameters:
+- **Auto**: True (maintain automated process)
+- **Heating**: True (beneficial for modulus)
+- **Concentration**: 20.0% (increase to maximum in typical range)
+- **Heating Block Temperature**: 80°C (maintain optimal temperature)
+- **Mixed**: False (pre-mixed solution showed better results)
+- **Rest Time (days)**: 2 (consistent with previous successful experiments)
+- **Coupon-to-Bath Wait Time (min)**: 0.0 (consistent with previous experiments)
+- **Relative Humidity**: 58% (consistent with higher modulus experiments)
+- **Nitrogen (Side from drop)**: 0 (maintain consistency)
+- **Nitrogen (After blade)**: 0 (maintain consistency)
+
+This experiment pushes the polymer concentration higher while maintaining other parameters that correlated with higher modulus values in previous experiments.",28.08588319590436,296.35081017123304,Continuing
+4,70,Index: 17; Auto: True; Heating: True; Concentration: 17.0; Heating Block Temperature: 50; Mixed: False; Rest Time (days): 1; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 53; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I can identify several trends that appear to influence the elastic modulus:
+
+1. **Concentration**: Higher polymer concentration (17.0%) yielded the highest modulus (189.44 bar)
+2. **Heating**: Experiments with heating (True) showed significantly higher modulus values
+3. **Heating Block Temperature**: Higher temperature (80°C) correlated with higher modulus
+4. **Mixed**: The highest modulus was achieved with Mixed = False (manually premixed)
+5. **Rest Time**: 2 days rest time appears optimal compared to 1 day
+
+## Recommended Next Experiment Parameters:
+
+- **Index**: Next sequential number
+- **Auto**: True
+- **Heating**: True
+- **Concentration**: 20.0% (increasing to maximum in range)
+- **Heating Block Temperature**: 80°C
+- **Mixed**: False
+- **Rest Time (days)**: 2
+- **Coupon-to-Bath Wait Time (min)**: 0.0
+- **Relative Humidity**: 58%
+- **Nitrogen (Side from drop)**: 0
+- **Nitrogen (After blade)**: 0
+
+This recommendation builds on the highest performing experiment (#78) by further increasing the polymer concentration to 20%, which should theoretically increase the modulus further based on the observed trend. All other parameters are kept consistent with experiment #78 which produced the highest modulus value.",172.0732296612731,296.35081017123304,Continuing
+5,42,Index: 4; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 4; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 64; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I can identify several trends that appear to influence the elastic modulus:
+
+1. **Higher concentration** (17%) tends to yield higher modulus values (189.44 and 172.07 bar)
+2. **Heating** appears beneficial (experiments with heating generally show higher modulus)
+3. **Manual premixing** (Mixed: False) seems to produce better results at higher concentrations
+4. **Rest time** of 2 days appears slightly better than 1 day when other parameters are similar
+
+For the next experiment, I recommend:
+
+## Recommended Parameters:
+- **Index**: Next sequential number
+- **Auto**: True
+- **Heating**: True
+- **Concentration**: 20.0% (increasing to maximum in range)
+- **Heating Block Temperature**: 80°C (using the higher temperature that worked well)
+- **Mixed**: False (manual premixing showed better results)
+- **Rest Time (days)**: 2 (longer rest time showed better results)
+- **Coupon-to-Bath Wait Time (min)**: 0.0 (consistent with previous experiments)
+- **Relative Humidity**: 55-60% (within the range of successful experiments)
+- **Nitrogen (Side from drop)**: 0 (consistent with previous experiments)
+- **Nitrogen (After blade)**: 0 (consistent with previous experiments)
+
+This combination pushes toward the maximum polymer concentration while maintaining the other parameters that have been associated with higher modulus values in your previous experiments.",179.2410423946837,296.35081017123304,Continuing
+6,43,Index: 8; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 4; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 59; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I can identify several trends that appear to influence the elastic modulus of the membranes:
+
+1. **Higher concentration** (17%) consistently yields higher modulus values (189.44, 172.07, and 179.24 bar)
+2. **Heating** appears beneficial when combined with higher concentrations
+3. **Manual premixing** (Mixed: False) seems to produce better results at higher concentrations
+4. **Rest time** shows some influence, with longer rest times potentially beneficial
+
+For the next experiment, I recommend the following parameters to maximize elastic modulus:
+
+## Recommended Experimental Parameters:
+- **Index**: (next available)
+- **Auto**: True
+- **Heating**: True
+- **Concentration**: 20.0% (increasing to maximum in range)
+- **Heating Block Temperature**: 80°C (using highest successful temperature)
+- **Mixed**: False (manual premixing)
+- **Rest Time (days)**: 4 (longer rest time)
+- **Coupon-to-Bath Wait Time (min)**: 0.0 (consistent with successful experiments)
+- **Relative Humidity**: 60% (within range of successful experiments)
+- **Nitrogen (Side from drop)**: 0 (No)
+- **Nitrogen (After blade)**: 0 (No)
+
+This combination pushes the concentration to the upper limit while maintaining the heating and mixing conditions that have produced the highest modulus values in previous experiments.",178.97379271834268,296.35081017123304,Continuing
+7,10,Index: 1; Auto: True; Heating: False; Concentration: 10.0; Heating Block Temperature: 25; Mixed: True; Rest Time (days): 4; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 64; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I can identify several trends that correlate with higher elastic modulus values:
+
+1. **Concentration**: Higher polymer concentrations (17%) consistently yield higher modulus values (178-189 bar) compared to lower concentrations (10%, which yielded 28-39 bar).
+
+2. **Mixed**: Non-mixed solutions (Mixed: False) generally produce membranes with higher modulus.
+
+3. **Rest Time**: Longer rest times (4 days) appear beneficial for achieving higher modulus values.
+
+4. **Heating**: The effect is mixed, but the highest modulus (189.44 bar) was achieved with heating at 80°C.
+
+## Recommended Next Experiment Parameters:
+
+- **Index**: Next available number
+- **Auto**: True
+- **Heating**: True
+- **Concentration**: 20.0 (increasing to maximum in range)
+- **Heating Block Temperature**: 80
+- **Mixed**: False
+- **Rest Time (days)**: 4
+- **Coupon-to-Bath Wait Time (min)**: 0.0
+- **Relative Humidity**: 60
+- **Nitrogen (Side from drop)**: 0
+- **Nitrogen (After blade)**: 0
+
+This recommendation combines the most favorable conditions observed in the dataset: maximum polymer concentration, heating at optimal temperature, no mixing, and extended rest time. The relative humidity is set at a moderate value based on successful previous experiments.",95.58773206251,296.35081017123304,Continuing
+8,17,Index: 24; Auto: True; Heating: False; Concentration: 10.0; Heating Block Temperature: 25; Mixed: True; Rest Time (days): 1; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 80; Nitrogen (Side from drop): 1; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I can identify several trends that influence the elastic modulus of membranes synthesized via NIPS:
+
+## Key Observations:
+1. **Concentration**: Higher polymer concentrations (17%) consistently yield higher modulus values (178-189 bar) compared to lower concentrations (10%) which yield lower values (28-95 bar).
+
+2. **Rest Time**: Longer rest times (4 days) generally produce better results than shorter rest times (1-2 days).
+
+3. **Heating**: The highest modulus (189.44 bar) was achieved with heating at 80°C, but good results were also achieved without heating.
+
+4. **Mixed vs. Premixed**: Non-mixed (premixed) solutions tend to produce higher modulus values.
+
+## Recommended Next Experiment:
+
+```
+Index: [next sequential number]
+Auto: True
+Heating: True
+Concentration: 20.0 (increasing to maximum in range)
+Heating Block Temperature: 80
+Mixed: False
+Rest Time (days): 4
+Coupon-to-Bath Wait Time (min): 0.0
+Relative Humidity: 58-60
+Nitrogen (Side from drop): 0
+Nitrogen (After blade): 0
+```
+
+## Rationale:
+- Maximizing polymer concentration to 20% (upper end of typical range) should increase chain entanglement and resulting mechanical properties
+- Using heating at 80°C which produced the highest modulus in previous experiments
+- Extending rest time to 4 days which has shown good results for mechanical properties
+- Using premixed solution (Mixed: False) which consistently produced higher modulus values
+- Maintaining relative humidity around 58-60% which appears optimal from previous experiments
+- Keeping other parameters consistent with the best performing experiments
+
+This combination of parameters builds upon the conditions that produced the highest modulus values while pushing the concentration parameter to potentially achieve even better results.",106.8193434000782,296.35081017123304,Continuing
+9,44,Index: 10; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 0; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 61; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I've analyzed the patterns that appear to influence the elastic modulus of the membranes. Here's my recommendation for the next experiment:
+
+## Recommended Parameters:
+- **Auto**: True
+- **Heating**: True
+- **Concentration**: 20.0% (increasing from the highest tested value of 17%)
+- **Heating Block Temperature**: 80°C
+- **Mixed**: False
+- **Rest Time (days)**: 4
+- **Coupon-to-Bath Wait Time (min)**: 0.0
+- **Relative Humidity**: 60%
+- **Nitrogen (Side from drop)**: 0
+- **Nitrogen (After blade)**: 0
+
+## Rationale:
+1. **Concentration**: The highest modulus values (178-189 bar) were observed with 17% concentration. Increasing to 20% may further enhance mechanical properties.
+
+2. **Heating & Temperature**: Experiment #78 with heating at 80°C produced the highest modulus (189.44 bar), suggesting that higher temperatures benefit modulus.
+
+3. **Mixed**: Non-mixed solutions (Mixed: False) consistently produced higher modulus values in the dataset.
+
+4. **Rest Time**: Longer rest times (4 days) generally yielded higher modulus values compared to shorter rest periods (1-2 days).
+
+5. **Relative Humidity**: Maintaining moderate humidity (around 60%) appears optimal based on experiments with high modulus values.
+
+6. **Nitrogen Flow**: The data doesn't show clear benefits from nitrogen flow for maximizing modulus.
+
+This combination of parameters builds upon the conditions that produced the highest modulus values while pushing the concentration parameter to potentially achieve even better mechanical properties.",159.30709474405634,296.35081017123304,Continuing
+10,24,Index: 2; Auto: True; Heating: False; Concentration: 11.63; Heating Block Temperature: 25; Mixed: True; Rest Time (days): 4; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 64; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I can identify several trends that correlate with higher elastic modulus values:
+
+1. Higher polymer concentration (17%) consistently yields higher modulus values
+2. Non-mixed solutions (Mixed: False) tend to produce membranes with higher modulus
+3. Longer rest times (2-4 days) generally result in higher modulus
+4. Heating appears beneficial when combined with higher concentration
+5. Relative humidity around 58-64% seems optimal
+
+## Recommended Next Experiment Parameters:
+
+- Index: Next sequential number
+- Auto: True
+- Heating: True
+- Concentration: 20.0 (increasing to maximum in range)
+- Heating Block Temperature: 80
+- Mixed: False
+- Rest Time (days): 4
+- Coupon-to-Bath Wait Time (min): 0.0
+- Relative Humidity: 60
+- Nitrogen (Side from drop): 0
+- Nitrogen (After blade): 0
+
+## Rationale:
+This experiment combines the factors that have shown the strongest positive correlation with high modulus values. I've maximized the polymer concentration to 20% (the upper limit of the likely range), used heating at 80°C which showed good results with higher concentrations, selected non-mixing which consistently performed better, and extended the rest time to 4 days which has shown excellent results in previous experiments. The relative humidity is set to 60%, which falls within the optimal range observed in the highest-performing samples.",98.05789122606568,296.35081017123304,Continuing
+11,25,Index: 6; Auto: True; Heating: False; Concentration: 11.63; Heating Block Temperature: 25; Mixed: True; Rest Time (days): 1; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 61; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I can identify several trends that influence the elastic modulus of membranes produced via NIPS:
+
+## Key Observations:
+1. **Concentration**: Higher polymer concentrations (17%) consistently yield higher modulus values (159-189 bar) compared to lower concentrations (10-11.63%, yielding 28-106 bar)
+2. **Rest Time**: Longer rest times (4 days) generally produce higher modulus values
+3. **Mixed vs. Premixed**: Non-mixed (premixed) solutions tend to produce higher modulus values
+4. **Heating**: The effect is mixed, but some of the highest modulus values came from experiments without heating
+
+## Recommended Next Experiment:
+
+```
+Index: [next sequential number]
+Auto: True
+Heating: False
+Concentration: 20.0 (increasing to maximum of range)
+Heating Block Temperature: 25
+Mixed: False
+Rest Time (days): 4
+Coupon-to-Bath Wait Time (min): 0.0
+Relative Humidity: 60
+Nitrogen (Side from drop): 0
+Nitrogen (After blade): 0
+```
+
+## Rationale:
+- Pushing the concentration to 20% (the upper limit of the likely range) should further increase modulus based on the strong positive correlation observed
+- Maintaining the 4-day rest time that has consistently produced high modulus values
+- Using premixed solution (Mixed: False) which has shown better results
+- Keeping heating off as some of the highest modulus values were achieved without heating
+- Maintaining moderate relative humidity (~60%) which has worked well in successful experiments
+- Avoiding nitrogen flow which doesn't appear necessary for high modulus
+
+This experiment builds on the conditions that have produced the highest modulus values while pushing the concentration parameter to its maximum to potentially achieve even higher modulus.",39.13465426900338,296.35081017123304,Continuing
+12,59,Index: 55; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 0; Coupon-to-Bath Wait Time (min): 10.0; Relative Humidity: 68; Nitrogen (Side from drop): 0; Nitrogen (After blade): 1,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I've analyzed the patterns that lead to higher elastic modulus values. The highest modulus observed was 189.44 bar from experiment #78, followed by several experiments with values around 170-180 bar.
+
+## Key Observations:
+- Higher polymer concentration (17%) consistently produces higher modulus values
+- Heating appears beneficial when combined with higher concentrations
+- Longer rest times (2-4 days) generally yield better results
+- Mixed vs. unmixed shows that unmixed solutions often perform better at higher concentrations
+- Relative humidity in the mid-range (55-65%) appears optimal
+
+## Recommended Next Experiment:
+
+| Parameter | Value | Rationale |
+|-----------|-------|-----------|
+| Auto | True | Maintain consistency with automated process |
+| Heating | True | Heating improved results with higher concentrations |
+| Concentration | 20.0 | Pushing to maximum concentration as higher values showed better performance |
+| Heating Block Temperature | 80 | The highest modulus came with this temperature |
+| Mixed | False | Unmixed solutions performed better at higher concentrations |
+| Rest Time (days) | 4 | Longer rest times consistently showed better results |
+| Coupon-to-Bath Wait Time (min) | 0.0 | All successful experiments used this value |
+| Relative Humidity | 60 | Optimal range based on best performing experiments |
+| Nitrogen (Side from drop) | 0 | Best results had this turned off |
+| Nitrogen (After blade) | 0 | Best results had this turned off |
+
+This experiment combines the most promising parameters from previous high-performing experiments while pushing the concentration to the upper limit of the expected range to potentially achieve even higher modulus values.",219.61643412334288,296.35081017123304,Continuing
+13,62,Index: 68; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 0; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 50; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I've analyzed the patterns that lead to higher elastic modulus values. The highest modulus observed was 219.62 bar (experiment #55), which had the following key parameters:
+
+## Recommended Next Experimental Parameters:
+
+- Auto: True
+- Heating: False
+- Concentration: 20.0 (increasing from 17.0 to explore upper limit)
+- Heating Block Temperature: 25
+- Mixed: False
+- Rest Time (days): 0
+- Coupon-to-Bath Wait Time (min): 10.0
+- Relative Humidity: 68
+- Nitrogen (Side from drop): 0
+- Nitrogen (After blade): 1
+
+## Rationale:
+
+1. **Concentration**: The data shows a strong positive correlation between higher polymer concentration and higher modulus. Experiments with 17% concentration consistently produced higher modulus values (159-219 bar) compared to 10-11.63% (28-106 bar).
+
+2. **Heating**: While heating at 80°C with 17% concentration produced good results (189.44 bar), the highest modulus (219.62 bar) was achieved without heating.
+
+3. **Mixed**: Non-mixed solutions (Mixed: False) generally produced higher modulus values.
+
+4. **Rest Time**: The highest modulus was achieved with 0 days rest time, though 4 days also produced good results.
+
+5. **Coupon-to-Bath Wait Time**: The highest modulus was achieved with a 10-minute wait time.
+
+6. **Nitrogen (After blade)**: The highest modulus was achieved with nitrogen flow after blade casting.
+
+This recommendation aims to build upon the most successful experiment while pushing the concentration parameter to potentially achieve even higher modulus values.",277.3861208337041,296.35081017123304,Continuing
+14,23,Index: 69; Auto: True; Heating: False; Concentration: 10.0; Heating Block Temperature: 25; Mixed: True; Rest Time (days): 1; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 50; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I'll recommend parameters for the next experiment that should maximize the elastic modulus.
+
+## Analysis of Current Data
+
+Looking at the highest modulus values:
+- Experiment Index 68: Modulus = 277.39 bar (highest)
+- Experiment Index 55: Modulus = 219.62 bar (second highest)
+- Experiment Index 78: Modulus = 189.44 bar
+
+Key patterns observed:
+1. Higher concentration (17%) consistently produces higher modulus values
+2. No heating or lower heating block temperature often yields better results
+3. Non-mixed solutions (Mixed: False) tend to perform better
+4. Lower relative humidity (50-60%) appears beneficial
+5. Immediate immersion (Coupon-to-Bath Wait Time: 0.0) is generally better
+6. Rest time shows mixed effects but 0-2 days appears optimal for high modulus
+
+## Recommended Next Experiment
+
+Based on these observations, I recommend the following parameters:
+
+- Auto: True
+- Heating: False
+- Concentration: 20.0 (increasing to maximum in range)
+- Heating Block Temperature: 25
+- Mixed: False
+- Rest Time (days): 1
+- Coupon-to-Bath Wait Time (min): 0.0
+- Relative Humidity: 45 (testing slightly lower humidity)
+- Nitrogen (Side from drop): 0
+- Nitrogen (After blade): 0
+
+This experiment builds on the successful parameters from experiment #68 (which had the highest modulus) but increases the polymer concentration to the upper limit of the typical range and slightly decreases the relative humidity to potentially further improve membrane structure and mechanical properties.",53.46447392343188,296.35081017123304,Continuing
+15,54,Index: 50; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 0; Coupon-to-Bath Wait Time (min): 0.17; Relative Humidity: 70; Nitrogen (Side from drop): 0; Nitrogen (After blade): 1,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I've analyzed the relationships between various parameters and the elastic modulus. Here's my recommendation for the next experiment to maximize modulus:
+
+## Recommended Experimental Parameters:
+
+- **Auto**: True
+- **Heating**: False
+- **Concentration**: 20.0% (increasing to maximum in range)
+- **Heating Block Temperature**: 25°C
+- **Mixed**: False
+- **Rest Time (days)**: 4
+- **Coupon-to-Bath Wait Time (min)**: 0.0
+- **Relative Humidity**: 50%
+- **Nitrogen (Side from drop)**: 0 (No)
+- **Nitrogen (After blade)**: 0 (No)
+
+## Rationale:
+
+1. **Concentration**: The highest modulus values (189.44, 179.24, 178.97, 219.62, 277.39 bar) are generally associated with higher polymer concentrations. Experiment #68 with 17% concentration yielded 277.39 bar, suggesting that increasing to 20% may further improve modulus.
+
+2. **Heating**: The data suggests that non-heated solutions (Heating: False) generally produce higher modulus values.
+
+3. **Mixed**: Unmixed solutions (Mixed: False) appear to yield higher modulus values when combined with higher concentrations.
+
+4. **Rest Time**: Longer rest times (4 days) correlate with higher modulus values in several experiments.
+
+5. **Relative Humidity**: Lower humidity (50%) appears optimal, as seen in experiments #68 and #69 which produced the highest modulus values.
+
+6. **Coupon-to-Bath Wait Time**: Immediate immersion (0.0 min) consistently yields better results than delayed immersion.
+
+7. **Nitrogen Flow**: The absence of nitrogen flow appears to be preferable for maximizing modulus.
+
+This recommendation builds upon the most successful previous experiments while pushing the concentration parameter to its upper limit to potentially achieve even higher modulus values.",197.8404462303588,296.35081017123304,Continuing
+16,52,Index: 45; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 0; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 66; Nitrogen (Side from drop): 1; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I've analyzed the patterns that appear to influence elastic modulus in membrane synthesis. The highest modulus value observed was 277.39 bar (experiment #68), so I'll recommend parameters that build on what appears to work best.
+
+## Recommended Experimental Parameters:
+
+- **Index**: Next available number
+- **Auto**: True
+- **Heating**: False
+- **Concentration**: 18.0 (increasing from 17.0 since higher concentration generally shows better results)
+- **Heating Block Temperature**: 25
+- **Mixed**: False
+- **Rest Time (days)**: 0
+- **Coupon-to-Bath Wait Time (min)**: 0.0
+- **Relative Humidity**: 45 (lower humidity appears beneficial)
+- **Nitrogen (Side from drop)**: 0
+- **Nitrogen (After blade)**: 0
+
+## Rationale:
+
+1. **Concentration**: The highest modulus values consistently appear with higher polymer concentrations (17%). Increasing to 18% may further improve mechanical properties.
+
+2. **Heating**: The best results were achieved without heating.
+
+3. **Mixed**: Manual premixing (Mixed = False) appears to yield better results for high-concentration solutions.
+
+4. **Rest Time**: The best performing experiment (#68) used 0 days rest time.
+
+5. **Relative Humidity**: Lower humidity (50%) produced the best results. I'm recommending 45% to explore if further reduction improves performance.
+
+6. **Coupon-to-Bath Wait Time**: Immediate immersion (0.0 min) consistently produced better results.
+
+This recommendation aims to optimize the parameters that appear most influential for maximizing elastic modulus based on the observed experimental data.",231.07458974395303,296.35081017123304,Continuing
+17,12,Index: 9; Auto: True; Heating: False; Concentration: 10.0; Heating Block Temperature: 25; Mixed: True; Rest Time (days): 0; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 61; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I've analyzed the patterns that lead to higher elastic modulus values. The highest modulus observed was 277.39 bar (experiment #69), followed by 231.07 bar (experiment #45) and 219.62 bar (experiment #68).
+
+## Key Observations:
+1. Higher concentration (17%) generally yields higher modulus values
+2. Lower relative humidity (around 50%) appears beneficial
+3. No heating seems preferable in the highest-performing experiments
+4. Immediate coupon-to-bath wait time (0.0 min) is common in high-modulus results
+5. Nitrogen flow parameters show some positive effect
+
+## Recommended Next Experiment:
+
+```
+Index: [next sequential number]
+Auto: True
+Heating: False
+Concentration: 20.0
+Heating Block Temperature: 25
+Mixed: False
+Rest Time (days): 4
+Coupon-to-Bath Wait Time (min): 0.0
+Relative Humidity: 45
+Nitrogen (Side from drop): 1
+Nitrogen (After blade): 0
+```
+
+## Rationale:
+- Increased concentration to 20% (maximum in range) as higher concentrations consistently show better results
+- Maintained no heating as top performers didn't use heating
+- Selected unmixed condition as this appears in many high-modulus results
+- Extended rest time to 4 days which showed good results in experiments #4 and #8
+- Reduced relative humidity further to 45% as lower humidity correlates with higher modulus
+- Added nitrogen flow from the side during drop which showed benefit in experiment #45
+- Maintained immediate bath immersion (0.0 min wait time) which is consistent across high performers
+
+This combination of parameters builds on the successful elements from the highest-performing experiments while pushing the concentration to its upper limit to potentially achieve even higher modulus values.",51.16844398555743,296.35081017123304,Continuing
+18,63,Index: 72; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 1; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 50; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I've analyzed the patterns that lead to higher elastic modulus values. The highest modulus observed was 277.39 bar (experiment #68), which had the following key parameters:
+
+## Recommended Experimental Parameters:
+
+- **Auto**: True
+- **Heating**: False
+- **Concentration**: 20.0 (increasing from 17.0 to the upper limit of the range)
+- **Heating Block Temperature**: 25
+- **Mixed**: False
+- **Rest Time (days)**: 0
+- **Coupon-to-Bath Wait Time (min)**: 0.0
+- **Relative Humidity**: 45 (slightly lower than the best result at 50%)
+- **Nitrogen (Side from drop)**: 0
+- **Nitrogen (After blade)**: 0
+
+## Rationale:
+
+1. **Concentration**: The data shows a strong positive correlation between higher polymer concentration and higher modulus. Experiments with 17% concentration generally outperformed those with 10-15%.
+
+2. **Heating**: Non-heated solutions (Heating: False) consistently produced higher modulus values compared to heated solutions.
+
+3. **Mixed**: Manually premixed solutions (Mixed: False) with high concentration produced better results.
+
+4. **Relative Humidity**: Lower humidity (45-50%) appears to yield higher modulus values. The best result came at 50% RH.
+
+5. **Rest Time**: Immediate use (0 days) or short rest times showed good results for high-concentration solutions.
+
+6. **Coupon-to-Bath Wait Time**: Immediate immersion (0.0 min) consistently produced better results.
+
+This recommendation builds upon the successful parameters from experiment #68 while pushing the concentration to its upper limit to potentially achieve even higher modulus values.",228.4671903908735,296.35081017123304,Continuing
+19,3,Index: 73; Auto: False; Heating: False; Concentration: 10.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 0; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 50; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I've analyzed the patterns that lead to higher elastic modulus values. The highest modulus observed was 277.39 bar (Index 68), followed by 231.07 bar (Index 45) and 228.47 bar (Index 72).
+
+## Key Observations:
+- Higher concentration (17%) generally yields higher modulus values
+- Lower relative humidity (around 50%) appears beneficial
+- No heating seems preferable for maximum modulus
+- Immediate immersion (0.0 min coupon-to-bath wait time) is favorable
+- Mixed results regarding rest time, but 0-1 days shows promise for high modulus
+
+## Recommended Next Experimental Parameters:
+
+- Auto: True
+- Heating: False
+- Concentration: 20.0 (increasing to maximum in range)
+- Heating Block Temperature: 25
+- Mixed: False
+- Rest Time (days): 0
+- Coupon-to-Bath Wait Time (min): 0.0
+- Relative Humidity: 45 (pushing lower than previous experiments)
+- Nitrogen (Side from drop): 1
+- Nitrogen (After blade): 0
+
+This combination builds on the successful parameters from experiments with high modulus values while pushing concentration to the upper limit and relative humidity to a lower value, which should theoretically maximize the elastic modulus based on the observed trends.",79.49162278991126,296.35081017123304,Continuing
+20,61,Index: 64; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 0; Coupon-to-Bath Wait Time (min): 5.0; Relative Humidity: 46; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I'll recommend parameters for the next experiment that should maximize the elastic modulus.
+
+## Analysis of Current Data
+
+The highest elastic modulus observed was 277.39 bar (Index 68), with the following parameters:
+- Concentration: 17.0%
+- Heating: False
+- Heating Block Temperature: 25°C
+- Mixed: False
+- Rest Time: 0 days
+- Coupon-to-Bath Wait Time: 0.0 min
+- Relative Humidity: 50%
+- Nitrogen (Side from drop): 0
+- Nitrogen (After blade): 0
+
+Other high-performing experiments (>200 bar) also share some common features:
+- Lower relative humidity (50%)
+- Higher polymer concentration (17%)
+- No heating during preparation
+- Immediate immersion in the bath (0 wait time)
+
+## Recommended Next Experiment
+
+Based on these patterns, I recommend the following parameters:
+
+- Auto: True
+- Heating: False
+- Concentration: 20.0% (increasing from 17% to explore upper concentration limit)
+- Heating Block Temperature: 25°C
+- Mixed: False
+- Rest Time (days): 0
+- Coupon-to-Bath Wait Time (min): 0.0
+- Relative Humidity: 45% (slightly lower than previous best)
+- Nitrogen (Side from drop): 0
+- Nitrogen (After blade): 0
+
+This experiment pushes the concentration higher while maintaining the other conditions that appear to favor high modulus values, particularly the low relative humidity and zero wait time before bath immersion.",201.80400290446065,296.35081017123304,Continuing
+21,49,Index: 40; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 0; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 68; Nitrogen (Side from drop): 1; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I've analyzed the patterns that lead to higher elastic modulus values. The highest modulus observed was 277.39 bar (Index 68), followed by 231.07 bar (Index 45) and 228.47 bar (Index 72).
+
+## Recommended Experimental Parameters:
+
+- **Index**: Next available number
+- **Auto**: True
+- **Heating**: False
+- **Concentration**: 17.0%
+- **Heating Block Temperature**: 25°C
+- **Mixed**: False
+- **Rest Time (days)**: 0
+- **Coupon-to-Bath Wait Time (min)**: 0.0
+- **Relative Humidity**: 45%
+- **Nitrogen (Side from drop)**: 1
+- **Nitrogen (After blade)**: 0
+
+## Rationale:
+
+1. **Concentration**: Higher polymer concentration (17%) consistently produces higher modulus values
+2. **Heating**: Non-heated solutions generally performed better
+3. **Mixed**: Manual premixing (Mixed: False) appears beneficial for high concentration solutions
+4. **Rest Time**: 0 days rest time worked well with high concentration solutions
+5. **Relative Humidity**: Lower humidity (45-50%) correlates with higher modulus values
+6. **Nitrogen flow**: Adding nitrogen flow from the side during drop casting may enhance modulus
+7. **Coupon-to-Bath Wait Time**: Immediate immersion (0.0 min) consistently yields better results
+
+This parameter set combines the most promising conditions from the highest-performing experiments while exploring a slightly lower humidity level to potentially further improve performance.",242.91509227554656,296.35081017123304,Continuing
+22,56,Index: 52; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 0; Coupon-to-Bath Wait Time (min): 5.0; Relative Humidity: 50; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"Based on the experimental data provided, I'll recommend the next experiment to maximize the elastic modulus.
+
+Looking at the data patterns, I observe:
+
+1. The highest modulus values (277.39, 242.92, 231.07, 228.47, 219.62 bar) share several common features
+2. Concentration appears significant - 17% concentration generally yields higher modulus values
+3. Lower relative humidity (around 50%) seems beneficial
+4. Heating block temperature of 25°C appears in many high-modulus experiments
+5. Immediate coupon-to-bath wait time (0.0 min) is common in high-performing samples
+6. Nitrogen flow parameters show some influence
+
+For the next experiment, I recommend:
+
+**Recommended Parameters:**
+- Auto: True
+- Heating: False
+- Concentration: 20.0 (pushing to upper limit of range)
+- Heating Block Temperature: 25
+- Mixed: False
+- Rest Time (days): 0
+- Coupon-to-Bath Wait Time (min): 0.0
+- Relative Humidity: 45 (pushing slightly lower than previous best)
+- Nitrogen (Side from drop): 1
+- Nitrogen (After blade): 0
+
+This recommendation combines the most promising aspects from the highest-performing experiments while pushing concentration to the upper limit and relative humidity to a lower value, which should theoretically maximize the elastic modulus based on the observed trends.",175.8319549576918,296.35081017123304,Continuing
+23,50,Index: 41; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 0; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 68; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I've analyzed the patterns that lead to higher elastic modulus values. The highest modulus observed was 277.39 bar (experiment #68), so I'll design parameters that build on what appears to work best.
+
+## Recommended Experimental Parameters:
+
+- **Index**: Next available number
+- **Auto**: True
+- **Heating**: False
+- **Concentration**: 17.0
+- **Heating Block Temperature**: 25
+- **Mixed**: False
+- **Rest Time (days)**: 0
+- **Coupon-to-Bath Wait Time (min)**: 0.0
+- **Relative Humidity**: 45
+- **Nitrogen (Side from drop)**: 1
+- **Nitrogen (After blade)**: 0
+
+## Rationale:
+
+1. **Concentration**: Higher polymer concentration (17%) consistently produces higher modulus values compared to lower concentrations.
+
+2. **Heating**: Non-heated solutions generally outperformed heated ones for modulus.
+
+3. **Mixed**: Manually premixed solutions (Mixed = False) tend to yield higher modulus values for 17% concentration.
+
+4. **Rest Time**: 0 days rest time appears optimal for high modulus when using 17% concentration.
+
+5. **Relative Humidity**: Lower humidity (45-50%) correlates with higher modulus values. Experiment #68 with 50% RH produced the highest modulus, so I'm recommending slightly lower (45%) to explore this trend.
+
+6. **Nitrogen (Side from drop)**: Adding nitrogen flow from the side during drop casting improved modulus in several experiments.
+
+7. **Coupon-to-Bath Wait Time**: Immediate immersion (0.0 min) consistently produced better results than delayed immersion.
+
+This parameter combination builds on the successful elements from experiments #68, #45, and #40, which all produced high modulus values, while exploring a slightly lower humidity level.",174.66437205644556,296.35081017123304,Continuing
+24,51,Index: 42; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 0; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 68; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I've analyzed the patterns that lead to higher elastic modulus values. The highest modulus observed was 277.39 bar (Index 68), followed by 242.92 bar (Index 40) and 231.07 bar (Index 45).
+
+## Recommended Experimental Parameters:
+
+- **Index**: Next available number
+- **Auto**: True
+- **Heating**: False
+- **Concentration**: 17.0%
+- **Heating Block Temperature**: 25°C
+- **Mixed**: False
+- **Rest Time (days)**: 0
+- **Coupon-to-Bath Wait Time (min)**: 0.0
+- **Relative Humidity**: 45%
+- **Nitrogen (Side from drop)**: 1
+- **Nitrogen (After blade)**: 0
+
+## Rationale:
+
+1. **Concentration**: Higher polymer concentration (17%) consistently produces higher modulus values
+2. **Relative Humidity**: Lower humidity (45-50%) appears optimal based on the highest modulus results
+3. **Nitrogen flow from side**: This parameter showed positive effects in experiments with high modulus
+4. **No heating**: The highest modulus values were achieved without heating
+5. **No mixing**: Manual premixing (Mixed = False) appears beneficial for higher modulus
+6. **Zero rest time**: Several high-performing experiments used immediate casting
+7. **Zero wait time**: Immediate immersion in the non-solvent bath produces better results
+
+This recommendation combines the parameters from the best-performing experiments while pushing the relative humidity slightly lower to explore if further improvements can be achieved.",181.925661105008,296.35081017123304,Continuing
+25,38,Index: 67; Auto: True; Heating: False; Concentration: 15.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 0; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 50; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I've analyzed the patterns that lead to higher elastic modulus values. The highest modulus observed was 277.39 bar (Index 68), so I'll recommend parameters that build on what appears to work best.
+
+## Recommended Experimental Parameters:
+
+- **Index**: Next available number
+- **Auto**: True
+- **Heating**: False
+- **Concentration**: 17.0
+- **Heating Block Temperature**: 25
+- **Mixed**: False
+- **Rest Time (days)**: 0
+- **Coupon-to-Bath Wait Time (min)**: 0.0
+- **Relative Humidity**: 45
+- **Nitrogen (Side from drop)**: 1
+- **Nitrogen (After blade)**: 0
+
+## Rationale:
+
+1. **Concentration**: Higher polymer concentrations (17%) consistently produced higher modulus values.
+
+2. **Heating**: Non-heated solutions generally performed better than heated ones.
+
+3. **Mixed**: Manually premixed solutions (Mixed = False) with higher concentrations showed better results.
+
+4. **Rest Time**: 0 days rest time appears optimal for high concentration solutions.
+
+5. **Relative Humidity**: Lower humidity (45-50%) appears beneficial - the highest modulus (277.39 bar) was achieved at 50% RH, and I'm suggesting a slightly lower value to explore this trend.
+
+6. **Nitrogen (Side from drop)**: Adding nitrogen flow from the side during drop casting improved results in several experiments (e.g., Index 45 with 231.07 bar).
+
+7. **Coupon-to-Bath Wait Time**: Immediate immersion (0.0 min) consistently produced better results than delayed immersion.
+
+This recommendation combines the most promising parameter values observed in the highest-performing experiments while exploring a slightly lower humidity level to potentially further optimize the modulus.",182.9546167355371,296.35081017123304,Continuing
+26,45,Index: 31; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 0; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 67; Nitrogen (Side from drop): 1; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I've analyzed the patterns that lead to higher elastic modulus values. The highest modulus observed was 277.39 bar (Index 68), so I'll recommend parameters that build on what made this experiment successful.
+
+## Recommended Experimental Parameters:
+
+- **Index**: Next available number
+- **Auto**: True
+- **Heating**: False
+- **Concentration**: 17.0
+- **Heating Block Temperature**: 25
+- **Mixed**: False
+- **Rest Time (days)**: 0
+- **Coupon-to-Bath Wait Time (min)**: 0.0
+- **Relative Humidity**: 45
+- **Nitrogen (Side from drop)**: 1
+- **Nitrogen (After blade)**: 0
+
+## Rationale:
+
+1. **Concentration**: Higher polymer concentrations (17%) consistently produced higher modulus values.
+
+2. **Relative Humidity**: Lower humidity (45-50%) appears to correlate with higher modulus values. The best result (277.39 bar) was at 50% RH, so I'm recommending slightly lower (45%) to explore this trend.
+
+3. **Heating**: False - The highest modulus values were achieved without heating.
+
+4. **Mixed**: False - Manual premixing seems to yield better results for higher concentrations.
+
+5. **Rest Time**: 0 days - Several high-performing experiments had no rest time.
+
+6. **Coupon-to-Bath Wait Time**: 0.0 minutes - Immediate immersion consistently produced better results.
+
+7. **Nitrogen (Side from drop)**: Adding nitrogen flow from the side appears beneficial based on experiments #40 and #45, which showed high modulus values.
+
+This recommendation combines the most promising parameters observed in the dataset to potentially achieve an even higher elastic modulus than previously recorded.",224.5706110108938,296.35081017123304,Continuing
+27,55,Index: 51; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 0; Coupon-to-Bath Wait Time (min): 1.0; Relative Humidity: 70; Nitrogen (Side from drop): 0; Nitrogen (After blade): 1,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I've analyzed the patterns that lead to higher elastic modulus values. The highest modulus observed was 277.39 bar (Index 68), followed by 242.92 bar (Index 52) and 231.07 bar (Index 45).
+
+## Key Observations:
+1. Lower relative humidity (around 50%) tends to produce higher modulus values
+2. Concentration of 17% generally yields better results than lower concentrations
+3. No heating appears preferable for maximizing modulus
+4. Zero or very short coupon-to-bath wait times generally perform better
+5. Nitrogen flow from the side appears beneficial in several high-modulus cases
+
+## Recommended Next Experiment:
+
+Parameters:
+- Auto: True
+- Heating: False
+- Concentration: 20.0 (increasing to maximum in range)
+- Heating Block Temperature: 25
+- Mixed: False
+- Rest Time (days): 0
+- Coupon-to-Bath Wait Time (min): 0.0
+- Relative Humidity: 45 (pushing slightly lower than previous best)
+- Nitrogen (Side from drop): 1
+- Nitrogen (After blade): 0
+
+This combination builds on the successful parameters from experiments with high modulus values while pushing the concentration to the upper limit of the range and further reducing the relative humidity to potentially enhance the modulus even more.",168.33383829683325,296.35081017123304,Continuing
+28,71,Index: 19; Auto: True; Heating: True; Concentration: 17.0; Heating Block Temperature: 50; Mixed: False; Rest Time (days): 1; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 96; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I've analyzed the patterns that lead to higher elastic modulus values. The highest modulus observed was 277.39 bar (Index 68), so I'll design parameters that build on what made this experiment successful.
+
+## Recommended Experimental Parameters:
+
+- **Index**: Next available number
+- **Auto**: True
+- **Heating**: False
+- **Concentration**: 17.0%
+- **Heating Block Temperature**: 25°C
+- **Mixed**: False
+- **Rest Time (days)**: 0
+- **Coupon-to-Bath Wait Time (min)**: 0.0
+- **Relative Humidity**: 45%
+- **Nitrogen (Side from drop)**: 1
+- **Nitrogen (After blade)**: 0
+
+## Rationale:
+
+1. **Concentration**: Higher polymer concentrations (17%) consistently produced higher modulus values across experiments.
+
+2. **Relative Humidity**: Lower humidity (45-50%) appears to correlate with higher modulus values. The best result (277.39 bar) was at 50% RH, and other good results were also at lower humidity.
+
+3. **Heating**: No heating appears preferable for maximizing modulus.
+
+4. **Nitrogen flow**: Adding nitrogen flow from the side during drop casting may enhance solvent evaporation control, as seen in experiments with high modulus values (231.07, 242.92 bar).
+
+5. **Wait Time**: Immediate immersion (0.0 min) in the non-solvent bath consistently produced better results.
+
+6. **Rest Time**: 0 days rest time appears optimal based on the highest performing experiments.
+
+This parameter combination builds on the successful elements from the best experiments while making strategic adjustments to potentially achieve even higher modulus values.",270.69323356331364,296.35081017123304,Continuing
+29,11,Index: 5; Auto: True; Heating: False; Concentration: 10.0; Heating Block Temperature: 25; Mixed: True; Rest Time (days): 1; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 61; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"Based on the experimental data provided, I'll recommend the next experiment to maximize the elastic modulus.
+
+Looking at the data, I observe several patterns:
+1. The highest modulus values (277.39, 270.69, 242.92 bar) appear to be associated with specific parameter combinations
+2. Lower relative humidity (around 50%) seems to produce higher modulus values
+3. Higher polymer concentration (17%) generally yields better results
+4. Nitrogen flow parameters show mixed effects
+
+For the next experiment, I recommend:
+
+**Recommended Parameters:**
+- Auto: True
+- Heating: False
+- Concentration: 20.0 (increasing to maximum in range)
+- Heating Block Temperature: 25
+- Mixed: False
+- Rest Time (days): 0
+- Coupon-to-Bath Wait Time (min): 0.0
+- Relative Humidity: 45 (slightly lower than previous best)
+- Nitrogen (Side from drop): 1
+- Nitrogen (After blade): 0
+
+This recommendation builds on experiment #68 (which had 277.39 bar modulus) but increases concentration to the upper limit and slightly decreases relative humidity while adding nitrogen flow from the side, which showed positive effects in several experiments. The combination of these parameters should maximize the elastic modulus based on the observed trends.",24.71538796928362,296.35081017123304,Continuing
+30,33,Index: 70; Auto: True; Heating: False; Concentration: 12.0; Heating Block Temperature: 25; Mixed: True; Rest Time (days): 1; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 50; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I've analyzed the patterns that lead to higher elastic modulus values. The highest modulus observed was 277.39 bar (Index 68), followed by 270.69 bar (Index 19) and 242.92 bar (Index 52).
+
+## Key Observations:
+1. Higher concentration (17%) generally yields better results
+2. Lower relative humidity (around 50%) appears beneficial
+3. Minimal coupon-to-bath wait time (0.0 min) is often associated with higher modulus
+4. Nitrogen flow from the side during drop casting shows positive effects
+5. No heating appears preferable in most high-modulus cases
+
+## Recommended Next Experiment Parameters:
+
+- **Index**: Next available number
+- **Auto**: True
+- **Heating**: False
+- **Concentration**: 20.0 (pushing to upper limit of range)
+- **Heating Block Temperature**: 25
+- **Mixed**: False
+- **Rest Time (days)**: 0
+- **Coupon-to-Bath Wait Time (min)**: 0.0
+- **Relative Humidity**: 45 (pushing toward lower end of range)
+- **Nitrogen (Side from drop)**: 1
+- **Nitrogen (After blade)**: 0
+
+This combination leverages the highest polymer concentration within range, optimal environmental conditions (low humidity), and processing parameters that have consistently produced high modulus values in previous experiments.",72.06868568538891,296.35081017123304,Continuing
+31,58,Index: 54; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 0; Coupon-to-Bath Wait Time (min): 10.0; Relative Humidity: 68; Nitrogen (Side from drop): 0; Nitrogen (After blade): 1,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I'll recommend parameters for the next experiment that should maximize the elastic modulus.
+
+## Analysis of Highest Modulus Results
+The highest modulus values observed were:
+- 277.39 bar (Index 68): 17% concentration, no heating, no mixing, 0 rest days, 0 wait time, 50% RH, no nitrogen
+- 270.69 bar (Index 19): 17% concentration, heating at 50°C, no mixing, 1 rest day, 0 wait time, 96% RH, no nitrogen
+- 242.92 bar (Index 40): 17% concentration, no heating, no mixing, 0 rest days, 0 wait time, 68% RH, nitrogen from side
+
+## Key Parameter Trends
+1. **Concentration**: Higher concentrations (17%) generally yield higher modulus values
+2. **Mixing**: Non-mixed solutions (Mixed: False) tend to perform better
+3. **Relative Humidity**: Lower RH (around 50%) appears beneficial
+4. **Wait Time**: Immediate immersion (0 min) generally performs better
+5. **Rest Time**: 0-1 days seems optimal
+
+## Recommended Next Experiment
+Based on these observations, I recommend the following parameters:
+
+- **Auto**: True
+- **Heating**: False
+- **Concentration**: 20.0 (pushing to upper limit of range)
+- **Heating Block Temperature**: 25
+- **Mixed**: False
+- **Rest Time (days)**: 0
+- **Coupon-to-Bath Wait Time (min)**: 0.0
+- **Relative Humidity**: 45 (slightly lower than best performing)
+- **Nitrogen (Side from drop)**: 1
+- **Nitrogen (After blade)**: 0
+
+This combination leverages the highest concentration within range, immediate immersion, low humidity, and nitrogen flow from the side, which should maximize the elastic modulus based on the observed trends.",211.5086541241532,296.35081017123304,Continuing
+32,46,Index: 32; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 0; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 67; Nitrogen (Side from drop): 1; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I've analyzed the patterns that lead to higher elastic modulus values. The highest modulus observed was 277.39 bar (Index 68), followed by 270.69 bar (Index 5) and 242.92 bar (Index 40).
+
+## Key Observations:
+1. Lower relative humidity (around 50%) tends to produce higher modulus values
+2. Concentration of 17% generally yields better results than lower concentrations
+3. Zero coupon-to-bath wait time is associated with higher modulus in most cases
+4. Nitrogen flow from the side appears beneficial in several high-modulus cases
+5. No heating generally performs better than heating
+
+## Recommended Next Experimental Parameters:
+
+- **Auto**: True
+- **Heating**: False
+- **Concentration**: 20.0 (pushing to the upper limit of the range)
+- **Heating Block Temperature**: 25
+- **Mixed**: False
+- **Rest Time (days)**: 0
+- **Coupon-to-Bath Wait Time (min)**: 0.0
+- **Relative Humidity**: 45 (pushing slightly lower than previous best)
+- **Nitrogen (Side from drop)**: 1
+- **Nitrogen (After blade)**: 0
+
+This combination builds on the successful parameters from experiments with high modulus values while strategically pushing concentration higher and humidity lower to potentially achieve even better mechanical properties.",242.41091008794928,296.35081017123304,Continuing
+33,57,Index: 53; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 0; Coupon-to-Bath Wait Time (min): 10.0; Relative Humidity: 68; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"# Recommendation for Next Experiment to Maximize Modulus
+
+Based on the provided experimental data, I've analyzed the patterns that lead to higher elastic modulus values. The highest observed modulus was 277.39 bar (Index 68), followed by 270.69 bar (Index 5) and 242.92 bar (Index 52).
+
+## Recommended Experimental Parameters:
+
+- **Index**: Next available number
+- **Auto**: True
+- **Heating**: False
+- **Concentration**: 17.0%
+- **Heating Block Temperature**: 25°C
+- **Mixed**: False
+- **Rest Time (days)**: 0
+- **Coupon-to-Bath Wait Time (min)**: 0.0
+- **Relative Humidity**: 45%
+- **Nitrogen (Side from drop)**: 1
+- **Nitrogen (After blade)**: 0
+
+## Rationale:
+
+1. **Concentration**: Higher polymer concentrations (17%) consistently produced higher modulus values.
+2. **Relative Humidity**: Lower humidity (45-50%) appears to favor higher modulus.
+3. **Nitrogen flow from side**: This parameter showed positive effects in several high-modulus experiments.
+4. **No heating**: The highest modulus values were achieved without heating.
+5. **No mixing**: Unmixed solutions generally performed better for high concentration polymers.
+6. **Zero wait time**: Immediate immersion in the non-solvent bath appears optimal.
+7. **Fresh solution**: 0 days rest time has produced excellent results in several experiments.
+
+This recommendation combines the most promising parameters observed in the highest-performing experiments while slightly pushing the relative humidity lower than previous tests to explore if further improvements can be achieved.",296.35081017123304,296.35081017123304,Max modulus reached

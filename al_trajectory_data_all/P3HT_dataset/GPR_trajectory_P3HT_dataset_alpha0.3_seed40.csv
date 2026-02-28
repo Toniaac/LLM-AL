@@ -1,0 +1,4 @@
+Iteration,Index,Observed Target Value,Predicted Target Value,Uncertainty,Max Conductivity in Dataset,Stopping Reason
+1,118,529.11,0.0006521635633758439,475.4600048216807,1243.67,Continuing
+2,119,535.99,498.6573341072324,46.66054028003458,1243.67,Continuing
+3,128,1243.67,511.64136326248286,38.306271837306355,1243.67,Max Conductivity reached

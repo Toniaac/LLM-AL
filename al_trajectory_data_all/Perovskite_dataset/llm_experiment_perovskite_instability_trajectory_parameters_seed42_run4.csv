@@ -1,0 +1,315 @@
+Iteration,Experiment Index,Experiment Parameters,Suggested Parameters,Observed Instability Index,Min Instability Index in Dataset,Stopping Reason
+0,28,Initial Selection,N/A,57484,23707,Initial selection
+1,52,"CsPbI: 0.84, FAPbI: 0.0, MAPbI: 0.16, Instability index: 456484.0","Based on the prior observation, I'll suggest a new perovskite composition to test with potentially improved stability.
+
+The observation shows a composition with CsPbI = 0.16, FAPbI = 0.84, and MAPbI = 0.0, which resulted in an instability index of 57484.0 (where lower values would indicate better stability).
+
+For my suggestion, I'll recommend:
+
+**CsPbI: 0.25, FAPbI: 0.75, MAPbI: 0.0**
+
+Rationale:
+- Increasing the CsPbI content from 0.16 to 0.25 may improve stability, as cesium cations are known to enhance structural stability in perovskites
+- Slightly reducing the FAPbI content to maintain the proper stoichiometry
+- Keeping MAPbI at 0 since the prior formulation didn't include it, and introducing it without more data points might be risky
+
+This composition maintains the binary mixture approach while shifting toward higher cesium content, which often contributes to better thermal and moisture stability in perovskite structures.",456484,23707,Continuing
+2,51,"CsPbI: 0.84, FAPbI: 0.0, MAPbI: 0.16, Instability index: 293210.0","Based on the provided observations, I'll suggest a new perovskite composition to test for improved stability.
+
+The data shows:
+- Composition 1: CsPbI (0.16), FAPbI (0.84), MAPbI (0.0) had an instability index of 57,484
+- Composition 2: CsPbI (0.84), FAPbI (0.0), MAPbI (0.16) had a much higher instability index of 456,484
+
+The first composition with higher FAPbI content showed significantly better stability (lower instability index). This suggests that increasing the FAPbI component while maintaining some CsPbI might be beneficial.
+
+For the next composition to test, I suggest:
+
+CsPbI: 0.25
+FAPbI: 0.75
+MAPbI: 0.0
+
+This composition:
+- Slightly increases CsPbI from the more stable composition
+- Maintains a high FAPbI content
+- Continues to exclude MAPbI which was present in the less stable composition
+
+This will help determine if a slightly higher CsPbI content can further improve stability while maintaining the benefits of the FAPbI-rich composition.",293210,23707,Continuing
+3,29,"CsPbI: 0.16, FAPbI: 0.84, MAPbI: 0.0, Instability index: 286689.0","Based on the provided experimental data, I'll suggest a new perovskite composition to test with potentially improved stability.
+
+Looking at the data:
+1. Cs₀.₁₆FA₀.₈₄Pb₁I₃ had an instability index of 57,484 (lowest/best)
+2. Cs₀.₈₄MA₀.₁₆Pb₁I₃ had instability indices of 456,484 and 293,210 (much higher/worse)
+
+The composition with the highest FA content and lowest Cs content showed the best stability. This suggests we should explore compositions with higher FA content.
+
+I recommend testing:
+**Cs₀.₁₀FA₀.₉₀MA₀.₀₀Pb₁I₃**
+
+This composition:
+- Increases the FA content from 0.84 to 0.90
+- Decreases the Cs content from 0.16 to 0.10
+- Maintains zero MA content (as MA appears to worsen stability)
+
+This follows the trend that higher FA content appears to improve stability while keeping within the specified component ranges.",286689,23707,Continuing
+4,86,"CsPbI: 0.2, FAPbI: 0.8, MAPbI: 0.0, Instability index: 91681.0","Based on the experimental data provided, I'll suggest the next composition to test for improved stability.
+
+Looking at the instability indices:
+- CsPbI: 0.16, FAPbI: 0.84, MAPbI: 0.0 showed instability indices of 57484 and 286689
+- CsPbI: 0.84, FAPbI: 0.0, MAPbI: 0.16 showed instability indices of 456484 and 293210
+
+The composition with CsPbI: 0.16, FAPbI: 0.84, MAPbI: 0.0 showed the lowest instability index (57484), suggesting that higher FAPbI content with some CsPbI might be promising for stability.
+
+For the next test, I suggest:
+CsPbI: 0.20, FAPbI: 0.80, MAPbI: 0.00
+
+This slightly increases the CsPbI content while maintaining a high FAPbI content, which could potentially improve stability while building on the most promising composition observed so far.",91681,23707,Continuing
+5,2,"CsPbI: 0.25, FAPbI: 0.75, MAPbI: 0.0, Instability index: 144074.0","Based on the experimental data provided, I'll suggest the next composition to test for improved stability.
+
+Looking at the instability indices:
+- CsPbI: 0.16, FAPbI: 0.84, MAPbI: 0.0 → Instability: 57484 and 286689
+- CsPbI: 0.2, FAPbI: 0.8, MAPbI: 0.0 → Instability: 91681
+- CsPbI: 0.84, FAPbI: 0.0, MAPbI: 0.16 → Instability: 456484 and 293210
+
+The composition with CsPbI: 0.16, FAPbI: 0.84, MAPbI: 0.0 showed the lowest instability index (57484) in one test, and increasing CsPbI slightly to 0.2 while keeping MAPbI at 0 showed a moderate instability (91681).
+
+For the next composition, I suggest:
+
+Parameters: CsPbI: 0.25, FAPbI: 0.75, MAPbI: 0.0
+
+This continues the trend of slightly increasing the CsPbI content while maintaining FAPbI as the dominant component and excluding MAPbI, which appears in compositions with higher instability indices.",144074,23707,Continuing
+6,85,"CsPbI: 0.18, FAPbI: 0.82, MAPbI: 0.0, Instability index: 27122.0","Based on the experimental data provided, I'll suggest the next composition to test for improved stability.
+
+Looking at the instability indices, I notice that the lowest instability index (57,484) was observed with the composition:
+CsPbI: 0.16, FAPbI: 0.84, MAPbI: 0.0
+
+The second lowest instability index (91,681) was observed with:
+CsPbI: 0.2, FAPbI: 0.8, MAPbI: 0.0
+
+This suggests that compositions with higher FAPbI content and lower CsPbI content (with no MAPbI) tend to have better stability. However, when CsPbI was increased to 0.25, the instability increased again.
+
+For the next experiment, I suggest testing:
+CsPbI: 0.18, FAPbI: 0.82, MAPbI: 0.0
+
+This composition falls between the two most stable compositions observed so far, allowing us to better understand if there's an optimal CsPbI content between 0.16 and 0.20 that might further improve stability.",27122,23707,Continuing
+7,58,"CsPbI: 0.19, FAPbI: 0.81, MAPbI: 0.0, Instability index: 221696.0","Based on the experimental data provided, I notice that compositions with CsPbI and FAPbI (without MAPbI) have shown the lowest instability indices, with the best result coming from CsPbI: 0.18, FAPbI: 0.82, MAPbI: 0.0 (instability index: 27122).
+
+Looking at the trend, there appears to be a sweet spot in the CsPbI/FAPbI ratio that minimizes instability. Since the composition with CsPbI: 0.18, FAPbI: 0.82 performed significantly better than both CsPbI: 0.16, FAPbI: 0.84 and CsPbI: 0.2, FAPbI: 0.8, I would suggest exploring compositions very close to this optimal point.
+
+For the next composition to test, I suggest:
+
+CsPbI: 0.19, FAPbI: 0.81, MAPbI: 0.0
+
+This composition continues the exploration around the promising region where we've seen the lowest instability index, moving slightly toward higher CsPbI content to determine if the optimal point lies between 0.18 and 0.20 for CsPbI.",221696,23707,Continuing
+8,53,"CsPbI: 0.83, FAPbI: 0.0, MAPbI: 0.17, Instability index: 374938.0","Based on the experimental data provided, I notice that the composition with CsPbI: 0.18, FAPbI: 0.82, MAPbI: 0.0 showed the lowest instability index (27122), which is significantly better than the other tested compositions.
+
+Looking at the pattern, it appears that compositions with higher FAPbI content and lower CsPbI content (around 0.16-0.20) tend to perform better, while compositions with high CsPbI content (0.84) showed much higher instability indices. Additionally, the compositions without MAPbI generally performed better.
+
+For the next experiment, I suggest testing:
+
+Parameters: CsPbI: 0.17, FAPbI: 0.83, MAPbI: 0.0
+
+This composition is between the two best performing samples (CsPbI: 0.16, FAPbI: 0.84, MAPbI: 0.0 with instability index 57484, and CsPbI: 0.18, FAPbI: 0.82, MAPbI: 0.0 with instability index 27122). Since we're seeing good results in this narrow range, fine-tuning the composition could potentially yield even better stability.",374938,23707,Continuing
+9,66,"CsPbI: 0.16, FAPbI: 0.83, MAPbI: 0.01, Instability index: 284939.0","Based on the experimental data provided, I notice that the lowest instability index (27122) was achieved with the composition:
+CsPbI: 0.18, FAPbI: 0.82, MAPbI: 0.0
+
+The data suggests that compositions with CsPbI around 0.16-0.20 and FAPbI around 0.80-0.84 (with no MAPbI) tend to perform better than compositions with high CsPbI and some MAPbI.
+
+For the next experiment, I recommend testing:
+
+CsPbI: 0.17, FAPbI: 0.83, MAPbI: 0.0
+
+This composition explores the space between the two best performing samples (CsPbI: 0.16, FAPbI: 0.84 with instability index 57484 and CsPbI: 0.18, FAPbI: 0.82 with instability index 27122) to potentially find an even more stable composition.",284939,23707,Continuing
+10,67,"CsPbI: 0.17, FAPbI: 0.82, MAPbI: 0.01, Instability index: 227835.0","Based on the experimental data provided, I notice that the composition with the lowest instability index (27122) is:
+CsPbI: 0.18, FAPbI: 0.82, MAPbI: 0.0
+
+This suggests that compositions with CsPbI around 0.18 and FAPbI around 0.82, without MAPbI, show promising stability. Since we want to explore compositions with improved stability, I recommend testing a composition that's slightly different from this best performer to see if we can further reduce the instability index.
+
+My recommendation for the next composition to test is:
+CsPbI: 0.17, FAPbI: 0.83, MAPbI: 0.0
+
+This composition explores the space between the best performer (CsPbI: 0.18, FAPbI: 0.82, MAPbI: 0.0) and another relatively good performer (CsPbI: 0.16, FAPbI: 0.84, MAPbI: 0.0) which had an instability index of 57484.",227835,23707,Continuing
+11,116,"CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03, Instability index: 26197.0","Based on the experimental data provided, I notice that the composition with the lowest instability index (27122) is:
+CsPbI: 0.18, FAPbI: 0.82, MAPbI: 0.0
+
+This suggests that compositions with CsPbI around 0.18 and FAPbI around 0.82, without MAPbI, show promising stability. Since we're trying to find compositions with improved stability (lower instability index), I recommend exploring nearby compositions to this optimal point.
+
+For the next experiment, I suggest testing:
+
+CsPbI: 0.17, FAPbI: 0.83, MAPbI: 0.0
+
+This composition is close to the best performing one but hasn't been tested yet. It maintains the absence of MAPbI which seems beneficial based on the data, while slightly adjusting the CsPbI/FAPbI ratio to explore if further improvements in stability can be achieved.",26197,23707,Continuing
+12,119,"CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03, Instability index: 119938.0","Based on the experimental data provided, I'll suggest the next composition to test for improved stability.
+
+Looking at the data, I notice that the lowest instability indices were observed for:
+1. CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03 (Instability index: 26197)
+2. CsPbI: 0.18, FAPbI: 0.82, MAPbI: 0.0 (Instability index: 27122)
+
+These compositions show significantly better stability than the others. The data suggests that compositions with CsPbI around 0.17-0.18 and FAPbI around 0.80-0.82 perform well, with a small amount of MAPbI (0-0.03) potentially being beneficial.
+
+For the next composition to test, I suggest:
+
+CsPbI: 0.17, FAPbI: 0.81, MAPbI: 0.02
+
+This composition:
+- Maintains the CsPbI at 0.17, which appears optimal
+- Uses FAPbI at 0.81, between the two best performing compositions
+- Includes MAPbI at 0.02, which is between 0 and 0.03 (the values in the two most stable compositions)
+
+This should help determine if a small amount of MAPbI consistently improves stability in this compositional region.",119938,23707,Continuing
+13,118,"CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03, Instability index: 107494.0","Based on the experimental data provided, I'll suggest the next composition to test for improved stability.
+
+Looking at the data, I notice that the lowest instability indices were observed for:
+1. CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03 (instability index: 26197)
+2. CsPbI: 0.18, FAPbI: 0.82, MAPbI: 0.0 (instability index: 27122)
+
+These compositions show significantly better stability than others. Since the composition with CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03 showed the best stability, I would suggest exploring nearby compositions with slight variations.
+
+My recommendation for the next composition to test is:
+
+CsPbI: 0.17, FAPbI: 0.79, MAPbI: 0.04
+
+This slightly increases the MAPbI content while maintaining the CsPbI proportion that has shown good results, with a small adjustment to FAPbI to maintain the total at 1.0.",107494,23707,Continuing
+14,117,"CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03, Instability index: 38370.0","Based on the experimental data provided, I notice that the composition with the lowest instability index (27122) was:
+CsPbI: 0.18, FAPbI: 0.82, MAPbI: 0.0
+
+The second lowest instability index (26197) was observed with:
+CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03
+
+These results suggest that compositions with CsPbI around 0.17-0.18 and high FAPbI content (0.80-0.82) perform well, with small amounts of MAPbI potentially being beneficial.
+
+For the next composition to test, I suggest:
+
+CsPbI: 0.18, FAPbI: 0.79, MAPbI: 0.03
+
+This composition combines the optimal CsPbI content from the best performing sample with the small MAPbI addition that showed promise in the second-best sample, while maintaining a high FAPbI content.",38370,23707,Continuing
+15,101,"CsPbI: 0.12, FAPbI: 0.81, MAPbI: 0.07, Instability index: 239057.0","Based on the experimental data provided, I notice that the composition with the lowest instability index (27122) is:
+CsPbI: 0.18, FAPbI: 0.82, MAPbI: 0.0
+
+The second lowest instability index (26197) is for:
+CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03
+
+Since we're looking for improved stability (lower instability index), I suggest exploring a composition that combines elements from these two most stable formulations:
+
+Suggested next composition to test:
+CsPbI: 0.18, FAPbI: 0.81, MAPbI: 0.01
+
+This composition maintains the CsPbI ratio from the most stable formulation while incorporating a small amount of MAPbI that appears beneficial in the second most stable formulation, with a slight adjustment to FAPbI to maintain the sum of 1.0.",239057,23707,Continuing
+16,98,"CsPbI: 0.18, FAPbI: 0.78, MAPbI: 0.04, Instability index: 147202.0","Based on the experimental data provided, I notice that the lowest instability indices were observed for:
+
+1. CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03 (instability index: 26197)
+2. CsPbI: 0.18, FAPbI: 0.82, MAPbI: 0.0 (instability index: 27122)
+3. CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03 (instability index: 38370)
+
+The composition with CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03 appears twice with good results, suggesting this region is promising. I recommend exploring a slight variation of this composition:
+
+Suggested next composition to test:
+CsPbI: 0.17, FAPbI: 0.79, MAPbI: 0.04
+
+This composition maintains the successful CsPbI content at 0.17 while slightly adjusting the balance between FAPbI and MAPbI to explore whether a small increase in MAPbI content might further improve stability.",147202,23707,Continuing
+17,54,"CsPbI: 0.81, FAPbI: 0.0, MAPbI: 0.19, Instability index: 376516.0","Based on the experimental data provided, I'll suggest the next composition to test for improved stability.
+
+Looking at the data, I notice that the lowest instability indices were observed for:
+1. CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03 (26197)
+2. CsPbI: 0.18, FAPbI: 0.82, MAPbI: 0.0 (27122)
+3. CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03 (38370)
+
+These compositions appear to be in a promising region. I notice that compositions with CsPbI around 0.17-0.18, FAPbI around 0.80-0.82, and small amounts of MAPbI (0-0.03) tend to show better stability.
+
+For the next test, I suggest:
+
+Parameters: CsPbI: 0.17, FAPbI: 0.81, MAPbI: 0.02
+
+This composition explores the space between the two most stable compositions found so far, potentially finding an optimal balance between the three components.",376516,23707,Continuing
+18,55,"CsPbI: 0.81, FAPbI: 0.0, MAPbI: 0.19, Instability index: 463506.0","Based on the experimental data provided, I'll suggest the next composition to test for improved stability.
+
+Looking at the data, I notice that the lowest instability indices were observed for:
+1. CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03 (instability index: 26197)
+2. CsPbI: 0.18, FAPbI: 0.82, MAPbI: 0.0 (instability index: 27122)
+3. CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03 (instability index: 38370)
+
+These compositions suggest that a combination of CsPbI around 0.17-0.18, FAPbI around 0.8-0.82, and a small amount or absence of MAPbI leads to better stability.
+
+For the next composition to test, I suggest:
+
+CsPbI: 0.17, FAPbI: 0.81, MAPbI: 0.02
+
+This composition:
+- Maintains the CsPbI at 0.17, which appears in the most stable compositions
+- Uses a FAPbI value of 0.81, which is between the values in the most stable compositions
+- Includes a small amount of MAPbI (0.02), which is between 0 and 0.03 found in the stable compositions
+- The total sum equals 1.00 as required",463506,23707,Continuing
+19,43,"CsPbI: 0.8, FAPbI: 0.11, MAPbI: 0.09, Instability index: 228347.0","Based on the experimental data provided, I'll suggest the next composition to test for improved stability.
+
+Looking at the data, I notice that the lowest instability indices were observed for:
+1. CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03 (26197)
+2. CsPbI: 0.18, FAPbI: 0.82, MAPbI: 0.0 (27122)
+3. CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03 (38370)
+
+These compositions show significantly better stability than others. The data suggests that compositions with CsPbI around 0.17-0.18, FAPbI around 0.80-0.82, and very low MAPbI (0-0.03) tend to perform best.
+
+For the next experiment, I suggest testing:
+
+CsPbI: 0.17, FAPbI: 0.81, MAPbI: 0.02
+
+This composition is within the promising region we've identified, slightly adjusting the ratios to explore the space between the best-performing compositions we've seen so far.",228347,23707,Continuing
+20,50,"CsPbI: 0.83, FAPbI: 0.03, MAPbI: 0.14, Instability index: 199330.0","Based on the experimental data provided, I'll suggest the next composition to test for improved stability.
+
+Looking at the data, I notice that the lowest instability indices were observed in these compositions:
+- CsPbI: 0.18, FAPbI: 0.82, MAPbI: 0.0 (Instability index: 27122)
+- CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03 (Instability index: 26197)
+- CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03 (Instability index: 38370)
+
+The most stable composition appears to be around CsPbI: 0.17-0.18, with high FAPbI content (0.8-0.82) and either no or very small amounts of MAPbI (0-0.03).
+
+For the next experiment, I suggest testing:
+
+Parameters: CsPbI: 0.17, FAPbI: 0.81, MAPbI: 0.02
+
+This composition explores the space between the most stable compositions identified so far, with a slight adjustment to the FAPbI content while maintaining the promising CsPbI level and a small amount of MAPbI.",199330,23707,Continuing
+21,127,"CsPbI: 0.13, FAPbI: 0.79, MAPbI: 0.08, Instability index: 184086.0","Based on the experimental data provided, I'll suggest the next composition to test for improved stability.
+
+Looking at the data, I notice that the lowest instability indices were observed in these compositions:
+- CsPbI: 0.18, FAPbI: 0.82, MAPbI: 0.0 (Instability index: 27122)
+- CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03 (Instability index: 26197)
+- CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03 (Instability index: 38370)
+
+The most stable composition appears to be around CsPbI: 0.17-0.18, with high FAPbI content (0.8-0.82) and either no or very low MAPbI (0-0.03).
+
+For the next experiment, I suggest testing:
+
+Parameters: CsPbI: 0.17, FAPbI: 0.81, MAPbI: 0.02
+
+This composition explores the space between the most stable compositions identified so far, maintaining the CsPbI at the apparently optimal level while slightly adjusting the FAPbI:MAPbI ratio to potentially find an even more stable formulation.",184086,23707,Continuing
+22,84,"CsPbI: 0.13, FAPbI: 0.87, MAPbI: 0.0, Instability index: 24723.0","Based on the experimental data provided, I'll suggest the next composition to test for improved stability.
+
+Looking at the data, I notice that the lowest instability indices were observed in these compositions:
+- CsPbI: 0.18, FAPbI: 0.82, MAPbI: 0.0 (Instability index: 27122)
+- CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03 (Instability index: 26197)
+- CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03 (Instability index: 38370)
+
+The most stable composition appears to be around CsPbI: 0.17-0.18, FAPbI: 0.8-0.82, with either no MAPbI or a small amount (0.03).
+
+For the next test, I suggest exploring a composition that's in this promising region but hasn't been tested yet:
+
+Parameters: CsPbI: 0.17, FAPbI: 0.81, MAPbI: 0.02
+
+This composition is within the range of the most stable formulations observed so far, and it explores a slightly different ratio that might reveal more about the optimal stability point.",24723,23707,Continuing
+23,112,"CsPbI: 0.13, FAPbI: 0.87, MAPbI: 0.0, Instability index: 23707.0","Based on the experimental data provided, I'll suggest the next composition to test for improved stability.
+
+Looking at the data, I notice that the lowest instability indices were observed in these compositions:
+- CsPbI: 0.13, FAPbI: 0.87, MAPbI: 0.0 (Instability index: 24723)
+- CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03 (Instability index: 26197)
+- CsPbI: 0.18, FAPbI: 0.82, MAPbI: 0.0 (Instability index: 27122)
+
+The data suggests that compositions with:
+1. Higher FAPbI content (around 0.8-0.87)
+2. Lower CsPbI content (around 0.13-0.18)
+3. Very low or zero MAPbI content
+
+tend to have better stability (lower instability indices).
+
+For the next composition to test, I suggest:
+
+**CsPbI: 0.14, FAPbI: 0.86, MAPbI: 0.0**
+
+This composition explores the space between the two most stable compositions observed so far, focusing on the promising region with high FAPbI content and no MAPbI.",23707,23707,Min instability index reached

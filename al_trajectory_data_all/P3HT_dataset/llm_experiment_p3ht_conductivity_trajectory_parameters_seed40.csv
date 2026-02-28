@@ -1,0 +1,1321 @@
+Iteration,Experiment Index,Experiment Parameters,Suggested Parameters,Observed Conductivity,Max Conductivity in Dataset,Stopping Reason
+0,117,Initial Selection,N/A,475.46,1243.67,Initial selection
+1,118,"P3HT content (%): 42.33, D1 content (%): 51.83, D2 content (%): 2.75, D6 content (%): 2.87, D8 content (%): 0.32, Conductivity (measured) (S/cm): 529.11","Based on the prior observation, I'll suggest a new composition to test that aims to increase the electrical conductivity of the P3HT/CNT thin films.
+
+The previous composition with high conductivity (475.46 S/cm) had:
+- P3HT: 42.33%
+- D1: 51.83%
+- D2: 2.75%
+- D6: 2.87%
+- D8: 0.32%
+
+Since D1 appears to be the dominant carbon nanotube component in this successful formulation, I suggest increasing its concentration while slightly adjusting the other components. D1 seems to work well with P3HT for conductivity.
+
+Suggested next composition to test:
+- P3HT: 40.00%
+- D1: 55.00%
+- D2: 2.00%
+- D6: 2.50%
+- D8: 0.50%
+
+This composition maintains a similar P3HT:CNT ratio but increases the proportion of the D1 component that appears beneficial for conductivity while staying within the specified component ranges.",529.11,1243.67,Continuing
+2,122,"P3HT content (%): 44.75, D1 content (%): 52.92, D2 content (%): 0.21, D6 content (%): 1.32, D8 content (%): 0.84, Conductivity (measured) (S/cm): 543.75","Based on the prior observations, I'll suggest a new composition to test that aims to maximize electrical conductivity in the P3HT/CNT thin films.
+
+The two data points show relatively high conductivity (475.46 S/cm and 529.11 S/cm) with similar compositions. Both have high D1 content (~52%) and moderate P3HT content (~42%), with very small amounts of the other components.
+
+For the next test, I recommend:
+
+P3HT content (%): 40.00
+D1 content (%): 55.00
+D2 content (%): 2.00
+D6 content (%): 2.50
+D8 content (%): 0.50
+
+Rationale:
+- Slightly increased D1 content since both samples with high D1 showed good conductivity
+- Slightly decreased P3HT to accommodate the D1 increase
+- Maintained similar small amounts of D2 and D6
+- Slightly increased D8 to explore if a small increase might be beneficial
+- All values remain within the specified component ranges
+
+This composition maintains the overall proportions that have shown success while making small adjustments to potentially optimize conductivity further.",543.75,1243.67,Continuing
+3,219,"P3HT content (%): 46.51, D1 content (%): 49.51, D2 content (%): 2.06, D6 content (%): 1.06, D8 content (%): 0.89, Conductivity (measured) (S/cm): 545.18","Based on the experimental data provided, I'll suggest a new composition to test that aims to maximize electrical conductivity in P3HT/CNT thin films.
+
+Looking at the trends in the data:
+1. The highest conductivity (543.75 S/cm) was achieved with a composition containing higher P3HT (44.75%) and D1 (52.92%) compared to the other samples
+2. This best-performing sample had lower amounts of D2, D6, and D8
+3. There appears to be a positive correlation between conductivity and the combined P3HT+D1 content
+
+For the next composition to test, I suggest:
+
+P3HT content (%): 46.00
+D1 content (%): 54.00
+D2 content (%): 0.00
+D6 content (%): 0.00
+D8 content (%): 0.00
+
+This composition:
+- Slightly increases both P3HT and D1 content from the best-performing sample
+- Eliminates the minor components (D2, D6, D8) to focus on the two components that appear most beneficial
+- Maintains the total composition at 100%
+- Stays within the specified component ranges",545.18,1243.67,Continuing
+4,172,"P3HT content (%): 45.8, D1 content (%): 47.25, D2 content (%): 3.24, D6 content (%): 2.7, D8 content (%): 1.1, Conductivity (measured) (S/cm): 542.3","Based on the experimental data provided, I'll suggest a new composition to test that aims to maximize electrical conductivity in P3HT/CNT thin films.
+
+Looking at the trends in the data:
+1. The highest conductivity (545.18 S/cm) was achieved with P3HT at 46.51% and D1 at 49.51%
+2. There appears to be a positive correlation between P3HT content and conductivity (increasing from 42.33% to 46.51%)
+3. D1 seems to be an important component, consistently around 49-53%
+4. Lower amounts of D2, D6, and D8 appear favorable
+
+I suggest testing the following composition:
+
+P3HT content (%): 48.00
+D1 content (%): 50.00
+D2 content (%): 1.00
+D6 content (%): 0.50
+D8 content (%): 0.50
+
+This composition:
+- Slightly increases P3HT content to continue the positive trend
+- Maintains a high D1 content similar to the best-performing samples
+- Reduces the minor components (D2, D6, D8) while maintaining their presence
+- Ensures all components sum to 100%
+- Stays within the specified component ranges",542.3,1243.67,Continuing
+5,150,"P3HT content (%): 47.2, D1 content (%): 49.49, D2 content (%): 2.01, D6 content (%): 0.31, D8 content (%): 1.01, Conductivity (measured) (S/cm): 348.88","Based on the experimental data provided, I'll suggest a new composition to test that aims to maximize electrical conductivity in the P3HT/CNT thin films.
+
+Looking at the trends in the data:
+- The highest conductivity (545.18 S/cm) was achieved with P3HT at 46.51%, D1 at 49.51%, moderate D2 (2.06%), low D6 (1.06%), and low D8 (0.89%)
+- The second highest conductivity (543.75 S/cm) had similar P3HT content (44.75%) but higher D1 (52.92%)
+- The compositions with the highest conductivities all have P3HT in the 44-47% range and D1 in the 47-53% range
+
+I suggest testing the following composition:
+
+P3HT content (%): 47.00
+D1 content (%): 50.00
+D2 content (%): 1.50
+D6 content (%): 1.00
+D8 content (%): 0.50
+
+This composition:
+- Slightly increases P3HT from the best-performing sample
+- Maintains D1 at around 50% (which appears optimal)
+- Uses moderate D2 content between the two best performers
+- Keeps D6 low as in the best-performing samples
+- Maintains low D8 content
+
+The total adds up to 100%, and all components are within the specified ranges.",348.88,1243.67,Continuing
+6,145,"P3HT content (%): 46.05, D1 content (%): 49.9, D2 content (%): 2.22, D6 content (%): 0.77, D8 content (%): 1.09, Conductivity (measured) (S/cm): 291.83","Based on the experimental data provided, I'll suggest a new composition to test that aims to maximize electrical conductivity in the P3HT/CNT thin films.
+
+Looking at the data patterns:
+- The highest conductivity (545.18 S/cm) was achieved with P3HT at 46.51%, D1 at 49.51%, moderate D2 at 2.06%, low D6 at 1.06%, and low D8 at 0.89%
+- The second highest (543.75 S/cm) had P3HT at 44.75%, higher D1 at 52.92%, very low D2 at 0.21%, similar D6 at 1.32%, and similar D8 at 0.84%
+- The third highest (542.3 S/cm) had P3HT at 45.8%, D1 at 47.25%, higher D2 at 3.24%, higher D6 at 2.7%, and slightly higher D8 at 1.1%
+
+I notice that optimal conductivity appears when:
+- P3HT is between 44-47%
+- D1 is between 47-53%
+- D2 is kept relatively low (0.2-3.2%)
+- D6 is kept low (0.3-2.7%)
+- D8 is kept very low (0.8-1.1%)
+
+My suggested next composition to test is:
+
+P3HT: 47.0%
+D1: 50.0%
+D2: 1.5%
+D6: 1.0%
+D8: 0.5%
+
+This composition maintains the P3HT and D1 in their optimal ranges while slightly adjusting the minor components to explore if we can further improve conductivity.",291.83,1243.67,Continuing
+7,120,"P3HT content (%): 47.05, D1 content (%): 49.93, D2 content (%): 0.7, D6 content (%): 1.63, D8 content (%): 0.73, Conductivity (measured) (S/cm): 540.19","Based on the experimental data provided, I'll suggest a new composition to test that aims to maximize electrical conductivity in the P3HT/CNT thin films.
+
+Looking at the data patterns:
+- The highest conductivity (545.18 S/cm) was achieved with: P3HT (46.51%), D1 (49.51%), D2 (2.06%), D6 (1.06%), D8 (0.89%)
+- The second highest (543.75 S/cm) had: P3HT (44.75%), D1 (52.92%), D2 (0.21%), D6 (1.32%), D8 (0.84%)
+- The third highest (542.3 S/cm) had: P3HT (45.8%), D1 (47.25%), D2 (3.24%), D6 (2.7%), D8 (1.1%)
+
+I observe that:
+1. P3HT content around 45-47% appears optimal
+2. D1 content around 47-53% works well
+3. Small amounts of D2, D6, and D8 are beneficial
+4. The best results have a combined P3HT+D1 content of ~95%
+
+My suggested composition for testing:
+
+P3HT: 47.0%
+D1: 50.0%
+D2: 1.5%
+D6: 1.0%
+D8: 0.5%
+
+This composition builds on the most successful formulations while slightly adjusting the ratios to explore if we can further optimize the conductivity.",540.19,1243.67,Continuing
+8,123,"P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 552.26","Based on the experimental data provided, I'll suggest a new composition to test that aims to maximize electrical conductivity in the P3HT/CNT thin films.
+
+Looking at the data patterns:
+- The highest conductivity (545.18 S/cm) was achieved with: P3HT (46.51%), D1 (49.51%), D2 (2.06%), D6 (1.06%), D8 (0.89%)
+- Other high-performing compositions (>540 S/cm) have P3HT content between 44.75-47.05% and D1 content between 47.25-52.92%
+- The ratio between P3HT and D1 appears important, with the best results showing roughly equal proportions
+- Small amounts of D2, D6, and D8 seem beneficial when properly balanced
+
+For the next composition to test, I suggest:
+
+P3HT: 47.00%
+D1: 49.00% 
+D2: 2.10%
+D6: 1.20%
+D8: 0.70%
+
+This composition:
+- Maintains the successful P3HT:D1 ratio seen in high-performing samples
+- Slightly increases P3HT from the best-performing sample while keeping D1 similar
+- Uses the D2 content close to the optimal value from the best sample
+- Slightly increases D6 compared to the best sample
+- Adjusts D8 to a value that worked well in high-conductivity samples
+- Ensures all components sum to 100%
+
+All values fall within the specified component ranges.",552.26,1243.67,Continuing
+9,116,"P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 452.8","Based on the experimental data provided, I'll analyze the trends to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I notice:
+
+1. The highest conductivity (552.26 S/cm) was achieved with:
+   - P3HT: 44.3%
+   - D1: 54.68%
+   - D2: 0.04%
+   - D6: 0.29%
+   - D8: 0.78%
+
+2. Other high-performing compositions (>540 S/cm) generally have:
+   - P3HT: 44-47%
+   - D1: 49-55%
+   - Very low D2 content (especially the highest performer)
+   - Low to moderate D6 content
+   - Low D8 content (0.7-0.9%)
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT: 45.0%
+D1: 53.5%
+D2: 0.0%
+D6: 0.7%
+D8: 0.8%
+
+This composition:
+- Maintains P3HT in the optimal range
+- Increases D1 content similar to the best-performing sample
+- Eliminates D2 which appears detrimental at higher concentrations
+- Keeps D6 and D8 at low levels similar to high-performing samples
+- All components are within the specified ranges
+- Components sum to 100%",452.8,1243.67,Continuing
+10,124,"P3HT content (%): 53.99, D1 content (%): 44.58, D2 content (%): 0.04, D6 content (%): 0.54, D8 content (%): 0.89, Conductivity (measured) (S/cm): 554.41","Based on the experimental data provided, I'll analyze the trends to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data points with the highest conductivity values:
+- 552.26 S/cm: P3HT (44.3%), D1 (54.68%), D2 (0.04%), D6 (0.29%), D8 (0.78%)
+- 545.18 S/cm: P3HT (46.51%), D1 (49.51%), D2 (2.06%), D6 (1.06%), D8 (0.89%)
+- 543.75 S/cm: P3HT (44.75%), D1 (52.92%), D2 (0.21%), D6 (1.32%), D8 (0.84%)
+
+I observe that:
+1. P3HT content in the range of 44-47% appears optimal
+2. D1 content around 50-55% yields good results
+3. Lower D2 content (below 2.5%) seems beneficial
+4. Moderate D6 content (0.3-1.5%) works well
+5. D8 content around 0.8% appears in the best performers
+
+For the next composition to test, I suggest:
+
+P3HT content (%): 45.0
+D1 content (%): 53.0
+D2 content (%): 0.1
+D6 content (%): 1.0
+D8 content (%): 0.9
+
+This composition follows the trends from the highest-performing samples while ensuring the components sum to 100% and stay within the specified ranges.",554.41,1243.67,Continuing
+11,38,"P3HT content (%): 54.48, D1 content (%): 0.65, D2 content (%): 0.53, D6 content (%): 0.46, D8 content (%): 43.89, Conductivity (measured) (S/cm): 12.19","Based on the experimental data provided, I'll analyze the trends to suggest a new composition that might yield high electrical conductivity.
+
+Looking at the data, I observe:
+
+1. The highest conductivity (554.41 S/cm) was achieved with:
+   - P3HT: 53.99%
+   - D1: 44.58%
+   - D2: 0.04% (very low)
+   - D6: 0.54% (low)
+   - D8: 0.89% (moderate)
+
+2. Other high-performing compositions (>540 S/cm) generally have:
+   - P3HT: 44-47%
+   - D1: 49-55%
+   - Very low D2 content (often <1%)
+   - Low to moderate D6 content
+   - Low D8 content
+
+3. The trend suggests that higher P3HT content (up to ~54%) combined with moderate D1 content and minimal amounts of other components yields good results.
+
+For my next suggestion, I would recommend:
+
+P3HT content (%): 55.00
+D1 content (%): 43.50
+D2 content (%): 0.10
+D6 content (%): 0.60
+D8 content (%): 0.80
+
+This composition:
+- Slightly increases P3HT from the best-performing sample
+- Maintains a similar D1 content
+- Keeps D2 very low
+- Maintains similar low levels of D6 and D8
+- All components sum to 100%
+- Stays within the specified component ranges",12.19,1243.67,Continuing
+12,100,"P3HT content (%): 48.97, D1 content (%): 50.34, D2 content (%): 0.04, D6 content (%): 0.1, D8 content (%): 0.56, Conductivity (measured) (S/cm): 433.78","Based on the experimental data provided, I'll analyze the trends to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe:
+
+1. The highest conductivity (554.41 S/cm) was achieved with:
+   - P3HT: 53.99%
+   - D1: 44.58%
+   - D2: 0.04%
+   - D6: 0.54%
+   - D8: 0.89%
+
+2. Other high-performing compositions (>540 S/cm) generally have:
+   - P3HT: 44-54%
+   - D1: 44-55%
+   - Very low D2: typically <1%
+   - Low D6: typically <2%
+   - Low D8: typically <1%
+
+3. The composition with very low D1 (0.65%) and high D8 (43.89%) performed poorly (12.19 S/cm).
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT: 52.00%
+D1: 46.50%
+D2: 0.10%
+D6: 0.70%
+D8: 0.70%
+
+This composition:
+- Maintains the P3HT and D1 in the optimal range observed in high-performing samples
+- Keeps D2, D6, and D8 at low levels
+- Slightly adjusts the P3HT:D1 ratio to explore the space between the best-performing compositions
+- Ensures all components sum to 100%
+- Stays within the specified component ranges",433.78,1243.67,Continuing
+13,127,"P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 1089.12","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe:
+
+1. The highest conductivity (554.41 S/cm) was achieved with:
+   P3HT: 53.99%, D1: 44.58%, D2: 0.04%, D6: 0.54%, D8: 0.89%
+
+2. Other high conductivity compositions (>540 S/cm) generally have:
+   - P3HT content between 44-54%
+   - D1 content between 44-55%
+   - Very low D2 content (often <1%)
+   - Low D6 content (<2%)
+   - Low D8 content (<1%)
+
+3. The composition with very low D1 (0.65%) and high D8 (43.89%) performed poorly (12.19 S/cm)
+
+For the next test, I suggest slightly modifying the best-performing composition to explore if we can further improve conductivity:
+
+P3HT content (%): 52.50
+D1 content (%): 46.00
+D2 content (%): 0.10
+D6 content (%): 0.60
+D8 content (%): 0.80
+
+This composition maintains the successful P3HT:D1 ratio while making minor adjustments to the other components, staying within the specified ranges and focusing on the parameter space that has shown the highest conductivity values.",1089.12,1243.67,Continuing
+14,231,"P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 772.94","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I notice:
+
+1. The highest conductivity (1089.12 S/cm) was achieved with: P3HT (44.3%), D1 (54.68%), D2 (0.04%), D6 (0.29%), D8 (0.78%)
+
+2. Another high conductivity (554.41 S/cm) was achieved with: P3HT (53.99%), D1 (44.58%), D2 (0.04%), D6 (0.54%), D8 (0.89%)
+
+3. The composition with P3HT (44.3%), D1 (54.68%), D2 (0.04%), D6 (0.29%), D8 (0.78%) appears three times with varying conductivities (552.26, 452.8, and 1089.12 S/cm), suggesting some variability in measurements or processing conditions.
+
+4. Low D2 content (near 0.04%) appears in the highest performing samples.
+
+5. High D1 content (44-55%) correlates with better performance.
+
+6. Moderate P3HT content (44-54%) seems optimal.
+
+7. Low D6 and D8 contents appear beneficial.
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT: 49.0%
+D1: 50.0% 
+D2: 0.04%
+D6: 0.4%
+D8: 0.56%
+
+This composition combines the successful elements from the highest performing samples: moderate P3HT content, high D1 content, very low D2 content, and low D6 and D8 contents. It aims to explore the space between the two highest performing compositions while maintaining the apparent optimal ratios.",772.94,1243.67,Continuing
+15,229,"P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 731.11","Based on the experimental data provided, I'll analyze the trends to suggest a new composition that might yield high electrical conductivity.
+
+Looking at the data, I notice:
+
+1. The highest conductivity (1089.12 S/cm) was achieved with the composition:
+   - P3HT: 44.3%
+   - D1: 54.68%
+   - D2: 0.04%
+   - D6: 0.29%
+   - D8: 0.78%
+
+2. This exact same composition also produced conductivities of 772.94 S/cm, 552.26 S/cm, and 452.8 S/cm in different trials, suggesting some variability in the process but consistently high performance.
+
+3. Another high-performing composition (554.41 S/cm) had:
+   - P3HT: 53.99%
+   - D1: 44.58%
+   - D2: 0.04%
+   - D6: 0.54%
+   - D8: 0.89%
+
+4. The lowest conductivity (12.19 S/cm) occurred when D1 was very low (0.65%) and D8 was very high (43.89%).
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT: 45.0%
+D1: 54.0%
+D2: 0.05%
+D6: 0.35%
+D8: 0.6%
+
+This composition:
+- Maintains the high P3HT:D1 ratio that appears optimal
+- Keeps D2 very low, as successful formulations had minimal D2
+- Slightly increases D6 compared to the best performer
+- Slightly reduces D8 compared to the best performer
+- All components fall within the specified ranges
+- The components sum to 100%
+
+This formulation builds on the most successful previous compositions while making small adjustments that might further optimize conductivity.",731.11,1243.67,Continuing
+16,126,"P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 660.0","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I notice that the highest conductivity values (1089.12, 772.94, and 731.11 S/cm) all came from the same composition:
+- P3HT: 44.3%
+- D1: 54.68%
+- D2: 0.04%
+- D6: 0.29%
+- D8: 0.78%
+
+This suggests this composition is promising but shows variability in results. The next highest conductivity (554.41 S/cm) came from:
+- P3HT: 53.99%
+- D1: 44.58%
+- D2: 0.04%
+- D6: 0.54%
+- D8: 0.89%
+
+From these observations, I can see patterns:
+1. Low D2 content (around 0.04%) appears in the highest performing compositions
+2. Moderate to high D1 content (44-55%) correlates with higher conductivity
+3. Low D6 and D8 contents seem optimal
+4. P3HT content between 44-54% appears favorable
+
+For the next composition to test, I suggest:
+
+P3HT content (%): 49.0
+D1 content (%): 50.0
+D2 content (%): 0.04
+D6 content (%): 0.2
+D8 content (%): 0.76
+
+This composition maintains the successful pattern of very low D2, D6, and D8 content while exploring a P3HT/D1 ratio between the two most successful compositions. The total adds up to 100%, and all components are within the specified ranges.",660.0,1243.67,Continuing
+17,114,"P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 291.41","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I notice several key trends:
+
+1. The highest conductivity (1089.12 S/cm) was achieved with the composition:
+   - P3HT: 44.3%
+   - D1: 54.68%
+   - D2: 0.04%
+   - D6: 0.29%
+   - D8: 0.78%
+
+2. This exact same composition appears multiple times with varying conductivity values (1089.12, 772.94, 731.11, 660.0, 552.26, 452.8 S/cm), suggesting some variability in the manufacturing process or measurement.
+
+3. Another high-performing composition (554.41 S/cm) had:
+   - P3HT: 53.99%
+   - D1: 44.58%
+   - D2: 0.04%
+   - D6: 0.54%
+   - D8: 0.89%
+
+4. The compositions with high conductivity generally have:
+   - P3HT between 44-54%
+   - D1 between 44-55%
+   - Very low D2 content (often around 0.04%)
+   - Low D6 content (0.29-0.54%)
+   - Low D8 content (0.78-0.89%)
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT: 45.0%
+D1: 54.0%
+D2: 0.04%
+D6: 0.26%
+D8: 0.7%
+
+This composition maintains the successful ratio between P3HT and D1 that produced high conductivity, keeps the minimal amounts of D2, and slightly adjusts D6 and D8 within the range that has shown good results.",291.41,1243.67,Continuing
+18,136,"P3HT content (%): 54.14, D1 content (%): 40.57, D2 content (%): 0.04, D6 content (%): 2.68, D8 content (%): 2.61, Conductivity (measured) (S/cm): 293.6","Based on the experimental data provided, I'll analyze the composition-conductivity relationships to suggest a new composition that might yield high electrical conductivity.
+
+Looking at the data, I notice several important trends:
+
+1. The highest conductivity (1089.12 S/cm) was achieved with the composition:
+   - P3HT: 44.3%
+   - D1: 54.68%
+   - D2: 0.04%
+   - D6: 0.29%
+   - D8: 0.78%
+
+2. This exact composition was tested multiple times with varying results (1089.12, 772.94, 731.11, 660.0, 552.26, 452.8, and 291.41 S/cm), suggesting some variability in the manufacturing process or measurement.
+
+3. Another high-performing composition (554.41 S/cm) had:
+   - P3HT: 53.99%
+   - D1: 44.58%
+   - D2: 0.04%
+   - D6: 0.54%
+   - D8: 0.89%
+
+4. Generally, compositions with high conductivity tend to have:
+   - P3HT between 44-54%
+   - D1 between 44-55%
+   - Very low D2 (often around 0.04-0.7%)
+   - Low D6 (0.29-1.63%)
+   - Low D8 (0.7-1.1%)
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT: 45.0%
+D1: 54.0%
+D2: 0.05%
+D6: 0.35%
+D8: 0.6%
+
+This composition is designed to explore the space near the highest performing sample while making slight adjustments that might further optimize conductivity. It maintains the high P3HT and D1 content that appears beneficial while keeping the other components minimal.",293.6,1243.67,Continuing
+19,109,"P3HT content (%): 47.81, D1 content (%): 49.29, D2 content (%): 0.55, D6 content (%): 1.46, D8 content (%): 0.89, Conductivity (measured) (S/cm): 750.9","Based on the experimental data provided, I'll analyze the composition-conductivity relationships to suggest a new composition that might yield high electrical conductivity.
+
+Looking at the data, I notice several important trends:
+
+1. The highest conductivity (1089.12 S/cm) was achieved with the composition:
+   - P3HT: 44.3%
+   - D1: 54.68%
+   - D2: 0.04%
+   - D6: 0.29%
+   - D8: 0.78%
+
+2. This exact composition was tested multiple times with varying results (1089.12, 772.94, 731.11, 660.0, 552.26, 452.8, and 291.41 S/cm), suggesting some variability in the manufacturing process or measurement.
+
+3. Another high-performing composition (554.41 S/cm) had:
+   - P3HT: 53.99%
+   - D1: 44.58%
+   - D2: 0.04%
+   - D6: 0.54%
+   - D8: 0.89%
+
+4. Low D2 content (near 0.04%) appears in many high-conductivity samples.
+
+5. High D1 content (40-55%) correlates with better performance.
+
+6. Compositions with very high D8 content (like 43.89%) showed poor conductivity.
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT: 48.00%
+D1: 51.00%
+D2: 0.04%
+D6: 0.40%
+D8: 0.56%
+
+This composition:
+- Maintains the low D2 content seen in high-performing samples
+- Uses a P3HT/D1 ratio that falls between the two best-performing compositions
+- Keeps D6 and D8 at low levels similar to successful formulations
+- Stays within the specified component ranges
+- Represents a reasonable exploration of the composition space near known high-performing regions",750.9,1243.67,Continuing
+20,9,"P3HT content (%): 45.0, D1 content (%): 0.0, D2 content (%): 0.0, D6 content (%): 55.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 45.53","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I notice several key trends:
+
+1. The highest conductivity (1089.12 S/cm) was achieved with the composition:
+   - P3HT: 44.3%
+   - D1: 54.68%
+   - D2: 0.04%
+   - D6: 0.29%
+   - D8: 0.78%
+
+2. This exact composition was tested multiple times with varying results (1089.12, 772.94, 731.11, 660.0, 552.26, 452.8, and 291.41 S/cm), suggesting some variability in the manufacturing process or measurement.
+
+3. Other high-performing compositions (>500 S/cm) generally have:
+   - P3HT content between 44-54%
+   - D1 content between 44-55%
+   - Very low D2 content (often <1%)
+   - Low D6 content (<3%)
+   - Low D8 content (<1%)
+
+For my recommendation, I'll slightly modify the best-performing composition to explore nearby parameter space:
+
+**Suggested composition:**
+- P3HT content: 45.0%
+- D1 content: 54.0%
+- D2 content: 0.05%
+- D6 content: 0.25%
+- D8 content: 0.7%
+
+This composition maintains the approximate ratios of the highest-performing sample while making small adjustments to explore whether slight variations might further improve conductivity.",45.53,1243.67,Continuing
+21,220,"P3HT content (%): 40.67, D1 content (%): 59.26, D2 content (%): 0.04, D6 content (%): 0.04, D8 content (%): 0.07, Conductivity (measured) (S/cm): 546.79","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe:
+
+1. The highest conductivity (1089.12 S/cm) was achieved with the composition:
+   - P3HT: 44.3%
+   - D1: 54.68%
+   - D2: 0.04%
+   - D6: 0.29%
+   - D8: 0.78%
+
+2. Several other high conductivity measurements (772.94, 731.11, 660.0 S/cm) were achieved with this exact same composition, suggesting good reproducibility but also some variability in the measurement.
+
+3. Another high conductivity (750.9 S/cm) was achieved with:
+   - P3HT: 47.81%
+   - D1: 49.29%
+   - D2: 0.55%
+   - D6: 1.46%
+   - D8: 0.89%
+
+4. Compositions with high D1 content (40-55%) and low D2, D6, and D8 contents generally perform well.
+
+5. The composition with P3HT: 53.99%, D1: 44.58%, D2: 0.04%, D6: 0.54%, D8: 0.89% achieved 554.41 S/cm.
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT: 45.0%
+D1: 54.0%
+D2: 0.1%
+D6: 0.4%
+D8: 0.5%
+
+This composition maintains the high D1 content that appears beneficial while slightly adjusting the P3HT and additive ratios to explore if further optimization is possible around the high-performing region.",546.79,1243.67,Continuing
+22,110,"P3HT content (%): 40.29, D1 content (%): 58.82, D2 content (%): 0.29, D6 content (%): 0.41, D8 content (%): 0.19, Conductivity (measured) (S/cm): 770.35","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe:
+
+1. The highest conductivity (1089.12 S/cm) was achieved with the composition:
+   - P3HT: 44.3%
+   - D1: 54.68%
+   - D2: 0.04%
+   - D6: 0.29%
+   - D8: 0.78%
+
+2. Several other high conductivity measurements (772.94, 731.11, 660.0 S/cm) were achieved with this exact same composition, suggesting good reproducibility but also some variability in the manufacturing process.
+
+3. Generally, compositions with:
+   - P3HT around 40-55%
+   - D1 around 45-60%
+   - Very low D2 (often 0.04-0.7%)
+   - Low D6 (0.1-2%)
+   - Low D8 (0.5-1%)
+   showed the best conductivity results.
+
+4. The composition with P3HT (45%) and D6 (55%) without any D1, D2, or D8 showed poor conductivity (45.53 S/cm).
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT: 42.0%
+D1: 57.0%
+D2: 0.04%
+D6: 0.5%
+D8: 0.46%
+
+This composition:
+- Maintains the high D1 content that appears beneficial
+- Keeps P3HT in the optimal range
+- Minimizes D2 content
+- Has slightly increased D6 compared to the best performer
+- Keeps D8 low but present
+
+This should help explore whether slightly increasing the D1:P3HT ratio while maintaining minimal amounts of the other components can further improve conductivity.",770.35,1243.67,Continuing
+23,34,"P3HT content (%): 44.35, D1 content (%): 0.18, D2 content (%): 54.47, D6 content (%): 0.18, D8 content (%): 0.81, Conductivity (measured) (S/cm): 8.39","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe several key trends:
+
+1. The highest conductivity values (1089.12, 772.94, 770.35, 750.9, 731.11 S/cm) generally have:
+   - P3HT content around 40-47%
+   - D1 content around 49-59%
+   - Very low D2 content (typically <0.5%)
+   - Low D6 content (typically <1.5%)
+   - Low D8 content (typically <1%)
+
+2. The composition with the highest conductivity (1089.12 S/cm) has:
+   - P3HT: 44.3%
+   - D1: 54.68%
+   - D2: 0.04%
+   - D6: 0.29%
+   - D8: 0.78%
+
+3. Compositions with very low D1 or high D6/D8 content tend to have much lower conductivity.
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT content (%): 42.0
+D1 content (%): 57.5
+D2 content (%): 0.1
+D6 content (%): 0.2
+D8 content (%): 0.2
+
+This composition:
+- Maintains the P3HT content in the optimal range (slightly lower than the best performer)
+- Increases D1 content slightly compared to the best performer
+- Keeps D2, D6, and D8 contents very low
+- The components sum to 100%
+- All values are within the specified ranges
+
+This composition aims to explore whether slightly increasing the D1 content while reducing the other components can further enhance conductivity, based on the trend that higher D1 content (when paired with appropriate P3HT levels) seems to correlate with higher conductivity.",8.39,1243.67,Continuing
+24,152,"P3HT content (%): 38.9, D1 content (%): 0.03, D2 content (%): 0.21, D6 content (%): 2.95, D8 content (%): 57.95, Conductivity (measured) (S/cm): 44.1","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe:
+
+1. The highest conductivity (1089.12 S/cm) was achieved with: P3HT (44.3%), D1 (54.68%), D2 (0.04%), D6 (0.29%), D8 (0.78%)
+
+2. Several other high conductivity values (770.35, 750.9, 772.94, 731.11 S/cm) share similar compositions with:
+   - P3HT around 40-47%
+   - D1 around 49-59%
+   - Very low D2 content (0.04-0.55%)
+   - Low D6 content (0.29-1.46%)
+   - Low D8 content (0.19-0.89%)
+
+3. Compositions with low D1 or high D2/D6/D8 content tend to have much lower conductivity.
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT: 42.0%
+D1: 57.0%
+D2: 0.1%
+D6: 0.4%
+D8: 0.5%
+
+This composition:
+- Maintains the P3HT in the optimal range (40-45%)
+- Slightly increases D1 content compared to the best performers
+- Keeps D2, D6, and D8 at minimal levels
+- Ensures all components sum to 100%
+
+This composition follows the trend of the best-performing samples while exploring a slightly different ratio that might yield even higher conductivity.",44.1,1243.67,Continuing
+25,226,"P3HT content (%): 40.67, D1 content (%): 59.26, D2 content (%): 0.04, D6 content (%): 0.04, D8 content (%): 0.07, Conductivity (measured) (S/cm): 658.86","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe:
+
+1. The highest conductivity values (>700 S/cm) appear in compositions with:
+   - P3HT content around 40-47%
+   - D1 content around 49-59%
+   - Very low D2 content (typically <0.3%)
+   - Low D6 content (typically <0.5%)
+   - Low D8 content (typically <1%)
+
+2. The composition that achieved the highest conductivity (1089.12 S/cm) was:
+   P3HT: 44.3%, D1: 54.68%, D2: 0.04%, D6: 0.29%, D8: 0.78%
+
+3. Compositions with very low D1 or high D2/D6/D8 content tend to have much lower conductivity.
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT content: 40.0%
+D1 content: 59.5%
+D2 content: 0.02%
+D6 content: 0.2%
+D8 content: 0.28%
+
+This composition:
+- Slightly decreases P3HT content while increasing D1 content compared to the best-performing samples
+- Keeps D2, D6, and D8 at very low levels
+- Follows the trend that higher D1:P3HT ratio (while maintaining appropriate ranges) seems to improve conductivity
+- Stays within the specified component ranges
+- The components sum to 100%",658.86,1243.67,Continuing
+26,112,"P3HT content (%): 40.67, D1 content (%): 59.26, D2 content (%): 0.04, D6 content (%): 0.04, D8 content (%): 0.07, Conductivity (measured) (S/cm): 904.29","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe:
+
+1. The highest conductivity values (1089.12, 772.94, 770.35, 750.9, 731.11, 660.0, 658.86 S/cm) are associated with compositions that have:
+   - P3HT content around 40-47%
+   - D1 content around 49-59%
+   - Very low D2 content (typically <0.5%)
+   - Low D6 content (typically <1.5%)
+   - Low D8 content (typically <1%)
+
+2. Compositions with low D1 or high D2/D6/D8 content tend to have much lower conductivity.
+
+3. The composition with the highest conductivity (1089.12 S/cm) is:
+   P3HT: 44.3%, D1: 54.68%, D2: 0.04%, D6: 0.29%, D8: 0.78%
+
+Based on this analysis, I suggest testing the following composition:
+
+P3HT: 40.0%
+D1: 59.5%
+D2: 0.02%
+D6: 0.2%
+D8: 0.28%
+
+This composition:
+- Maintains the high D1 content seen in high-performing samples
+- Keeps P3HT in the optimal range
+- Minimizes D2, D6, and D8 content
+- Slightly pushes the D1 content higher than previous tests while staying within constraints
+- Follows the trend that higher D1:P3HT ratio (while keeping other components minimal) appears to improve conductivity",904.29,1243.67,Continuing
+27,16,"P3HT content (%): 40.0, D1 content (%): 60.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 490.06","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe several key trends:
+
+1. The highest conductivity values (904.29, 1089.12, 772.94, 770.35, 750.9 S/cm) are generally associated with:
+   - P3HT content around 40-47%
+   - D1 content around 49-59%
+   - Very low D2 content (typically <0.5%)
+   - Very low D6 content (typically <1.5%)
+   - Very low D8 content (typically <1%)
+
+2. The composition with the highest conductivity (1089.12 S/cm) has:
+   - P3HT: 44.3%
+   - D1: 54.68%
+   - D2: 0.04%
+   - D6: 0.29%
+   - D8: 0.78%
+
+3. Another high-performing composition (904.29 S/cm) has:
+   - P3HT: 40.67%
+   - D1: 59.26%
+   - D2: 0.04%
+   - D6: 0.04%
+   - D8: 0.07%
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT: 39.00%
+D1: 60.00% (maximum allowed in range)
+D2: 0.04%
+D6: 0.04%
+D8: 0.92%
+
+This composition:
+- Pushes D1 to its maximum allowed value (60%)
+- Keeps P3HT in the effective range but slightly lower than previous tests
+- Maintains the very low levels of D2 and D6 that appear in high-conductivity samples
+- Ensures all components sum to 100%
+
+This approach follows the trend of increasing D1 content while keeping the other additives minimal, which appears to correlate with higher conductivity in the provided data.",490.06,1243.67,Continuing
+28,218,"P3HT content (%): 59.98, D1 content (%): 32.34, D2 content (%): 5.8, D6 content (%): 1.71, D8 content (%): 0.06, Conductivity (measured) (S/cm): 537.77","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe several key trends:
+
+1. The highest conductivity values (1089.12, 904.29, 772.94, 770.35, 750.9 S/cm) generally have:
+   - P3HT content around 40-47%
+   - D1 content around 49-60%
+   - Very low D2, D6, and D8 content (typically below 1%)
+
+2. The composition with 40.67% P3HT and 59.26% D1 appears multiple times with consistently high conductivity values (546.79, 658.86, 904.29 S/cm).
+
+3. Compositions with very low D1 or high D2, D6, or D8 content tend to have much lower conductivity.
+
+Based on these observations, I suggest the following composition to test:
+
+P3HT content (%): 40.0
+D1 content (%): 59.8
+D2 content (%): 0.05
+D6 content (%): 0.05
+D8 content (%): 0.1
+
+This composition:
+- Maintains the P3HT content in the optimal range (around 40%)
+- Maximizes D1 content while staying within the specified range
+- Keeps D2, D6, and D8 content minimal but non-zero
+- Follows the pattern of the highest-performing compositions
+- Ensures all components sum to 100%
+
+This composition should yield high electrical conductivity based on the patterns observed in the experimental data.",537.77,1243.67,Continuing
+29,26,"P3HT content (%): 40.0, D1 content (%): 60.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 839.28","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe:
+
+1. The highest conductivity values (904.29 S/cm, 1089.12 S/cm, 772.94 S/cm) are associated with compositions having:
+   - P3HT content around 40-44%
+   - D1 content around 55-60%
+   - Very low amounts of D2, D6, and D8 (typically <1%)
+
+2. The composition with P3HT (40.67%), D1 (59.26%), and minimal other components showed excellent conductivity in multiple tests.
+
+3. Increasing D2, D6, or D8 significantly tends to reduce conductivity.
+
+4. The pure P3HT/D1 mixture (40% P3HT, 60% D1) showed good conductivity (490.06 S/cm).
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT content: 39.00%
+D1 content: 60.00%
+D2 content: 0.00%
+D6 content: 0.50%
+D8 content: 0.50%
+
+This composition:
+- Slightly decreases P3HT while maximizing D1 content to the upper limit
+- Eliminates D2 which appears less beneficial
+- Includes minimal amounts of D6 and D8 for potential synergistic effects
+- Follows the trend of high-performing compositions while exploring a slightly different ratio",839.28,1243.67,Continuing
+30,25,"P3HT content (%): 40.0, D1 content (%): 60.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 804.11","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe several key trends:
+
+1. The highest conductivity values (904.29, 839.28, 770.35 S/cm) are achieved with compositions that have:
+   - P3HT content around 40-41%
+   - D1 content around 59-60%
+   - Very low amounts of D2, D6, and D8 (close to 0%)
+
+2. The composition with P3HT (40.67%), D1 (59.26%), and minimal other components showed excellent conductivity in multiple tests (904.29, 658.86, 546.79 S/cm).
+
+3. The pure P3HT/D1 mixture (40% P3HT, 60% D1) also performed very well (839.28, 490.06 S/cm).
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT content (%): 40.00
+D1 content (%): 60.00
+D2 content (%): 0.00
+D6 content (%): 0.00
+D8 content (%): 0.00
+
+This composition represents a pure P3HT/D1 mixture at the 40/60 ratio, which has already shown excellent conductivity (839.28 S/cm). While we could suggest slight variations, the data strongly indicates that this simple binary mixture performs exceptionally well, and further optimization might focus on precise control of these two components rather than adding the other additives.",804.11,1243.67,Continuing
+31,17,"P3HT content (%): 60.0, D1 content (%): 40.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 559.01","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe several key trends:
+
+1. The highest conductivity values (904.29, 839.28, 804.11, 770.35 S/cm) are achieved with compositions containing:
+   - P3HT around 40-41%
+   - D1 around 58-60%
+   - Very low amounts of D2, D6, and D8 (often close to 0%)
+
+2. The composition with P3HT (40.67%), D1 (59.26%), and minimal other components showed excellent conductivity in multiple tests (546.79, 658.86, 904.29 S/cm).
+
+3. The pure P3HT/D1 mixture (40% P3HT, 60% D1) also performed very well (490.06, 839.28, 804.11 S/cm).
+
+4. Compositions with high D2, D6, or D8 content generally showed much lower conductivity.
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT content (%): 39.00
+D1 content (%): 60.00
+D2 content (%): 0.00
+D6 content (%): 0.50
+D8 content (%): 0.50
+
+Rationale:
+- This composition maintains the high D1 content (60%) that appears optimal
+- Slightly reduces P3HT from 40% to 39% to explore if further reduction might improve conductivity
+- Keeps D2 at 0% as it doesn't appear to contribute positively
+- Includes small amounts of D6 and D8 (0.5% each) to explore if these minor components might enhance the conductivity when present in very small quantities
+- The composition falls within the specified component ranges and totals 100%",559.01,1243.67,Continuing
+32,27,"P3HT content (%): 40.0, D1 content (%): 60.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 852.33","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe several key trends:
+
+1. The highest conductivity values (>800 S/cm) were achieved with compositions containing:
+   - P3HT around 40-44%
+   - D1 around 59-60%
+   - Very low amounts of D2, D6, and D8 (often <0.1%)
+
+2. The composition with the highest conductivity (1089.12 S/cm) was:
+   P3HT: 44.3%, D1: 54.68%, D2: 0.04%, D6: 0.29%, D8: 0.78%
+
+3. Compositions with very low D1 or high D2/D6/D8 content generally showed poor conductivity.
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT: 40.0%
+D1: 60.0%
+D2: 0.0%
+D6: 0.0%
+D8: 0.0%
+
+This composition is similar to ones that showed high conductivity (804.11 S/cm and 839.28 S/cm) in previous experiments. While we could try slight variations with minimal D2/D6/D8 content, the pure P3HT/D1 binary system at this ratio has proven to be highly conductive and represents a promising direction for optimization.",852.33,1243.67,Continuing
+33,232,"P3HT content (%): 40.0, D1 content (%): 60.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 824.47","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe several key trends:
+
+1. The highest conductivity values (>800 S/cm) are consistently achieved with compositions containing:
+   - P3HT around 40%
+   - D1 around 60%
+   - Very low or zero amounts of D2, D6, and D8
+
+2. Specifically, the composition with P3HT at 40.0% and D1 at 60.0% (with no other components) has repeatedly shown excellent conductivity values (839.28, 804.11, 852.33 S/cm).
+
+3. Another high-performing composition is P3HT at 40.67%, D1 at 59.26%, with minimal amounts of other components, yielding 904.29 S/cm.
+
+4. Compositions with high D2, D6, or D8 content generally show much lower conductivity.
+
+Based on this analysis, I suggest testing the following composition:
+
+P3HT: 39.0%
+D1: 60.0%
+D2: 0.0%
+D6: 0.5%
+D8: 0.5%
+
+This composition:
+- Maintains the successful P3HT:D1 ratio that has shown high conductivity
+- Slightly reduces P3HT compared to the best performers to explore if further optimization is possible
+- Adds minimal amounts of D6 and D8 to investigate if they can provide any beneficial effects at very low concentrations
+- Stays within the specified component ranges
+- Totals to 100%
+
+This composition builds on the successful patterns observed while exploring a slightly different region of the composition space.",824.47,1243.67,Continuing
+34,19,"P3HT content (%): 40.0, D1 content (%): 60.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 634.35","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe several key trends:
+
+1. The highest conductivity values (>800 S/cm) are consistently achieved with compositions containing:
+   - P3HT around 40%
+   - D1 around 60%
+   - Very low or zero amounts of D2, D6, and D8
+
+2. Specifically, the composition of P3HT (40%) and D1 (60%) with minimal other components has repeatedly shown excellent conductivity values (839.28, 804.11, 852.33, 824.47 S/cm).
+
+3. Another high-performing composition was P3HT (40.67%), D1 (59.26%), with minimal D2, D6, and D8, yielding 904.29 S/cm.
+
+4. When D2, D6, or D8 are present in significant amounts, the conductivity tends to decrease dramatically (e.g., compositions with high D2, D6, or D8 show conductivities below 50 S/cm).
+
+Based on this analysis, I suggest testing the following composition:
+
+P3HT: 39.00%
+D1: 60.00%
+D2: 0.00%
+D6: 0.50%
+D8: 0.50%
+
+This composition:
+- Maintains the successful P3HT:D1 ratio that has shown high conductivity
+- Slightly reduces P3HT compared to the best performers
+- Introduces minimal D6 and D8 which might enhance conductivity through small structural modifications
+- Stays within the specified component ranges
+- Avoids D2 which appears less beneficial for conductivity
+
+This composition builds on the successful patterns observed while introducing a small variation that might potentially lead to further conductivity improvements.",634.35,1243.67,Continuing
+35,18,"P3HT content (%): 60.0, D1 content (%): 40.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 617.92","Based on the experimental data provided, I'll suggest a composition that has the potential to achieve high electrical conductivity.
+
+Looking at the data patterns:
+
+1. The highest conductivity values (>800 S/cm) were observed with compositions containing:
+   - P3HT around 40%
+   - D1 around 60%
+   - Very low or zero amounts of D2, D6, and D8
+
+2. Specifically, the composition with P3HT at 40% and D1 at 60% with no other components showed consistently high conductivity values (839.28, 804.11, 852.33, 824.47 S/cm).
+
+3. Another high-performing composition was P3HT at 40.67%, D1 at 59.26%, with minimal amounts of other components, yielding 904.29 S/cm.
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT content (%): 39.0
+D1 content (%): 60.0
+D2 content (%): 0.0
+D6 content (%): 0.5
+D8 content (%): 0.5
+
+This composition:
+- Maintains the high D1 content (60%) that appears optimal
+- Slightly reduces P3HT compared to the best performers
+- Adds minimal D6 and D8 which might enhance conductivity through network formation
+- Stays within the specified component ranges
+
+This composition represents a strategic exploration around the high-performing region while introducing small variations that might further enhance conductivity.",617.92,1243.67,Continuing
+36,23,"P3HT content (%): 40.0, D1 content (%): 60.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 788.8326479","Based on the experimental data provided, I'll analyze the trends to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe several key patterns:
+
+1. The highest conductivity values (>800 S/cm) are consistently achieved with compositions containing:
+   - P3HT around 40%
+   - D1 around 60%
+   - Very low or zero amounts of D2, D6, and D8
+
+2. Specifically, the composition with P3HT at 40% and D1 at 60% with no other components yielded conductivities of 839.28, 804.11, 852.33, and 824.47 S/cm in different trials.
+
+3. Another high-performing composition was P3HT at 40.67%, D1 at 59.26%, with minimal amounts of other components, yielding 904.29 S/cm.
+
+4. Compositions with high D2, D6, or D8 content generally performed poorly.
+
+Based on this analysis, I suggest testing the following composition:
+
+P3HT content (%): 39.00
+D1 content (%): 60.00
+D2 content (%): 0.00
+D6 content (%): 0.50
+D8 content (%): 0.50
+
+This composition:
+- Maintains the successful P3HT:D1 ratio of approximately 40:60
+- Slightly reduces P3HT compared to the best performers to explore if further optimization is possible
+- Includes minimal amounts of D6 and D8 which might enhance conductivity through network formation
+- Avoids D2 which appears to negatively impact conductivity when present in significant amounts
+
+This composition stays within the specified component ranges while building on the patterns observed in the highest-performing samples.",788.8326479,1243.67,Continuing
+37,20,"P3HT content (%): 40.0, D1 content (%): 60.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 688.74","Based on the experimental data provided, I'll analyze the trends to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe:
+
+1. The highest conductivity values (>800 S/cm) are consistently achieved with compositions containing:
+   - P3HT around 40%
+   - D1 around 60%
+   - Very low or zero amounts of D2, D6, and D8
+
+2. Specifically, the composition with P3HT at 40% and D1 at 60% with no other components has repeatedly shown excellent conductivity (852.33, 824.47, 804.11, 788.83 S/cm).
+
+3. Another high-performing composition was P3HT at 40.67%, D1 at 59.26%, with minimal amounts of other components, yielding 904.29 S/cm.
+
+4. When D1 content decreases significantly or other components increase substantially, the conductivity tends to drop dramatically.
+
+Based on this analysis, I suggest testing the following composition:
+
+P3HT: 39.00%
+D1: 60.00%
+D2: 0.00%
+D6: 0.50%
+D8: 0.50%
+
+This composition:
+- Maintains the high D1 content at the maximum allowed 60%
+- Slightly reduces P3HT compared to the best performers
+- Introduces minimal amounts of D6 and D8 which might enhance conductivity through network formation
+- Avoids D2 which doesn't appear beneficial in high-conductivity samples
+
+This composition builds on the successful P3HT/D1 ratio while exploring slight modifications that might further optimize conductivity.",688.74,1243.67,Continuing
+38,21,"P3HT content (%): 40.0, D1 content (%): 60.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 725.7933279","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe several key trends:
+
+1. The highest conductivity values (>800 S/cm) are consistently achieved with compositions containing approximately 40% P3HT and 60% D1, with minimal or no other components.
+
+2. The composition with the highest single conductivity reading (1089.12 S/cm) had: P3HT (44.3%), D1 (54.68%), D2 (0.04%), D6 (0.29%), and D8 (0.78%).
+
+3. Compositions with very low D1 content or high D2, D6, or D8 content tend to have much lower conductivity values.
+
+4. There appears to be some variability in measurements, as identical compositions sometimes yield different conductivity values.
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT: 39.0%
+D1: 60.0%
+D2: 0.0%
+D6: 0.5%
+D8: 0.5%
+
+This composition:
+- Maintains the high D1 content that correlates with high conductivity
+- Slightly reduces P3HT compared to the best performers to explore if the P3HT:D1 ratio can be further optimized
+- Includes minimal D6 and D8 which might help with film formation while not significantly reducing conductivity
+- Stays within the specified component ranges
+- Avoids D2 which doesn't appear to contribute positively to conductivity
+
+This composition should help determine if slightly reducing P3HT while maintaining high D1 content can further improve conductivity.",725.7933279,1243.67,Continuing
+39,111,"P3HT content (%): 46.92, D1 content (%): 50.3, D2 content (%): 1.53, D6 content (%): 0.04, D8 content (%): 1.23, Conductivity (measured) (S/cm): 838.31","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe several key trends:
+
+1. The highest conductivity values (>800 S/cm) are consistently achieved with compositions containing:
+   - P3HT around 40%
+   - D1 around 60%
+   - Very low or zero amounts of D2, D6, and D8
+
+2. Specifically, the composition of P3HT (40%) and D1 (60%) with no other components appears multiple times with excellent results (852.33, 824.47, 804.11, 788.83 S/cm).
+
+3. Another high-performing composition is P3HT (40.67%), D1 (59.26%), with minimal amounts of other components, achieving 904.29 S/cm.
+
+4. When D2, D6, or D8 are present in significant amounts, the conductivity tends to decrease dramatically.
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT content (%): 39.00
+D1 content (%): 60.00
+D2 content (%): 0.00
+D6 content (%): 0.50
+D8 content (%): 0.50
+
+This composition:
+- Maintains the successful P3HT:D1 ratio close to 40:60
+- Slightly reduces P3HT compared to the best performers
+- Adds minimal D6 and D8 which might enhance conductivity based on some of the better results
+- Avoids D2 which appears to negatively impact conductivity when present in significant amounts",838.31,1243.67,Continuing
+40,108,"P3HT content (%): 50.64, D1 content (%): 48.29, D2 content (%): 0.23, D6 content (%): 0.44, D8 content (%): 0.41, Conductivity (measured) (S/cm): 659.36","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe several key trends:
+
+1. The highest conductivity values (>800 S/cm) are generally found in compositions with:
+   - P3HT content around 40-47%
+   - D1 content around 50-60%
+   - Very low amounts of D2, D6, and D8 (often <1% each)
+
+2. The composition that achieved the highest conductivity (1089.12 S/cm) was:
+   P3HT: 44.3%, D1: 54.68%, D2: 0.04%, D6: 0.29%, D8: 0.78%
+
+3. Several variations of the 40% P3HT / 60% D1 composition consistently showed high conductivity (>800 S/cm).
+
+4. The composition with P3HT: 40.29%, D1: 58.82%, D2: 0.29%, D6: 0.41%, D8: 0.19% achieved 770.35 S/cm.
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT: 39.0%
+D1: 60.0%
+D2: 0.1%
+D6: 0.5%
+D8: 0.4%
+
+This composition:
+- Maintains the high D1 content that appears beneficial
+- Slightly reduces P3HT compared to the best performers to explore if further optimization is possible
+- Keeps minimal but non-zero amounts of D2, D6, and D8 which may contribute to conductivity enhancement
+- Stays within the specified component ranges
+- Follows the pattern of compositions that have shown high conductivity",659.36,1243.67,Continuing
+41,153,"P3HT content (%): 60.1, D1 content (%): 38.39, D2 content (%): 0.55, D6 content (%): 0.11, D8 content (%): 0.86, Conductivity (measured) (S/cm): 47.22","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe several key trends:
+
+1. The highest conductivity values (>800 S/cm) are consistently achieved with compositions containing:
+   - P3HT around 40-47%
+   - D1 around 50-60%
+   - Very low amounts of D2, D6, and D8 (typically <1% each)
+
+2. The composition that achieved 904.29 S/cm (the highest reported value) was:
+   P3HT: 40.67%, D1: 59.26%, D2: 0.04%, D6: 0.04%, D8: 0.07%
+
+3. Several tests with exactly 40% P3HT and 60% D1 (with no other components) consistently showed high conductivity (ranging from ~490 to ~852 S/cm).
+
+4. The composition that achieved 838.31 S/cm had:
+   P3HT: 46.92%, D1: 50.3%, D2: 1.53%, D6: 0.04%, D8: 1.23%
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT: 38.00%
+D1: 60.00%
+D2: 0.50%
+D6: 0.50%
+D8: 1.00%
+
+This composition:
+- Slightly reduces P3HT content compared to the best performers
+- Maximizes D1 content within your constraints
+- Maintains very low but non-zero amounts of D2, D6, and D8
+- Follows the pattern of high-performing compositions while exploring a slightly different region of the composition space
+
+The total adds up to 100%, and all components are within the specified ranges.",47.22,1243.67,Continuing
+42,7,"P3HT content (%): 60.0, D1 content (%): 0.0, D2 content (%): 0.0, D6 content (%): 40.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 33.44","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe several key trends:
+
+1. The highest conductivity values (>800 S/cm) are consistently achieved with compositions containing:
+   - P3HT around 40-41%
+   - D1 around 59-60%
+   - Very low or zero amounts of D2, D6, and D8
+
+2. The composition with the highest conductivity (904.29 S/cm) had:
+   - P3HT: 40.67%
+   - D1: 59.26%
+   - D2: 0.04%
+   - D6: 0.04%
+   - D8: 0.07%
+
+3. Compositions with high D2, D6, or D8 content generally show much lower conductivity.
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT: 40.5%
+D1: 59.4%
+D2: 0.03%
+D6: 0.04%
+D8: 0.03%
+
+This composition slightly refines the most successful formulation observed so far, maintaining the optimal P3HT:D1 ratio while minimizing the other components that appear to reduce conductivity when present in larger amounts.",33.44,1243.67,Continuing
+43,134,"P3HT content (%): 42.02, D1 content (%): 47.62, D2 content (%): 4.59, D6 content (%): 3.34, D8 content (%): 2.38, Conductivity (measured) (S/cm): 278.51","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe several key trends:
+
+1. The highest conductivity values (>800 S/cm) are consistently achieved with compositions containing:
+   - P3HT around 40-47%
+   - D1 around 50-60%
+   - Very low amounts of D2, D6, and D8 (typically <1% each)
+
+2. The composition with the highest conductivity (1089.12 S/cm) had:
+   - P3HT: 44.3%
+   - D1: 54.68%
+   - D2: 0.04%
+   - D6: 0.29%
+   - D8: 0.78%
+
+3. Several other high-performing compositions (>800 S/cm) had similar ratios of P3HT to D1, with minimal other components.
+
+4. Compositions with high D2, D6, or D8 content generally performed poorly.
+
+Based on these observations, I suggest the following composition to test:
+
+P3HT content (%): 42.0
+D1 content (%): 57.5
+D2 content (%): 0.1
+D6 content (%): 0.2
+D8 content (%): 0.2
+
+This composition maintains the successful P3HT:D1 ratio while keeping the other components minimal, which appears to be the pattern among the highest-performing samples.",278.51,1243.67,Continuing
+44,178,"P3HT content (%): 43.49, D1 content (%): 46.89, D2 content (%): 4.18, D6 content (%): 5.1, D8 content (%): 0.37, Conductivity (measured) (S/cm): 111.8949727","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe several key trends:
+
+1. The highest conductivity values (>800 S/cm) are consistently achieved with compositions containing:
+   - P3HT around 40-47%
+   - D1 around 50-60%
+   - Very low amounts of D2, D6, and D8 (typically <1% each)
+
+2. The composition with the highest conductivity (1089.12 S/cm) had:
+   - P3HT: 44.3%
+   - D1: 54.68%
+   - D2: 0.04%
+   - D6: 0.29%
+   - D8: 0.78%
+
+3. Several other high-performing compositions (>800 S/cm) had similar ratios of P3HT to D1, with minimal other components.
+
+4. Compositions with high D2, D6, or D8 content generally performed poorly.
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT: 39.0%
+D1: 60.0%
+D2: 0.1%
+D6: 0.3%
+D8: 0.6%
+
+This composition:
+- Slightly decreases P3HT while maximizing D1 content (within the allowed range)
+- Maintains very low but non-zero amounts of D2, D6, and D8
+- Follows the trend of high-performing samples while exploring a slightly different ratio
+- Totals 100% of components",111.8949727,1243.67,Continuing
+45,128,"P3HT content (%): 42.33, D1 content (%): 51.83, D2 content (%): 2.75, D6 content (%): 2.87, D8 content (%): 0.32, Conductivity (measured) (S/cm): 1243.67","Based on the experimental data provided, I'll analyze the patterns to suggest a composition that might yield high electrical conductivity.
+
+Looking at the data, I observe several key trends:
+
+1. The highest conductivity values (>800 S/cm) are consistently achieved with compositions containing:
+   - P3HT around 40-47%
+   - D1 around 50-60%
+   - Very low amounts of D2, D6, and D8 (typically <1% each)
+
+2. The specific composition that yielded the highest conductivity (1089.12 S/cm) was:
+   P3HT: 44.3%, D1: 54.68%, D2: 0.04%, D6: 0.29%, D8: 0.78%
+
+3. The simple binary composition of P3HT: 40%, D1: 60% consistently performed well (ranging from ~490 to ~852 S/cm).
+
+4. High D2, D6, or D8 content generally resulted in much lower conductivity values.
+
+Based on these observations, I suggest testing the following composition:
+
+P3HT: 38.0%
+D1: 60.0% 
+D2: 0.0%
+D6: 1.0%
+D8: 1.0%
+
+This composition:
+- Slightly reduces P3HT content while maximizing D1 content (within the allowed range)
+- Eliminates D2 which doesn't appear beneficial
+- Includes small amounts of D6 and D8 for potential synergistic effects
+- Maintains the total composition at 100%
+- Follows the trend of high-performing samples while exploring a slightly different ratio",1243.67,1243.67,Max conductivity reached
