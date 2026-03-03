@@ -1,0 +1,1890 @@
+Trajectory_File,Iteration,CsPbI,FAPbI,MAPbI,Instability index,Formatted_Parameters,Report,Report with output,Formatted_Parameters with output
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,0,0.17,0.8,0.03,38370,"CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03, Instability index: 38370.0","# Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratios:
+- CsPbI₃: 0.17
+- FAPbI₃: 0.80
+- MAPbI₃: 0.03
+
+## Discussion of Composition-Property Relationships
+
+### Structural Considerations
+The examined perovskite represents a mixed-cation system dominated by formamidinium (FA) with smaller proportions of cesium (Cs) and methylammonium (MA). This composition likely influences the crystal structure in several ways:
+
+1. **A-site cation size effects**: The FA cation (radius ~2.53 Å) is larger than both Cs (~1.81 Å) and MA (~2.17 Å). The predominance of FA (80%) may introduce lattice expansion compared to pure CsPbI₃ systems.
+
+2. **Goldschmidt tolerance factor**: The mixed composition likely yields a tolerance factor between 0.8-1.0, which is generally favorable for perovskite formation, though the high FA content may push this toward the upper limit.
+
+3. **Octahedral tilting**: The significant size difference between the cations, particularly between Cs and FA, may induce octahedral tilting in the PbI₆ framework, potentially affecting optoelectronic properties.
+
+### Chemical Stability Considerations
+
+1. **Moisture sensitivity**: The high FA content (80%) may contribute to moisture sensitivity, as FAPbI₃ is generally more susceptible to humidity-induced degradation than CsPbI₃.
+
+2. **Phase stability**: The relatively low Cs content (17%) may be insufficient to fully stabilize the black α-phase of FAPbI₃, which can transition to the yellow δ-phase under ambient conditions.
+
+3. **Thermal behavior**: The minimal MA content (3%) is beneficial for thermal stability, as MA is the most volatile of the three cations and typically contributes to thermal degradation.
+
+4. **Ion migration potential**: The composition suggests possible ion migration pathways, particularly for the smaller MA and Cs cations, which could affect long-term operational stability.
+
+## Conclusion
+The analyzed perovskite composition (Cs₀.₁₇FA₀.₈MA₀.₀₃PbI₃) presents a structure dominated by formamidinium with cesium as a secondary stabilizing cation. The high FA content may contribute to favorable optoelectronic properties but could potentially compromise moisture resistance. The relatively low Cs content may be insufficient for optimal phase stabilization, while the minimal MA content is beneficial for thermal stability. Further experimental investigation is recommended to correlate this composition with specific performance metrics and to optimize the stability-performance balance.","Report: # Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratios:
+- CsPbI₃: 0.17
+- FAPbI₃: 0.80
+- MAPbI₃: 0.03
+
+## Discussion of Composition-Property Relationships
+
+### Structural Considerations
+The examined perovskite represents a mixed-cation system dominated by formamidinium (FA) with smaller proportions of cesium (Cs) and methylammonium (MA). This composition likely influences the crystal structure in several ways:
+
+1. **A-site cation size effects**: The FA cation (radius ~2.53 Å) is larger than both Cs (~1.81 Å) and MA (~2.17 Å). The predominance of FA (80%) may introduce lattice expansion compared to pure CsPbI₃ systems.
+
+2. **Goldschmidt tolerance factor**: The mixed composition likely yields a tolerance factor between 0.8-1.0, which is generally favorable for perovskite formation, though the high FA content may push this toward the upper limit.
+
+3. **Octahedral tilting**: The significant size difference between the cations, particularly between Cs and FA, may induce octahedral tilting in the PbI₆ framework, potentially affecting optoelectronic properties.
+
+### Chemical Stability Considerations
+
+1. **Moisture sensitivity**: The high FA content (80%) may contribute to moisture sensitivity, as FAPbI₃ is generally more susceptible to humidity-induced degradation than CsPbI₃.
+
+2. **Phase stability**: The relatively low Cs content (17%) may be insufficient to fully stabilize the black α-phase of FAPbI₃, which can transition to the yellow δ-phase under ambient conditions.
+
+3. **Thermal behavior**: The minimal MA content (3%) is beneficial for thermal stability, as MA is the most volatile of the three cations and typically contributes to thermal degradation.
+
+4. **Ion migration potential**: The composition suggests possible ion migration pathways, particularly for the smaller MA and Cs cations, which could affect long-term operational stability.
+
+## Conclusion
+The analyzed perovskite composition (Cs₀.₁₇FA₀.₈MA₀.₀₃PbI₃) presents a structure dominated by formamidinium with cesium as a secondary stabilizing cation. The high FA content may contribute to favorable optoelectronic properties but could potentially compromise moisture resistance. The relatively low Cs content may be insufficient for optimal phase stabilization, while the minimal MA content is beneficial for thermal stability. Further experimental investigation is recommended to correlate this composition with specific performance metrics and to optimize the stability-performance balance. 
+
+**The Actual Instability index is 38370**","Parameters: CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03, Instability index: 38370.0 
+
+**The Actual Instability index is 38370**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,1,0.32,0.67,0.01,383479,"CsPbI: 0.32, FAPbI: 0.67, MAPbI: 0.01, Instability index: 383479.0","# Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following A-site cation distribution:
+- Cs⁺: 32%
+- FA⁺ (formamidinium): 67% 
+- MA⁺ (methylammonium): 1%
+
+## Structural and Stability Considerations
+
+The observed composition represents a predominantly FA-based perovskite with significant Cs incorporation and minimal MA content. This compositional strategy likely aims to balance several competing factors affecting stability:
+
+1. **Tolerance Factor Effects**: The incorporation of Cs⁺ (smaller ionic radius) alongside FA⁺ (larger ionic radius) may help achieve an optimal tolerance factor, potentially reducing lattice strain and improving structural stability.
+
+2. **Phase Stability**: Pure FAPbI₃ typically suffers from phase instability at room temperature, tending to transform from the photoactive α-phase (black) to the non-photoactive δ-phase (yellow). The significant Cs⁺ content (32%) may help stabilize the photoactive phase.
+
+3. **Minimal MA Content**: The very low MA⁺ concentration (1%) suggests an intentional reduction of this cation, which is known to be thermally unstable and susceptible to degradation under heat and humidity.
+
+## Potential Stability Implications
+
+The high instability index (383479.0) suggests potential concerns regarding long-term stability. This could be attributed to:
+
+- Possible incomplete phase stabilization despite the mixed-cation approach
+- Potential ion segregation or phase separation under operational conditions
+- Iodide-based composition, which is generally more susceptible to degradation than bromide or mixed-halide systems
+
+## Recommendations
+
+Further investigation is recommended to:
+1. Evaluate phase purity using XRD analysis
+2. Assess thermal stability through TGA/DSC measurements
+3. Conduct humidity stability tests under controlled conditions
+4. Consider slight compositional modifications, potentially increasing Cs⁺ content or introducing small amounts of bromide to enhance stability
+
+This compositional strategy represents a common approach in perovskite research, attempting to leverage the beneficial properties of multiple A-site cations while mitigating their individual shortcomings.","Report: # Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following A-site cation distribution:
+- Cs⁺: 32%
+- FA⁺ (formamidinium): 67% 
+- MA⁺ (methylammonium): 1%
+
+## Structural and Stability Considerations
+
+The observed composition represents a predominantly FA-based perovskite with significant Cs incorporation and minimal MA content. This compositional strategy likely aims to balance several competing factors affecting stability:
+
+1. **Tolerance Factor Effects**: The incorporation of Cs⁺ (smaller ionic radius) alongside FA⁺ (larger ionic radius) may help achieve an optimal tolerance factor, potentially reducing lattice strain and improving structural stability.
+
+2. **Phase Stability**: Pure FAPbI₃ typically suffers from phase instability at room temperature, tending to transform from the photoactive α-phase (black) to the non-photoactive δ-phase (yellow). The significant Cs⁺ content (32%) may help stabilize the photoactive phase.
+
+3. **Minimal MA Content**: The very low MA⁺ concentration (1%) suggests an intentional reduction of this cation, which is known to be thermally unstable and susceptible to degradation under heat and humidity.
+
+## Potential Stability Implications
+
+The high instability index (383479.0) suggests potential concerns regarding long-term stability. This could be attributed to:
+
+- Possible incomplete phase stabilization despite the mixed-cation approach
+- Potential ion segregation or phase separation under operational conditions
+- Iodide-based composition, which is generally more susceptible to degradation than bromide or mixed-halide systems
+
+## Recommendations
+
+Further investigation is recommended to:
+1. Evaluate phase purity using XRD analysis
+2. Assess thermal stability through TGA/DSC measurements
+3. Conduct humidity stability tests under controlled conditions
+4. Consider slight compositional modifications, potentially increasing Cs⁺ content or introducing small amounts of bromide to enhance stability
+
+This compositional strategy represents a common approach in perovskite research, attempting to leverage the beneficial properties of multiple A-site cations while mitigating their individual shortcomings. 
+
+**The Actual Instability index is 383479**","Parameters: CsPbI: 0.32, FAPbI: 0.67, MAPbI: 0.01, Instability index: 383479.0 
+
+**The Actual Instability index is 383479**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,2,0.17,0.8,0.03,119938,"CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03, Instability index: 119938.0","# Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratios:
+- CsPbI₃: 0.17
+- FAPbI₃: 0.80
+- MAPbI₃: 0.03
+
+## Discussion of Composition-Property Relationships
+
+### Structural Considerations
+The examined perovskite represents a mixed-cation system with formamidinium (FA) as the dominant A-site cation. The composition features a significant cesium (Cs) fraction and minimal methylammonium (MA) content. This distribution may influence the crystal structure in several ways:
+
+1. **Tolerance Factor**: The varying ionic radii of the A-site cations (Cs⁺ < MA⁺ < FA⁺) likely create a composite tolerance factor that affects lattice distortion and octahedral tilting in the PbI₆ framework.
+
+2. **Crystal Phase Stability**: The high FA content (0.80) may promote the formation of the black α-phase desired for optoelectronic applications, while the Cs fraction (0.17) could help stabilize this phase by reducing lattice distortion.
+
+### Chemical Stability Considerations
+
+1. **Moisture Sensitivity**: The high FA content may contribute to moisture sensitivity, as FAPbI₃ is known to be vulnerable to humidity-induced degradation. The relatively low MA content (0.03) is beneficial as MA-based perovskites typically show higher hygroscopicity.
+
+2. **Thermal Stability**: The incorporation of Cs (0.17) likely enhances thermal stability compared to pure FA or MA perovskites, as Cs has stronger ionic bonding within the lattice.
+
+3. **Phase Segregation Risk**: The multi-cation composition may be susceptible to phase segregation under operational conditions, particularly given the dominance of a single cation (FA at 0.80).
+
+## Potential Stability Implications
+
+The high instability index (119938.0) suggests potential challenges with long-term stability. This could be attributed to:
+
+1. The dominant FA content, which may not be sufficiently stabilized by the Cs and MA fractions
+2. Possible lattice strain arising from the incorporation of cations with different sizes
+3. Potential vulnerability to environmental factors such as moisture, oxygen, or heat
+
+## Conclusion
+
+The analyzed perovskite composition features a FA-dominant structure with moderate Cs incorporation and minimal MA content. While this composition may benefit from the favorable optoelectronic properties of FAPbI₃, the high instability index suggests that further compositional engineering may be required to achieve optimal stability. Future work should investigate the addition of stabilizing agents or alternative cation ratios to improve the long-term stability while maintaining desirable performance characteristics.","Report: # Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratios:
+- CsPbI₃: 0.17
+- FAPbI₃: 0.80
+- MAPbI₃: 0.03
+
+## Discussion of Composition-Property Relationships
+
+### Structural Considerations
+The examined perovskite represents a mixed-cation system with formamidinium (FA) as the dominant A-site cation. The composition features a significant cesium (Cs) fraction and minimal methylammonium (MA) content. This distribution may influence the crystal structure in several ways:
+
+1. **Tolerance Factor**: The varying ionic radii of the A-site cations (Cs⁺ < MA⁺ < FA⁺) likely create a composite tolerance factor that affects lattice distortion and octahedral tilting in the PbI₆ framework.
+
+2. **Crystal Phase Stability**: The high FA content (0.80) may promote the formation of the black α-phase desired for optoelectronic applications, while the Cs fraction (0.17) could help stabilize this phase by reducing lattice distortion.
+
+### Chemical Stability Considerations
+
+1. **Moisture Sensitivity**: The high FA content may contribute to moisture sensitivity, as FAPbI₃ is known to be vulnerable to humidity-induced degradation. The relatively low MA content (0.03) is beneficial as MA-based perovskites typically show higher hygroscopicity.
+
+2. **Thermal Stability**: The incorporation of Cs (0.17) likely enhances thermal stability compared to pure FA or MA perovskites, as Cs has stronger ionic bonding within the lattice.
+
+3. **Phase Segregation Risk**: The multi-cation composition may be susceptible to phase segregation under operational conditions, particularly given the dominance of a single cation (FA at 0.80).
+
+## Potential Stability Implications
+
+The high instability index (119938.0) suggests potential challenges with long-term stability. This could be attributed to:
+
+1. The dominant FA content, which may not be sufficiently stabilized by the Cs and MA fractions
+2. Possible lattice strain arising from the incorporation of cations with different sizes
+3. Potential vulnerability to environmental factors such as moisture, oxygen, or heat
+
+## Conclusion
+
+The analyzed perovskite composition features a FA-dominant structure with moderate Cs incorporation and minimal MA content. While this composition may benefit from the favorable optoelectronic properties of FAPbI₃, the high instability index suggests that further compositional engineering may be required to achieve optimal stability. Future work should investigate the addition of stabilizing agents or alternative cation ratios to improve the long-term stability while maintaining desirable performance characteristics. 
+
+**The Actual Instability index is 119938**","Parameters: CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03, Instability index: 119938.0 
+
+**The Actual Instability index is 119938**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,3,0.17,0.8,0.03,107494,"CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03, Instability index: 107494.0","# Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following A-site cation distribution:
+- Cs⁺: 17%
+- FA⁺ (formamidinium): 80%
+- MA⁺ (methylammonium): 3%
+
+## Structural Considerations
+The predominance of FA⁺ (80%) in the A-site position is notable. FA⁺ has a larger ionic radius (253 pm) compared to both Cs⁺ (167 pm) and MA⁺ (217 pm). This size difference likely influences the overall tolerance factor of the perovskite structure.
+
+The relatively high FA⁺ content may introduce:
+- Increased lattice expansion
+- Potential octahedral tilting of the PbI₆ framework
+- Reduced symmetry in the crystal structure
+
+## Chemical Stability Factors
+The high instability index (107494.0) suggests potential concerns regarding long-term stability. Several compositional factors may contribute:
+
+1. **Phase Segregation Risk**: The significant disparity between cation sizes (particularly between Cs⁺ and FA⁺) could promote phase segregation under thermal or environmental stress.
+
+2. **Moisture Sensitivity**: FA-rich compositions typically exhibit vulnerability to moisture due to the hygroscopic nature of the formamidinium cation.
+
+3. **Limited Cs⁺ Stabilization**: While Cs⁺ incorporation (17%) may provide some structural rigidity, this proportion might be insufficient to fully stabilize the FA-dominant structure against phase transitions.
+
+4. **Minimal MA⁺ Content**: The low MA⁺ percentage (3%) likely has minimal impact on stability, though it may slightly influence the bandgap.
+
+## Recommendations
+Based on the compositional analysis, the following modifications could potentially improve stability:
+
+1. Increase the Cs⁺ content to enhance structural stability
+2. Consider partial substitution of I⁻ with Br⁻ to optimize tolerance factor
+3. Explore passivation strategies to mitigate surface-initiated degradation
+
+Further characterization through XRD, thermal stability testing, and humidity exposure experiments would provide valuable insights into the specific degradation mechanisms affecting this composition.","Report: # Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following A-site cation distribution:
+- Cs⁺: 17%
+- FA⁺ (formamidinium): 80%
+- MA⁺ (methylammonium): 3%
+
+## Structural Considerations
+The predominance of FA⁺ (80%) in the A-site position is notable. FA⁺ has a larger ionic radius (253 pm) compared to both Cs⁺ (167 pm) and MA⁺ (217 pm). This size difference likely influences the overall tolerance factor of the perovskite structure.
+
+The relatively high FA⁺ content may introduce:
+- Increased lattice expansion
+- Potential octahedral tilting of the PbI₆ framework
+- Reduced symmetry in the crystal structure
+
+## Chemical Stability Factors
+The high instability index (107494.0) suggests potential concerns regarding long-term stability. Several compositional factors may contribute:
+
+1. **Phase Segregation Risk**: The significant disparity between cation sizes (particularly between Cs⁺ and FA⁺) could promote phase segregation under thermal or environmental stress.
+
+2. **Moisture Sensitivity**: FA-rich compositions typically exhibit vulnerability to moisture due to the hygroscopic nature of the formamidinium cation.
+
+3. **Limited Cs⁺ Stabilization**: While Cs⁺ incorporation (17%) may provide some structural rigidity, this proportion might be insufficient to fully stabilize the FA-dominant structure against phase transitions.
+
+4. **Minimal MA⁺ Content**: The low MA⁺ percentage (3%) likely has minimal impact on stability, though it may slightly influence the bandgap.
+
+## Recommendations
+Based on the compositional analysis, the following modifications could potentially improve stability:
+
+1. Increase the Cs⁺ content to enhance structural stability
+2. Consider partial substitution of I⁻ with Br⁻ to optimize tolerance factor
+3. Explore passivation strategies to mitigate surface-initiated degradation
+
+Further characterization through XRD, thermal stability testing, and humidity exposure experiments would provide valuable insights into the specific degradation mechanisms affecting this composition. 
+
+**The Actual Instability index is 107494**","Parameters: CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03, Instability index: 107494.0 
+
+**The Actual Instability index is 107494**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,4,0.17,0.8,0.03,26197,"CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03, Instability index: 26197.0","# Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratios:
+- CsPbI₃: 0.17
+- FAPbI₃: 0.80
+- MAPbI₃: 0.03
+
+## Discussion of Composition-Property Relationships
+
+### Structural Considerations
+The examined perovskite represents a mixed-cation system with formamidinium (FA⁺) as the dominant A-site cation. The composition features a significant cesium (Cs⁺) incorporation and minimal methylammonium (MA⁺) content. This distribution may influence the crystal structure in several ways:
+
+1. The high FA⁺ content (0.80) likely dominates the structural characteristics. FA⁺ has a larger ionic radius than both Cs⁺ and MA⁺, potentially resulting in a more expanded lattice with greater tolerance for structural deformation.
+
+2. The moderate Cs⁺ incorporation (0.17) may help stabilize the crystal structure through its smaller ionic radius, potentially counteracting the tendency of FA-rich perovskites to form the non-perovskite hexagonal δ-phase.
+
+3. The minimal MA⁺ content (0.03) suggests its role is likely as a minor dopant rather than a primary structural component.
+
+### Stability Implications
+
+The reported instability index of 26197.0 cannot be directly interpreted without a reference scale. However, several composition-related factors may influence stability:
+
+1. **Phase Stability**: The FA-dominant composition may be susceptible to phase segregation under thermal or environmental stress, though partial Cs⁺ substitution could mitigate this tendency.
+
+2. **Moisture Sensitivity**: FA-based perovskites typically show intermediate moisture sensitivity between the highly sensitive MA-based and more stable Cs-based compositions. The low MA⁺ content may reduce hydrophilicity.
+
+3. **Thermal Stability**: The significant Cs⁺ content likely enhances thermal stability compared to pure FA- or MA-based systems, as Cs⁺ has no organic components susceptible to degradation.
+
+4. **Ion Migration**: The mixed-cation approach may reduce ion migration pathways, potentially improving operational stability under electric fields.
+
+## Conclusion
+
+The analyzed perovskite composition (Cs₀.₁₇FA₀.₈₀MA₀.₀₃PbI₃) represents a predominantly FA-based system with significant Cs⁺ incorporation. This compositional strategy likely aims to balance the favorable optoelectronic properties of FA-based perovskites with the enhanced stability contributed by Cs⁺ inclusion. The minimal MA⁺ content suggests its role may be to fine-tune lattice parameters or defect concentrations rather than significantly influence bulk properties.
+
+Further experimental investigation would be required to correlate the observed instability index with specific degradation mechanisms and to optimize the composition for improved stability.","Report: # Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratios:
+- CsPbI₃: 0.17
+- FAPbI₃: 0.80
+- MAPbI₃: 0.03
+
+## Discussion of Composition-Property Relationships
+
+### Structural Considerations
+The examined perovskite represents a mixed-cation system with formamidinium (FA⁺) as the dominant A-site cation. The composition features a significant cesium (Cs⁺) incorporation and minimal methylammonium (MA⁺) content. This distribution may influence the crystal structure in several ways:
+
+1. The high FA⁺ content (0.80) likely dominates the structural characteristics. FA⁺ has a larger ionic radius than both Cs⁺ and MA⁺, potentially resulting in a more expanded lattice with greater tolerance for structural deformation.
+
+2. The moderate Cs⁺ incorporation (0.17) may help stabilize the crystal structure through its smaller ionic radius, potentially counteracting the tendency of FA-rich perovskites to form the non-perovskite hexagonal δ-phase.
+
+3. The minimal MA⁺ content (0.03) suggests its role is likely as a minor dopant rather than a primary structural component.
+
+### Stability Implications
+
+The reported instability index of 26197.0 cannot be directly interpreted without a reference scale. However, several composition-related factors may influence stability:
+
+1. **Phase Stability**: The FA-dominant composition may be susceptible to phase segregation under thermal or environmental stress, though partial Cs⁺ substitution could mitigate this tendency.
+
+2. **Moisture Sensitivity**: FA-based perovskites typically show intermediate moisture sensitivity between the highly sensitive MA-based and more stable Cs-based compositions. The low MA⁺ content may reduce hydrophilicity.
+
+3. **Thermal Stability**: The significant Cs⁺ content likely enhances thermal stability compared to pure FA- or MA-based systems, as Cs⁺ has no organic components susceptible to degradation.
+
+4. **Ion Migration**: The mixed-cation approach may reduce ion migration pathways, potentially improving operational stability under electric fields.
+
+## Conclusion
+
+The analyzed perovskite composition (Cs₀.₁₇FA₀.₈₀MA₀.₀₃PbI₃) represents a predominantly FA-based system with significant Cs⁺ incorporation. This compositional strategy likely aims to balance the favorable optoelectronic properties of FA-based perovskites with the enhanced stability contributed by Cs⁺ inclusion. The minimal MA⁺ content suggests its role may be to fine-tune lattice parameters or defect concentrations rather than significantly influence bulk properties.
+
+Further experimental investigation would be required to correlate the observed instability index with specific degradation mechanisms and to optimize the composition for improved stability. 
+
+**The Actual Instability index is 26197**","Parameters: CsPbI: 0.17, FAPbI: 0.8, MAPbI: 0.03, Instability index: 26197.0 
+
+**The Actual Instability index is 26197**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,5,0.32,0.68,0.0,40621,"CsPbI: 0.32, FAPbI: 0.68, MAPbI: 0.0, Instability index: 40621.0","# Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratio:
+- CsPbI₃: 32%
+- FAPbI₃: 68%
+- MAPbI₃: 0%
+
+## Structural and Chemical Considerations
+
+### Cation Size Effects
+The sample contains a binary mixture of Cs⁺ (smaller ionic radius, ~1.67 Å) and FA⁺ (larger ionic radius, ~2.53 Å) cations, with complete absence of MA⁺ (~2.17 Å). This composition creates a heterogeneous A-site cation distribution that likely affects the tolerance factor of the perovskite structure.
+
+### Tolerance Factor Implications
+The Goldschmidt tolerance factor (t) for this mixed composition would be influenced by the weighted average of the constituent cations. The FA-rich composition (68%) would tend to increase the tolerance factor, potentially pushing it closer to the ideal value of 1, while the Cs component (32%) would counterbalance this effect. This combination may help stabilize the cubic phase of the perovskite.
+
+### Potential Stability Factors
+1. **Phase Stability**: Pure CsPbI₃ typically exhibits phase instability at room temperature, preferring a non-photoactive yellow δ-phase. The significant FA⁺ content may help stabilize the photoactive black α-phase.
+
+2. **Moisture Resistance**: The absence of hygroscopic MA⁺ cations could potentially improve moisture stability compared to MA-containing formulations.
+
+3. **Thermal Stability**: Cs⁺ incorporation typically enhances thermal stability due to its inorganic nature and stronger ionic bonding with the PbI₆ octahedra.
+
+4. **Lattice Distortion**: The size mismatch between Cs⁺ and FA⁺ may introduce lattice strain that could affect both optoelectronic properties and long-term structural stability.
+
+## Potential Stability Challenges
+
+1. **Phase Segregation**: The binary mixture may be susceptible to phase segregation under operational conditions, particularly under illumination or thermal stress.
+
+2. **Iodide Migration**: The all-iodide composition could be vulnerable to ion migration, particularly at interfaces or grain boundaries.
+
+3. **Oxidative Stability**: The iodide-based composition may be susceptible to oxidation in the presence of oxygen and light.
+
+## Conclusion
+The 32:68 CsPbI₃:FAPbI₃ composition represents a strategic approach to balancing structural stability through cation engineering. The complete absence of MA⁺ likely influences the instability index value of 40621.0, though further characterization would be necessary to establish direct correlations between this specific composition and its long-term operational stability.","Report: # Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratio:
+- CsPbI₃: 32%
+- FAPbI₃: 68%
+- MAPbI₃: 0%
+
+## Structural and Chemical Considerations
+
+### Cation Size Effects
+The sample contains a binary mixture of Cs⁺ (smaller ionic radius, ~1.67 Å) and FA⁺ (larger ionic radius, ~2.53 Å) cations, with complete absence of MA⁺ (~2.17 Å). This composition creates a heterogeneous A-site cation distribution that likely affects the tolerance factor of the perovskite structure.
+
+### Tolerance Factor Implications
+The Goldschmidt tolerance factor (t) for this mixed composition would be influenced by the weighted average of the constituent cations. The FA-rich composition (68%) would tend to increase the tolerance factor, potentially pushing it closer to the ideal value of 1, while the Cs component (32%) would counterbalance this effect. This combination may help stabilize the cubic phase of the perovskite.
+
+### Potential Stability Factors
+1. **Phase Stability**: Pure CsPbI₃ typically exhibits phase instability at room temperature, preferring a non-photoactive yellow δ-phase. The significant FA⁺ content may help stabilize the photoactive black α-phase.
+
+2. **Moisture Resistance**: The absence of hygroscopic MA⁺ cations could potentially improve moisture stability compared to MA-containing formulations.
+
+3. **Thermal Stability**: Cs⁺ incorporation typically enhances thermal stability due to its inorganic nature and stronger ionic bonding with the PbI₆ octahedra.
+
+4. **Lattice Distortion**: The size mismatch between Cs⁺ and FA⁺ may introduce lattice strain that could affect both optoelectronic properties and long-term structural stability.
+
+## Potential Stability Challenges
+
+1. **Phase Segregation**: The binary mixture may be susceptible to phase segregation under operational conditions, particularly under illumination or thermal stress.
+
+2. **Iodide Migration**: The all-iodide composition could be vulnerable to ion migration, particularly at interfaces or grain boundaries.
+
+3. **Oxidative Stability**: The iodide-based composition may be susceptible to oxidation in the presence of oxygen and light.
+
+## Conclusion
+The 32:68 CsPbI₃:FAPbI₃ composition represents a strategic approach to balancing structural stability through cation engineering. The complete absence of MA⁺ likely influences the instability index value of 40621.0, though further characterization would be necessary to establish direct correlations between this specific composition and its long-term operational stability. 
+
+**The Actual Instability index is 40621**","Parameters: CsPbI: 0.32, FAPbI: 0.68, MAPbI: 0.0, Instability index: 40621.0 
+
+**The Actual Instability index is 40621**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,6,0.25,0.75,0.0,144074,"CsPbI: 0.25, FAPbI: 0.75, MAPbI: 0.0, Instability index: 144074.0","# Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratio:
+- CsPbI₃: 25%
+- FAPbI₃: 75% 
+- MAPbI₃: 0%
+
+## Structural and Chemical Considerations
+
+The examined perovskite represents a binary Cs/FA mixed-cation system with complete absence of the MA cation. This composition merits analysis regarding its potential stability characteristics.
+
+### Cation Size Effects
+The formamidinium (FA) cation is larger (radius ~2.53 Å) than both cesium (Cs, ~1.81 Å) and methylammonium (MA, ~2.17 Å). The predominance of FA (75%) in this composition likely influences the tolerance factor, potentially causing lattice strain due to the size mismatch between Cs and FA cations.
+
+### Hydrogen Bonding Considerations
+FA cations can form hydrogen bonds with the surrounding iodide ions in the perovskite framework. The absence of MA, which typically forms stronger hydrogen bonds, may affect the structural rigidity of the crystal lattice.
+
+### Phase Stability
+Pure CsPbI₃ typically exists in a non-photoactive yellow δ-phase at room temperature, while FAPbI₃ tends to transform to a yellow δ-phase under ambient conditions. The mixing ratio (25:75) may not provide sufficient stabilization of the desired black α-phase.
+
+### Moisture and Thermal Sensitivity
+The high FA content may increase susceptibility to moisture-induced degradation, as FA-rich compositions typically show higher hygroscopicity compared to Cs-rich variants. However, the inclusion of Cs (25%) could provide some enhancement to thermal stability compared to pure FAPbI₃.
+
+## Conclusion
+
+The analyzed composition (25% CsPbI₃, 75% FAPbI₃) presents a structure that may face stability challenges due to the predominance of the larger FA cation and absence of MA. This composition likely represents a compromise between the thermal stability offered by Cs and the favorable optoelectronic properties of FA, but may not achieve optimal phase stability under ambient conditions. Further investigation through XRD analysis and stability testing under controlled humidity and temperature conditions would be valuable to fully characterize this material's long-term stability profile.","Report: # Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratio:
+- CsPbI₃: 25%
+- FAPbI₃: 75% 
+- MAPbI₃: 0%
+
+## Structural and Chemical Considerations
+
+The examined perovskite represents a binary Cs/FA mixed-cation system with complete absence of the MA cation. This composition merits analysis regarding its potential stability characteristics.
+
+### Cation Size Effects
+The formamidinium (FA) cation is larger (radius ~2.53 Å) than both cesium (Cs, ~1.81 Å) and methylammonium (MA, ~2.17 Å). The predominance of FA (75%) in this composition likely influences the tolerance factor, potentially causing lattice strain due to the size mismatch between Cs and FA cations.
+
+### Hydrogen Bonding Considerations
+FA cations can form hydrogen bonds with the surrounding iodide ions in the perovskite framework. The absence of MA, which typically forms stronger hydrogen bonds, may affect the structural rigidity of the crystal lattice.
+
+### Phase Stability
+Pure CsPbI₃ typically exists in a non-photoactive yellow δ-phase at room temperature, while FAPbI₃ tends to transform to a yellow δ-phase under ambient conditions. The mixing ratio (25:75) may not provide sufficient stabilization of the desired black α-phase.
+
+### Moisture and Thermal Sensitivity
+The high FA content may increase susceptibility to moisture-induced degradation, as FA-rich compositions typically show higher hygroscopicity compared to Cs-rich variants. However, the inclusion of Cs (25%) could provide some enhancement to thermal stability compared to pure FAPbI₃.
+
+## Conclusion
+
+The analyzed composition (25% CsPbI₃, 75% FAPbI₃) presents a structure that may face stability challenges due to the predominance of the larger FA cation and absence of MA. This composition likely represents a compromise between the thermal stability offered by Cs and the favorable optoelectronic properties of FA, but may not achieve optimal phase stability under ambient conditions. Further investigation through XRD analysis and stability testing under controlled humidity and temperature conditions would be valuable to fully characterize this material's long-term stability profile. 
+
+**The Actual Instability index is 144074**","Parameters: CsPbI: 0.25, FAPbI: 0.75, MAPbI: 0.0, Instability index: 144074.0 
+
+**The Actual Instability index is 144074**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,7,0.17,0.82,0.01,227835,"CsPbI: 0.17, FAPbI: 0.82, MAPbI: 0.01, Instability index: 227835.0","# Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following A-site cation distribution:
+- Cs⁺: 17%
+- FA⁺ (formamidinium): 82% 
+- MA⁺ (methylammonium): 1%
+
+## Structural and Stability Considerations
+
+### Goldschmidt Tolerance Factor
+The observed composition combines cations of different ionic radii (Cs⁺ < MA⁺ < FA⁺), which would affect the overall tolerance factor of the perovskite structure. The predominance of FA⁺ (82%) suggests a tolerance factor closer to that of pure FAPbI₃, which typically exhibits a value slightly above the ideal range, potentially causing structural distortions.
+
+### Phase Stability
+The high FA⁺ content may predispose the material to phase instability issues. Pure FAPbI₃ is known to undergo phase transitions between the photoactive α-phase (black) and the non-photoactive δ-phase (yellow) at room temperature. The incorporation of 17% Cs⁺ likely aims to stabilize the α-phase through lattice contraction, though the relatively low concentration may be insufficient for complete stabilization.
+
+### Chemical Stability
+The minimal MA⁺ content (1%) reduces vulnerability to degradation pathways associated with methylammonium, such as volatilization and moisture-induced decomposition. However, the high FA⁺ proportion maintains susceptibility to humidity-related degradation mechanisms.
+
+### Ion Migration
+The mixed-cation composition may influence ion migration pathways within the perovskite structure. The significant size difference between Cs⁺ and FA⁺ could create local lattice strains that potentially facilitate ion movement, particularly at defect sites or grain boundaries.
+
+## Conclusion
+The analyzed composition (Cs₀.₁₇FA₀.₈₂MA₀.₀₁)PbI₃ represents a mixed-cation approach to perovskite formulation with a strong emphasis on FA⁺. The high instability index (227835.0) suggests potential challenges with long-term stability, likely stemming from the dominant FA⁺ content. Further optimization of the Cs⁺:FA⁺ ratio may be necessary to achieve a more favorable balance between optoelectronic performance and structural stability.","Report: # Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following A-site cation distribution:
+- Cs⁺: 17%
+- FA⁺ (formamidinium): 82% 
+- MA⁺ (methylammonium): 1%
+
+## Structural and Stability Considerations
+
+### Goldschmidt Tolerance Factor
+The observed composition combines cations of different ionic radii (Cs⁺ < MA⁺ < FA⁺), which would affect the overall tolerance factor of the perovskite structure. The predominance of FA⁺ (82%) suggests a tolerance factor closer to that of pure FAPbI₃, which typically exhibits a value slightly above the ideal range, potentially causing structural distortions.
+
+### Phase Stability
+The high FA⁺ content may predispose the material to phase instability issues. Pure FAPbI₃ is known to undergo phase transitions between the photoactive α-phase (black) and the non-photoactive δ-phase (yellow) at room temperature. The incorporation of 17% Cs⁺ likely aims to stabilize the α-phase through lattice contraction, though the relatively low concentration may be insufficient for complete stabilization.
+
+### Chemical Stability
+The minimal MA⁺ content (1%) reduces vulnerability to degradation pathways associated with methylammonium, such as volatilization and moisture-induced decomposition. However, the high FA⁺ proportion maintains susceptibility to humidity-related degradation mechanisms.
+
+### Ion Migration
+The mixed-cation composition may influence ion migration pathways within the perovskite structure. The significant size difference between Cs⁺ and FA⁺ could create local lattice strains that potentially facilitate ion movement, particularly at defect sites or grain boundaries.
+
+## Conclusion
+The analyzed composition (Cs₀.₁₇FA₀.₈₂MA₀.₀₁)PbI₃ represents a mixed-cation approach to perovskite formulation with a strong emphasis on FA⁺. The high instability index (227835.0) suggests potential challenges with long-term stability, likely stemming from the dominant FA⁺ content. Further optimization of the Cs⁺:FA⁺ ratio may be necessary to achieve a more favorable balance between optoelectronic performance and structural stability. 
+
+**The Actual Instability index is 227835**","Parameters: CsPbI: 0.17, FAPbI: 0.82, MAPbI: 0.01, Instability index: 227835.0 
+
+**The Actual Instability index is 227835**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,8,0.3,0.39,0.32,437082,"CsPbI: 0.3, FAPbI: 0.39, MAPbI: 0.32, Instability index: 437082.0","# Compositional Analysis of Mixed-Cation Perovskite and Stability Implications
+
+## Composition Analysis
+The perovskite sample under investigation has the following A-site cation distribution:
+- Cs⁺: 30% (0.30)
+- FA⁺ (formamidinium): 39% (0.39)
+- MA⁺ (methylammonium): 32% (0.32)
+
+## Structural and Chemical Considerations
+
+### Cation Size Effects
+The three cations have different ionic radii (Cs⁺ < MA⁺ < FA⁺), which affects the Goldschmidt tolerance factor. The current composition represents a mixed-cation approach that likely aims to optimize the tolerance factor toward the ideal value of 1. The relatively high proportion of FA⁺ may introduce some lattice expansion, while the Cs⁺ component would tend to contract the lattice.
+
+### Phase Stability
+Pure FAPbI₃ typically forms a yellow δ-phase at room temperature rather than the desired black α-phase. The inclusion of Cs⁺ and MA⁺ likely helps stabilize the photoactive black phase by creating entropic stabilization and adjusting the overall lattice parameters.
+
+### Moisture and Thermal Resistance
+The relatively high instability index (437082.0) suggests potential vulnerability to degradation. Cs⁺ typically enhances moisture resistance, but its proportion (30%) may be insufficient to fully mitigate the hygroscopic nature of MA⁺. The FA⁺ component offers better thermal stability than MA⁺, but its high proportion could contribute to phase instability.
+
+### Ion Migration Considerations
+The presence of three different A-site cations may create local lattice distortions and vacancy concentrations that could facilitate ion migration under operational conditions, potentially contributing to the high instability index.
+
+## Conclusion
+The mixed-cation composition employs a common strategy for perovskite stabilization, but the specific ratio used here appears to result in suboptimal stability based on the high instability index. The relatively balanced distribution between the three cations may not provide sufficient advantages of any single component. Further optimization of the composition ratios, particularly increasing the Cs⁺ content while reducing the MA⁺ proportion, might improve the stability profile of this perovskite formulation.","Report: # Compositional Analysis of Mixed-Cation Perovskite and Stability Implications
+
+## Composition Analysis
+The perovskite sample under investigation has the following A-site cation distribution:
+- Cs⁺: 30% (0.30)
+- FA⁺ (formamidinium): 39% (0.39)
+- MA⁺ (methylammonium): 32% (0.32)
+
+## Structural and Chemical Considerations
+
+### Cation Size Effects
+The three cations have different ionic radii (Cs⁺ < MA⁺ < FA⁺), which affects the Goldschmidt tolerance factor. The current composition represents a mixed-cation approach that likely aims to optimize the tolerance factor toward the ideal value of 1. The relatively high proportion of FA⁺ may introduce some lattice expansion, while the Cs⁺ component would tend to contract the lattice.
+
+### Phase Stability
+Pure FAPbI₃ typically forms a yellow δ-phase at room temperature rather than the desired black α-phase. The inclusion of Cs⁺ and MA⁺ likely helps stabilize the photoactive black phase by creating entropic stabilization and adjusting the overall lattice parameters.
+
+### Moisture and Thermal Resistance
+The relatively high instability index (437082.0) suggests potential vulnerability to degradation. Cs⁺ typically enhances moisture resistance, but its proportion (30%) may be insufficient to fully mitigate the hygroscopic nature of MA⁺. The FA⁺ component offers better thermal stability than MA⁺, but its high proportion could contribute to phase instability.
+
+### Ion Migration Considerations
+The presence of three different A-site cations may create local lattice distortions and vacancy concentrations that could facilitate ion migration under operational conditions, potentially contributing to the high instability index.
+
+## Conclusion
+The mixed-cation composition employs a common strategy for perovskite stabilization, but the specific ratio used here appears to result in suboptimal stability based on the high instability index. The relatively balanced distribution between the three cations may not provide sufficient advantages of any single component. Further optimization of the composition ratios, particularly increasing the Cs⁺ content while reducing the MA⁺ proportion, might improve the stability profile of this perovskite formulation. 
+
+**The Actual Instability index is 437082**","Parameters: CsPbI: 0.3, FAPbI: 0.39, MAPbI: 0.32, Instability index: 437082.0 
+
+**The Actual Instability index is 437082**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,9,0.16,0.83,0.01,284939,"CsPbI: 0.16, FAPbI: 0.83, MAPbI: 0.01, Instability index: 284939.0","# Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following A-site cation distribution:
+- Cs⁺: 16%
+- FA⁺ (formamidinium): 83%
+- MA⁺ (methylammonium): 1%
+
+## Structural and Stability Considerations
+
+The predominance of FA⁺ (83%) in this composition is noteworthy. FA-based perovskites typically exhibit favorable optoelectronic properties but can suffer from phase instability. The relatively high instability index (284939.0) observed may be related to this FA-dominant composition.
+
+The inclusion of Cs⁺ (16%) likely serves as a stabilizing agent. Cesium, with its smaller ionic radius compared to organic cations, can help improve structural stability by reducing lattice strain. However, the current proportion may be insufficient to fully stabilize the FA-rich structure.
+
+The minimal MA⁺ content (1%) suggests this composition aims to reduce the presence of the most volatile cation. MA⁺ is known to be susceptible to thermal degradation and moisture sensitivity, so its limited inclusion is consistent with stability-focused design principles.
+
+## Potential Stability Factors
+
+Several factors may contribute to the observed instability:
+
+1. **Phase segregation risk**: The high FA⁺ content may lead to phase segregation under operational conditions, particularly at elevated temperatures.
+
+2. **Goldschmidt tolerance factor**: The current cation distribution may result in a tolerance factor that deviates from the optimal range for stable cubic perovskite structure.
+
+3. **Halide migration**: While not directly measured, the all-iodide composition may exhibit higher ion migration tendencies compared to mixed-halide systems.
+
+## Recommendations
+
+To potentially improve stability while maintaining favorable optoelectronic properties:
+
+1. Consider increasing the Cs⁺ content (to approximately 20-25%) to better stabilize the crystal structure.
+
+2. Explore partial substitution of iodide with bromide to potentially enhance structural stability.
+
+3. Investigate the addition of 2D passivation layers or surface treatments to mitigate degradation pathways.
+
+Further characterization including XRD analysis, thermal stability testing, and humidity exposure studies would be valuable to fully understand the stability limitations of this composition.","Report: # Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following A-site cation distribution:
+- Cs⁺: 16%
+- FA⁺ (formamidinium): 83%
+- MA⁺ (methylammonium): 1%
+
+## Structural and Stability Considerations
+
+The predominance of FA⁺ (83%) in this composition is noteworthy. FA-based perovskites typically exhibit favorable optoelectronic properties but can suffer from phase instability. The relatively high instability index (284939.0) observed may be related to this FA-dominant composition.
+
+The inclusion of Cs⁺ (16%) likely serves as a stabilizing agent. Cesium, with its smaller ionic radius compared to organic cations, can help improve structural stability by reducing lattice strain. However, the current proportion may be insufficient to fully stabilize the FA-rich structure.
+
+The minimal MA⁺ content (1%) suggests this composition aims to reduce the presence of the most volatile cation. MA⁺ is known to be susceptible to thermal degradation and moisture sensitivity, so its limited inclusion is consistent with stability-focused design principles.
+
+## Potential Stability Factors
+
+Several factors may contribute to the observed instability:
+
+1. **Phase segregation risk**: The high FA⁺ content may lead to phase segregation under operational conditions, particularly at elevated temperatures.
+
+2. **Goldschmidt tolerance factor**: The current cation distribution may result in a tolerance factor that deviates from the optimal range for stable cubic perovskite structure.
+
+3. **Halide migration**: While not directly measured, the all-iodide composition may exhibit higher ion migration tendencies compared to mixed-halide systems.
+
+## Recommendations
+
+To potentially improve stability while maintaining favorable optoelectronic properties:
+
+1. Consider increasing the Cs⁺ content (to approximately 20-25%) to better stabilize the crystal structure.
+
+2. Explore partial substitution of iodide with bromide to potentially enhance structural stability.
+
+3. Investigate the addition of 2D passivation layers or surface treatments to mitigate degradation pathways.
+
+Further characterization including XRD analysis, thermal stability testing, and humidity exposure studies would be valuable to fully understand the stability limitations of this composition. 
+
+**The Actual Instability index is 284939**","Parameters: CsPbI: 0.16, FAPbI: 0.83, MAPbI: 0.01, Instability index: 284939.0 
+
+**The Actual Instability index is 284939**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,10,0.19,0.81,0.0,221696,"CsPbI: 0.19, FAPbI: 0.81, MAPbI: 0.0, Instability index: 221696.0","# Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample has the following composition:
+- CsPbI₃: 19%
+- FAPbI₃: 81%
+- MAPbI₃: 0%
+
+## Structural and Chemical Considerations
+
+### Cation Size Effects
+The sample contains a binary mixture of Cs⁺ (smaller ionic radius, ~1.67 Å) and FA⁺ (larger ionic radius, ~2.53 Å) cations. The absence of MA⁺ (intermediate size, ~2.17 Å) creates a bimodal size distribution rather than a continuous one. This composition may affect the Goldschmidt tolerance factor, which is critical for structural stability.
+
+### Phase Stability
+Pure CsPbI₃ typically forms a yellow non-perovskite δ-phase at room temperature, while FAPbI₃ tends to form a yellow δ-phase under ambient conditions. The mixture appears to have a high instability index (221696.0), suggesting potential phase segregation or transformation issues.
+
+### Moisture and Thermal Sensitivity
+The FA⁺-dominant composition (81%) may exhibit:
+- Higher susceptibility to moisture-induced degradation compared to Cs⁺-rich compositions
+- Potential thermal expansion mismatches between the Cs⁺-rich and FA⁺-rich domains
+
+### Crystallographic Considerations
+The binary mixture may create:
+- Lattice strain due to the significant size difference between Cs⁺ and FA⁺
+- Potential for incomplete crystallization or formation of amorphous regions
+- Possible segregation into Cs-rich and FA-rich domains over time
+
+## Conclusion
+The high FA⁺ content (81%) combined with a minority of Cs⁺ (19%) creates a composition that appears to have significant stability challenges based on the reported instability index. The absence of the intermediate-sized MA⁺ cation may contribute to structural instability by creating more abrupt transitions between differently-sized cation domains. Further investigation into optimizing this composition is recommended, potentially by introducing MA⁺ as a ""bridge"" cation or adjusting the Cs⁺:FA⁺ ratio.","Report: # Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample has the following composition:
+- CsPbI₃: 19%
+- FAPbI₃: 81%
+- MAPbI₃: 0%
+
+## Structural and Chemical Considerations
+
+### Cation Size Effects
+The sample contains a binary mixture of Cs⁺ (smaller ionic radius, ~1.67 Å) and FA⁺ (larger ionic radius, ~2.53 Å) cations. The absence of MA⁺ (intermediate size, ~2.17 Å) creates a bimodal size distribution rather than a continuous one. This composition may affect the Goldschmidt tolerance factor, which is critical for structural stability.
+
+### Phase Stability
+Pure CsPbI₃ typically forms a yellow non-perovskite δ-phase at room temperature, while FAPbI₃ tends to form a yellow δ-phase under ambient conditions. The mixture appears to have a high instability index (221696.0), suggesting potential phase segregation or transformation issues.
+
+### Moisture and Thermal Sensitivity
+The FA⁺-dominant composition (81%) may exhibit:
+- Higher susceptibility to moisture-induced degradation compared to Cs⁺-rich compositions
+- Potential thermal expansion mismatches between the Cs⁺-rich and FA⁺-rich domains
+
+### Crystallographic Considerations
+The binary mixture may create:
+- Lattice strain due to the significant size difference between Cs⁺ and FA⁺
+- Potential for incomplete crystallization or formation of amorphous regions
+- Possible segregation into Cs-rich and FA-rich domains over time
+
+## Conclusion
+The high FA⁺ content (81%) combined with a minority of Cs⁺ (19%) creates a composition that appears to have significant stability challenges based on the reported instability index. The absence of the intermediate-sized MA⁺ cation may contribute to structural instability by creating more abrupt transitions between differently-sized cation domains. Further investigation into optimizing this composition is recommended, potentially by introducing MA⁺ as a ""bridge"" cation or adjusting the Cs⁺:FA⁺ ratio. 
+
+**The Actual Instability index is 221696**","Parameters: CsPbI: 0.19, FAPbI: 0.81, MAPbI: 0.0, Instability index: 221696.0 
+
+**The Actual Instability index is 221696**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,11,0.2,0.8,0.0,91681,"CsPbI: 0.2, FAPbI: 0.8, MAPbI: 0.0, Instability index: 91681.0","# Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratio:
+- CsPbI₃: 20%
+- FAPbI₃: 80%
+- MAPbI₃: 0%
+
+## Structural and Chemical Considerations
+
+### Cation Size Effects
+The composition features a binary mixture of Cs⁺ (smaller ionic radius, ~1.67 Å) and FA⁺ (larger ionic radius, ~2.53 Å) cations at the A-site position. The absence of MA⁺ (intermediate radius, ~2.17 Å) creates a bimodal size distribution rather than a continuous gradient of cation sizes.
+
+### Tolerance Factor Implications
+The Goldschmidt tolerance factor (t) for this composition would be influenced predominantly by the FA⁺ cation (80%). The relatively large size difference between Cs⁺ and FA⁺ may create local structural distortions in the PbI₆ octahedral framework, potentially affecting lattice stability.
+
+### Phase Considerations
+Pure CsPbI₃ typically exhibits phase instability at room temperature, preferring a non-photoactive yellow δ-phase. The high FA⁺ content (80%) may help stabilize the photoactive black α-phase, but the composition lacks the intermediate-sized MA⁺ cation that often aids in reducing lattice strain.
+
+## Potential Stability Factors
+
+### Moisture Sensitivity
+The FA⁺ cation contains N-H bonds that can interact with moisture, potentially leading to hydrogen bonding with water molecules. The absence of the highly hygroscopic MA⁺ cation may partially mitigate moisture sensitivity, while the presence of Cs⁺ (20%) could provide some improvement in moisture resistance.
+
+### Thermal Stability
+The incorporation of inorganic Cs⁺ (20%) should enhance thermal stability compared to purely organic-cation perovskites, as Cs⁺ is not susceptible to thermal degradation. However, the dominant FA⁺ component may still undergo thermal decomposition at elevated temperatures.
+
+### Ion Migration Potential
+The binary cation mixture may create channels or pathways with varying activation energies for ion migration. The size mismatch between Cs⁺ and FA⁺ could potentially create interstitial spaces facilitating halide migration, which may affect long-term operational stability.
+
+## Conclusion
+The Cs₀.₂FA₀.₈PbI₃ composition represents a binary cation mixture with a predominance of the larger FA⁺ cation. While this composition eliminates the less stable MA⁺ cation, the significant size difference between Cs⁺ and FA⁺ may introduce structural heterogeneities that could impact long-term stability. Further experimental investigation is recommended to correlate the observed instability index with specific degradation mechanisms.","Report: # Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratio:
+- CsPbI₃: 20%
+- FAPbI₃: 80%
+- MAPbI₃: 0%
+
+## Structural and Chemical Considerations
+
+### Cation Size Effects
+The composition features a binary mixture of Cs⁺ (smaller ionic radius, ~1.67 Å) and FA⁺ (larger ionic radius, ~2.53 Å) cations at the A-site position. The absence of MA⁺ (intermediate radius, ~2.17 Å) creates a bimodal size distribution rather than a continuous gradient of cation sizes.
+
+### Tolerance Factor Implications
+The Goldschmidt tolerance factor (t) for this composition would be influenced predominantly by the FA⁺ cation (80%). The relatively large size difference between Cs⁺ and FA⁺ may create local structural distortions in the PbI₆ octahedral framework, potentially affecting lattice stability.
+
+### Phase Considerations
+Pure CsPbI₃ typically exhibits phase instability at room temperature, preferring a non-photoactive yellow δ-phase. The high FA⁺ content (80%) may help stabilize the photoactive black α-phase, but the composition lacks the intermediate-sized MA⁺ cation that often aids in reducing lattice strain.
+
+## Potential Stability Factors
+
+### Moisture Sensitivity
+The FA⁺ cation contains N-H bonds that can interact with moisture, potentially leading to hydrogen bonding with water molecules. The absence of the highly hygroscopic MA⁺ cation may partially mitigate moisture sensitivity, while the presence of Cs⁺ (20%) could provide some improvement in moisture resistance.
+
+### Thermal Stability
+The incorporation of inorganic Cs⁺ (20%) should enhance thermal stability compared to purely organic-cation perovskites, as Cs⁺ is not susceptible to thermal degradation. However, the dominant FA⁺ component may still undergo thermal decomposition at elevated temperatures.
+
+### Ion Migration Potential
+The binary cation mixture may create channels or pathways with varying activation energies for ion migration. The size mismatch between Cs⁺ and FA⁺ could potentially create interstitial spaces facilitating halide migration, which may affect long-term operational stability.
+
+## Conclusion
+The Cs₀.₂FA₀.₈PbI₃ composition represents a binary cation mixture with a predominance of the larger FA⁺ cation. While this composition eliminates the less stable MA⁺ cation, the significant size difference between Cs⁺ and FA⁺ may introduce structural heterogeneities that could impact long-term stability. Further experimental investigation is recommended to correlate the observed instability index with specific degradation mechanisms. 
+
+**The Actual Instability index is 91681**","Parameters: CsPbI: 0.2, FAPbI: 0.8, MAPbI: 0.0, Instability index: 91681.0 
+
+**The Actual Instability index is 91681**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,12,0.83,0.0,0.17,374938,"CsPbI: 0.83, FAPbI: 0.0, MAPbI: 0.17, Instability index: 374938.0","# Experimental Report: Compositional Analysis of Mixed Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following composition:
+- CsPbI₃: 83%
+- MAPbI₃: 17%
+- FAPbI₃: 0%
+
+## Structural and Chemical Considerations
+
+The high instability index (374938.0) observed in this Cs-MA mixed cation perovskite likely stems from several structural and chemical factors:
+
+The predominant CsPbI₃ component typically crystallizes in a non-photoactive yellow δ-phase at room temperature due to the small ionic radius of Cs⁺ (1.67 Å), which results in a low tolerance factor. While the black α-phase of CsPbI₃ is photoactive, it is thermodynamically unstable under ambient conditions.
+
+The incorporation of 17% MAPbI₃ introduces the methylammonium (MA⁺) cation, which has a larger ionic radius than Cs⁺ but is hygroscopic and thermally unstable. MA⁺ is particularly susceptible to degradation via:
+- Moisture-induced decomposition
+- Thermal degradation at moderate temperatures (>85°C)
+- Volatilization of organic components
+
+## Stability Implications
+
+The absence of formamidinium (FA⁺) in this composition is notable, as FA⁺ typically enhances thermal stability compared to MA⁺. The complete lack of FA⁺ may contribute to the high instability index.
+
+The Cs-MA mixture appears insufficient to stabilize the photoactive black phase of the perovskite structure under ambient conditions. The mismatch between the ionic radii of Cs⁺ and MA⁺ may create lattice strain and defects that serve as degradation initiation sites.
+
+## Recommendations for Future Work
+
+Further investigation should explore:
+1. Incorporation of FA⁺ to potentially improve thermal stability
+2. Optimization of Cs:MA ratio to reduce lattice strain
+3. Surface passivation strategies to mitigate environmental degradation
+4. Alternative halide compositions (mixed I/Br) to enhance structural stability","Report: # Experimental Report: Compositional Analysis of Mixed Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following composition:
+- CsPbI₃: 83%
+- MAPbI₃: 17%
+- FAPbI₃: 0%
+
+## Structural and Chemical Considerations
+
+The high instability index (374938.0) observed in this Cs-MA mixed cation perovskite likely stems from several structural and chemical factors:
+
+The predominant CsPbI₃ component typically crystallizes in a non-photoactive yellow δ-phase at room temperature due to the small ionic radius of Cs⁺ (1.67 Å), which results in a low tolerance factor. While the black α-phase of CsPbI₃ is photoactive, it is thermodynamically unstable under ambient conditions.
+
+The incorporation of 17% MAPbI₃ introduces the methylammonium (MA⁺) cation, which has a larger ionic radius than Cs⁺ but is hygroscopic and thermally unstable. MA⁺ is particularly susceptible to degradation via:
+- Moisture-induced decomposition
+- Thermal degradation at moderate temperatures (>85°C)
+- Volatilization of organic components
+
+## Stability Implications
+
+The absence of formamidinium (FA⁺) in this composition is notable, as FA⁺ typically enhances thermal stability compared to MA⁺. The complete lack of FA⁺ may contribute to the high instability index.
+
+The Cs-MA mixture appears insufficient to stabilize the photoactive black phase of the perovskite structure under ambient conditions. The mismatch between the ionic radii of Cs⁺ and MA⁺ may create lattice strain and defects that serve as degradation initiation sites.
+
+## Recommendations for Future Work
+
+Further investigation should explore:
+1. Incorporation of FA⁺ to potentially improve thermal stability
+2. Optimization of Cs:MA ratio to reduce lattice strain
+3. Surface passivation strategies to mitigate environmental degradation
+4. Alternative halide compositions (mixed I/Br) to enhance structural stability 
+
+**The Actual Instability index is 374938**","Parameters: CsPbI: 0.83, FAPbI: 0.0, MAPbI: 0.17, Instability index: 374938.0 
+
+**The Actual Instability index is 374938**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,13,0.22,0.72,0.06,175885,"CsPbI: 0.22, FAPbI: 0.72, MAPbI: 0.06, Instability index: 175885.0","# Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following A-site cation distribution:
+- Cs⁺: 22%
+- FA⁺ (formamidinium): 72%
+- MA⁺ (methylammonium): 6%
+
+## Structural and Stability Considerations
+
+The observed composition represents a triple-cation perovskite with formamidinium as the dominant A-site cation. This compositional strategy likely aims to balance several competing factors affecting stability:
+
+1. **Tolerance Factor Effects**: The incorporation of 22% Cs⁺ (smaller ionic radius) may help counterbalance the larger FA⁺ cations, potentially optimizing the Goldschmidt tolerance factor toward the ideal value of 1. This could reduce lattice distortion and enhance structural stability.
+
+2. **Phase Stabilization**: Pure FAPbI₃ typically exhibits a yellow non-perovskite δ-phase at room temperature. The inclusion of Cs⁺ and MA⁺ likely helps stabilize the photoactive black α-phase by introducing lattice strain that inhibits phase transitions.
+
+3. **Moisture Resistance**: The relatively high FA⁺ content (72%) may contribute to improved moisture stability compared to MA-rich compositions, as FA⁺ forms stronger hydrogen bonds within the perovskite structure.
+
+4. **Thermal Considerations**: The low MA⁺ content (6%) could be beneficial for thermal stability, as MA⁺ is known to be thermally volatile and prone to degradation at elevated temperatures.
+
+## Potential Stability Concerns
+
+The high instability index (175885.0) suggests potential long-term stability issues that may arise from:
+
+1. The still-significant FA⁺ content, which despite being stabilized by Cs⁺, may retain some tendency toward phase segregation or transition to the non-perovskite phase under environmental stressors.
+
+2. The presence of even a small amount of MA⁺ (6%) could introduce vulnerability to thermal and moisture-induced degradation pathways.
+
+3. The all-iodide composition lacks the stabilizing effects of mixed-halide systems, though it avoids halide segregation issues.
+
+## Conclusion
+
+This triple-cation composition represents a strategic approach to perovskite stability optimization, with FA⁺ providing favorable optoelectronic properties while Cs⁺ and MA⁺ serve as structural stabilizers. Further investigation of environmental stability under controlled conditions would be necessary to fully evaluate the effectiveness of this compositional strategy.","Report: # Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following A-site cation distribution:
+- Cs⁺: 22%
+- FA⁺ (formamidinium): 72%
+- MA⁺ (methylammonium): 6%
+
+## Structural and Stability Considerations
+
+The observed composition represents a triple-cation perovskite with formamidinium as the dominant A-site cation. This compositional strategy likely aims to balance several competing factors affecting stability:
+
+1. **Tolerance Factor Effects**: The incorporation of 22% Cs⁺ (smaller ionic radius) may help counterbalance the larger FA⁺ cations, potentially optimizing the Goldschmidt tolerance factor toward the ideal value of 1. This could reduce lattice distortion and enhance structural stability.
+
+2. **Phase Stabilization**: Pure FAPbI₃ typically exhibits a yellow non-perovskite δ-phase at room temperature. The inclusion of Cs⁺ and MA⁺ likely helps stabilize the photoactive black α-phase by introducing lattice strain that inhibits phase transitions.
+
+3. **Moisture Resistance**: The relatively high FA⁺ content (72%) may contribute to improved moisture stability compared to MA-rich compositions, as FA⁺ forms stronger hydrogen bonds within the perovskite structure.
+
+4. **Thermal Considerations**: The low MA⁺ content (6%) could be beneficial for thermal stability, as MA⁺ is known to be thermally volatile and prone to degradation at elevated temperatures.
+
+## Potential Stability Concerns
+
+The high instability index (175885.0) suggests potential long-term stability issues that may arise from:
+
+1. The still-significant FA⁺ content, which despite being stabilized by Cs⁺, may retain some tendency toward phase segregation or transition to the non-perovskite phase under environmental stressors.
+
+2. The presence of even a small amount of MA⁺ (6%) could introduce vulnerability to thermal and moisture-induced degradation pathways.
+
+3. The all-iodide composition lacks the stabilizing effects of mixed-halide systems, though it avoids halide segregation issues.
+
+## Conclusion
+
+This triple-cation composition represents a strategic approach to perovskite stability optimization, with FA⁺ providing favorable optoelectronic properties while Cs⁺ and MA⁺ serve as structural stabilizers. Further investigation of environmental stability under controlled conditions would be necessary to fully evaluate the effectiveness of this compositional strategy. 
+
+**The Actual Instability index is 175885**","Parameters: CsPbI: 0.22, FAPbI: 0.72, MAPbI: 0.06, Instability index: 175885.0 
+
+**The Actual Instability index is 175885**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,14,0.13,0.85,0.02,98773,"CsPbI: 0.13, FAPbI: 0.85, MAPbI: 0.02, Instability index: 98773.0","# Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratios:
+- CsPbI₃: 0.13
+- FAPbI₃: 0.85
+- MAPbI₃: 0.02
+
+## Discussion of Compositional Effects on Properties and Stability
+
+The examined perovskite represents a mixed-cation composition with formamidinium (FA) as the dominant A-site cation. This compositional profile may influence several key properties:
+
+### Structural Considerations
+The high FA content (0.85) likely determines the primary structural characteristics. FA⁺ has a larger ionic radius (253 pm) compared to Cs⁺ (167 pm) and MA⁺ (217 pm), which affects the tolerance factor and octahedral tilting in the perovskite structure. The relatively low Cs⁺ content (0.13) may be insufficient to fully stabilize the cubic phase, potentially allowing phase segregation under environmental stress.
+
+### Thermal Stability
+The minimal MA⁺ content (0.02) is beneficial for thermal stability, as MA⁺ is known to be thermally labile. However, the dominant FA⁺ component may still present volatility concerns at elevated temperatures, though less pronounced than MA-rich compositions.
+
+### Moisture Sensitivity
+FA-dominant perovskites typically show intermediate moisture sensitivity. The low Cs⁺ incorporation may not provide sufficient protection against humidity-induced degradation, as Cs⁺ typically enhances moisture resistance through stronger ionic bonding.
+
+### Phase Stability
+The composition contains a relatively low proportion of Cs⁺, which is often used to stabilize the photoactive black phase of perovskites. The high FA⁺ content may lead to phase instability, as pure FAPbI₃ naturally tends toward a non-photoactive hexagonal phase at room temperature.
+
+## Conclusion
+The analyzed composition features a predominantly FA-based perovskite with minor Cs⁺ and minimal MA⁺ incorporation. This compositional profile suggests potential vulnerability to phase instability and environmental degradation. Further investigation of phase purity, crystallinity, and response to environmental stressors would be valuable to fully characterize the material's stability profile.","Report: # Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratios:
+- CsPbI₃: 0.13
+- FAPbI₃: 0.85
+- MAPbI₃: 0.02
+
+## Discussion of Compositional Effects on Properties and Stability
+
+The examined perovskite represents a mixed-cation composition with formamidinium (FA) as the dominant A-site cation. This compositional profile may influence several key properties:
+
+### Structural Considerations
+The high FA content (0.85) likely determines the primary structural characteristics. FA⁺ has a larger ionic radius (253 pm) compared to Cs⁺ (167 pm) and MA⁺ (217 pm), which affects the tolerance factor and octahedral tilting in the perovskite structure. The relatively low Cs⁺ content (0.13) may be insufficient to fully stabilize the cubic phase, potentially allowing phase segregation under environmental stress.
+
+### Thermal Stability
+The minimal MA⁺ content (0.02) is beneficial for thermal stability, as MA⁺ is known to be thermally labile. However, the dominant FA⁺ component may still present volatility concerns at elevated temperatures, though less pronounced than MA-rich compositions.
+
+### Moisture Sensitivity
+FA-dominant perovskites typically show intermediate moisture sensitivity. The low Cs⁺ incorporation may not provide sufficient protection against humidity-induced degradation, as Cs⁺ typically enhances moisture resistance through stronger ionic bonding.
+
+### Phase Stability
+The composition contains a relatively low proportion of Cs⁺, which is often used to stabilize the photoactive black phase of perovskites. The high FA⁺ content may lead to phase instability, as pure FAPbI₃ naturally tends toward a non-photoactive hexagonal phase at room temperature.
+
+## Conclusion
+The analyzed composition features a predominantly FA-based perovskite with minor Cs⁺ and minimal MA⁺ incorporation. This compositional profile suggests potential vulnerability to phase instability and environmental degradation. Further investigation of phase purity, crystallinity, and response to environmental stressors would be valuable to fully characterize the material's stability profile. 
+
+**The Actual Instability index is 98773**","Parameters: CsPbI: 0.13, FAPbI: 0.85, MAPbI: 0.02, Instability index: 98773.0 
+
+**The Actual Instability index is 98773**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,15,0.25,0.7,0.06,292981,"CsPbI: 0.25, FAPbI: 0.7, MAPbI: 0.06, Instability index: 292981.0","# Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following A-site cation distribution:
+- Cs⁺: 25%
+- FA⁺ (formamidinium): 70%
+- MA⁺ (methylammonium): 6%
+
+## Structural and Chemical Considerations
+
+The mixed-cation approach employed in this composition represents a strategy to balance the properties of individual perovskite components. The relatively high instability index (292981.0) warrants examination of potential contributing factors.
+
+The formamidinium-dominant composition (70%) likely influences the crystal structure significantly. FA⁺ has a larger ionic radius than both Cs⁺ and MA⁺, which affects the Goldschmidt tolerance factor. While FA⁺ can promote favorable band gap properties, its size may introduce lattice strain in this particular ratio combination.
+
+The moderate Cs⁺ content (25%) would typically contribute to structural stability through its inorganic nature and resistance to degradation pathways that affect organic cations. However, the relatively low proportion compared to FA⁺ may be insufficient to fully stabilize the structure.
+
+The minimal MA⁺ content (6%) suggests an attempt to reduce the presence of this cation, which is known to be vulnerable to thermal and moisture-induced degradation due to its volatile nature and hydrogen bonding capabilities.
+
+## Stability Considerations
+
+The high instability index may reflect challenges in phase stability. The specific ratio employed could result in:
+
+1. Incomplete suppression of the non-photoactive δ-phase that commonly forms in FA-rich compositions
+2. Potential phase segregation under operational conditions
+3. Insufficient Cs⁺ content to adequately stabilize the crystal structure against humidity and thermal stress
+
+Further investigation through XRD analysis, thermal stability testing, and humidity exposure experiments would be necessary to identify specific degradation mechanisms and optimize the composition for improved stability.","Report: # Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following A-site cation distribution:
+- Cs⁺: 25%
+- FA⁺ (formamidinium): 70%
+- MA⁺ (methylammonium): 6%
+
+## Structural and Chemical Considerations
+
+The mixed-cation approach employed in this composition represents a strategy to balance the properties of individual perovskite components. The relatively high instability index (292981.0) warrants examination of potential contributing factors.
+
+The formamidinium-dominant composition (70%) likely influences the crystal structure significantly. FA⁺ has a larger ionic radius than both Cs⁺ and MA⁺, which affects the Goldschmidt tolerance factor. While FA⁺ can promote favorable band gap properties, its size may introduce lattice strain in this particular ratio combination.
+
+The moderate Cs⁺ content (25%) would typically contribute to structural stability through its inorganic nature and resistance to degradation pathways that affect organic cations. However, the relatively low proportion compared to FA⁺ may be insufficient to fully stabilize the structure.
+
+The minimal MA⁺ content (6%) suggests an attempt to reduce the presence of this cation, which is known to be vulnerable to thermal and moisture-induced degradation due to its volatile nature and hydrogen bonding capabilities.
+
+## Stability Considerations
+
+The high instability index may reflect challenges in phase stability. The specific ratio employed could result in:
+
+1. Incomplete suppression of the non-photoactive δ-phase that commonly forms in FA-rich compositions
+2. Potential phase segregation under operational conditions
+3. Insufficient Cs⁺ content to adequately stabilize the crystal structure against humidity and thermal stress
+
+Further investigation through XRD analysis, thermal stability testing, and humidity exposure experiments would be necessary to identify specific degradation mechanisms and optimize the composition for improved stability. 
+
+**The Actual Instability index is 292981**","Parameters: CsPbI: 0.25, FAPbI: 0.7, MAPbI: 0.06, Instability index: 292981.0 
+
+**The Actual Instability index is 292981**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,16,0.13,0.79,0.08,93928,"CsPbI: 0.13, FAPbI: 0.79, MAPbI: 0.08, Instability index: 93928.0","# Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratios:
+- CsPbI₃: 0.13 (13%)
+- FAPbI₃: 0.79 (79%)
+- MAPbI₃: 0.08 (8%)
+- Measured instability index: 93928.0
+
+## Discussion of Composition-Property Relationships
+
+The examined perovskite represents a triple-cation system with FA⁺ as the dominant A-site cation. This compositional profile may influence several key properties:
+
+### Structural Considerations
+The high FA⁺ content (79%) likely dominates the structural characteristics. FA⁺ has a larger ionic radius (253 pm) compared to MA⁺ (217 pm) and Cs⁺ (167 pm), which affects the tolerance factor and octahedral tilting in the perovskite structure. The relatively low Cs⁺ content (13%) may be insufficient to fully stabilize the cubic phase through appropriate tuning of the effective cation radius.
+
+### Chemical Stability Factors
+1. The high proportion of organic cations (FA⁺ and MA⁺, totaling 87%) may contribute to moisture sensitivity, as these organic components are generally more susceptible to hydrolysis than the inorganic Cs⁺.
+
+2. The low MA⁺ content (8%) is potentially beneficial, as MA⁺ is typically the least thermally stable cation among the three, prone to volatilization at elevated temperatures.
+
+3. The relatively low Cs⁺ incorporation may limit the stabilization effect that this inorganic cation typically provides against phase segregation and thermal degradation.
+
+### Potential Stability Implications
+The high instability index (93928.0) suggests significant vulnerability to degradation pathways. This may be attributed to:
+
+- Suboptimal cation ratio for achieving a stable tolerance factor
+- Insufficient Cs⁺ content to adequately suppress phase segregation
+- Predominance of the more hygroscopic FA⁺ cation
+- Potential for phase transitions due to the mixed-cation composition
+
+## Conclusion
+The analyzed perovskite composition exhibits a high FA⁺ content with relatively low proportions of Cs⁺ and MA⁺. This compositional profile, combined with the high instability index, suggests that the material may benefit from compositional optimization to enhance long-term stability. Further investigation into phase behavior, moisture resistance, and thermal stability is recommended to establish clear composition-stability relationships.","Report: # Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratios:
+- CsPbI₃: 0.13 (13%)
+- FAPbI₃: 0.79 (79%)
+- MAPbI₃: 0.08 (8%)
+- Measured instability index: 93928.0
+
+## Discussion of Composition-Property Relationships
+
+The examined perovskite represents a triple-cation system with FA⁺ as the dominant A-site cation. This compositional profile may influence several key properties:
+
+### Structural Considerations
+The high FA⁺ content (79%) likely dominates the structural characteristics. FA⁺ has a larger ionic radius (253 pm) compared to MA⁺ (217 pm) and Cs⁺ (167 pm), which affects the tolerance factor and octahedral tilting in the perovskite structure. The relatively low Cs⁺ content (13%) may be insufficient to fully stabilize the cubic phase through appropriate tuning of the effective cation radius.
+
+### Chemical Stability Factors
+1. The high proportion of organic cations (FA⁺ and MA⁺, totaling 87%) may contribute to moisture sensitivity, as these organic components are generally more susceptible to hydrolysis than the inorganic Cs⁺.
+
+2. The low MA⁺ content (8%) is potentially beneficial, as MA⁺ is typically the least thermally stable cation among the three, prone to volatilization at elevated temperatures.
+
+3. The relatively low Cs⁺ incorporation may limit the stabilization effect that this inorganic cation typically provides against phase segregation and thermal degradation.
+
+### Potential Stability Implications
+The high instability index (93928.0) suggests significant vulnerability to degradation pathways. This may be attributed to:
+
+- Suboptimal cation ratio for achieving a stable tolerance factor
+- Insufficient Cs⁺ content to adequately suppress phase segregation
+- Predominance of the more hygroscopic FA⁺ cation
+- Potential for phase transitions due to the mixed-cation composition
+
+## Conclusion
+The analyzed perovskite composition exhibits a high FA⁺ content with relatively low proportions of Cs⁺ and MA⁺. This compositional profile, combined with the high instability index, suggests that the material may benefit from compositional optimization to enhance long-term stability. Further investigation into phase behavior, moisture resistance, and thermal stability is recommended to establish clear composition-stability relationships. 
+
+**The Actual Instability index is 93928**","Parameters: CsPbI: 0.13, FAPbI: 0.79, MAPbI: 0.08, Instability index: 93928.0 
+
+**The Actual Instability index is 93928**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,17,0.25,0.7,0.06,91655,"CsPbI: 0.25, FAPbI: 0.7, MAPbI: 0.06, Instability index: 91655.0","# Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The mixed-cation perovskite under investigation has the following composition:
+- CsPbI₃: 25%
+- FAPbI₃: 70%
+- MAPbI₃: 5%
+- Instability index: 91655.0
+
+## Discussion of Compositional Effects on Properties
+
+### Structural Considerations
+The examined perovskite incorporates three different A-site cations (Cs⁺, FA⁺, and MA⁺) while maintaining the same lead-iodide (PbI₃⁻) framework. This mixed-cation approach is known to influence the crystal structure and lattice parameters of the resulting material.
+
+The dominant component is FAPbI₃ (70%), which typically exhibits a larger unit cell due to the larger formamidinium cation. The relatively high proportion of FAPbI₃ may contribute to favorable optoelectronic properties, as pure FAPbI₃ is known for its near-ideal bandgap for photovoltaic applications.
+
+### Potential Stability Implications
+The high instability index (91655.0) suggests potential challenges with long-term stability. Several compositional factors may contribute to this:
+
+1. The relatively low Cs⁺ content (25%) may be insufficient to fully stabilize the perovskite structure. Cesium cations typically enhance structural stability through their inorganic nature and appropriate ionic radius.
+
+2. The high FAPbI₃ content (70%) could be problematic as pure FAPbI₃ is known to undergo phase transitions to a non-perovskite yellow phase (δ-phase) under ambient conditions.
+
+3. The minimal MA⁺ content (5%) provides limited contribution of the methylammonium cation, which can sometimes help with crystallization kinetics but is also susceptible to thermal and moisture degradation.
+
+### Chemical Considerations
+The all-iodide composition of the perovskite framework may contribute to instability issues. Iodide-based perovskites typically exhibit:
+- Higher susceptibility to oxidation compared to bromide or mixed halide systems
+- Greater sensitivity to moisture due to the weaker hydrogen bonding with the larger iodide anions
+- Potential for iodide migration under operational conditions
+
+## Conclusion
+The analyzed composition represents a mixed-cation perovskite with a high FAPbI₃ content. The high instability index correlates with compositional features that may compromise long-term stability. Potential strategies for improvement might include increasing the Cs⁺ content, introducing bromide substitution, or further optimizing the cation ratios to achieve a more thermodynamically stable crystal structure.","Report: # Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The mixed-cation perovskite under investigation has the following composition:
+- CsPbI₃: 25%
+- FAPbI₃: 70%
+- MAPbI₃: 5%
+- Instability index: 91655.0
+
+## Discussion of Compositional Effects on Properties
+
+### Structural Considerations
+The examined perovskite incorporates three different A-site cations (Cs⁺, FA⁺, and MA⁺) while maintaining the same lead-iodide (PbI₃⁻) framework. This mixed-cation approach is known to influence the crystal structure and lattice parameters of the resulting material.
+
+The dominant component is FAPbI₃ (70%), which typically exhibits a larger unit cell due to the larger formamidinium cation. The relatively high proportion of FAPbI₃ may contribute to favorable optoelectronic properties, as pure FAPbI₃ is known for its near-ideal bandgap for photovoltaic applications.
+
+### Potential Stability Implications
+The high instability index (91655.0) suggests potential challenges with long-term stability. Several compositional factors may contribute to this:
+
+1. The relatively low Cs⁺ content (25%) may be insufficient to fully stabilize the perovskite structure. Cesium cations typically enhance structural stability through their inorganic nature and appropriate ionic radius.
+
+2. The high FAPbI₃ content (70%) could be problematic as pure FAPbI₃ is known to undergo phase transitions to a non-perovskite yellow phase (δ-phase) under ambient conditions.
+
+3. The minimal MA⁺ content (5%) provides limited contribution of the methylammonium cation, which can sometimes help with crystallization kinetics but is also susceptible to thermal and moisture degradation.
+
+### Chemical Considerations
+The all-iodide composition of the perovskite framework may contribute to instability issues. Iodide-based perovskites typically exhibit:
+- Higher susceptibility to oxidation compared to bromide or mixed halide systems
+- Greater sensitivity to moisture due to the weaker hydrogen bonding with the larger iodide anions
+- Potential for iodide migration under operational conditions
+
+## Conclusion
+The analyzed composition represents a mixed-cation perovskite with a high FAPbI₃ content. The high instability index correlates with compositional features that may compromise long-term stability. Potential strategies for improvement might include increasing the Cs⁺ content, introducing bromide substitution, or further optimizing the cation ratios to achieve a more thermodynamically stable crystal structure. 
+
+**The Actual Instability index is 91655**","Parameters: CsPbI: 0.25, FAPbI: 0.7, MAPbI: 0.06, Instability index: 91655.0 
+
+**The Actual Instability index is 91655**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,18,0.18,0.82,0.0,27122,"CsPbI: 0.18, FAPbI: 0.82, MAPbI: 0.0, Instability index: 27122.0","# Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following composition:
+- CsPbI₃: 18%
+- FAPbI₃: 82%
+- MAPbI₃: 0%
+- Measured instability index: 27122.0
+
+## Discussion of Composition-Property Relationships
+
+### Structural Considerations
+The examined perovskite represents a binary Cs/FA mixed-cation system with complete absence of the MA cation. The incorporation of Cs⁺ (ionic radius ~167 pm) alongside the larger FA⁺ cation (~253 pm) likely influences the Goldschmidt tolerance factor of the resulting perovskite structure. This combination may create a more balanced structural framework compared to single-cation systems.
+
+### Chemical Stability Factors
+The absence of MA⁺ cations eliminates a common degradation pathway, as MA⁺ is known to be susceptible to thermal degradation and moisture-induced decomposition. However, the predominance of FA⁺ (82%) may introduce some vulnerability to phase instability, as pure FAPbI₃ typically exhibits a phase transition to a non-photoactive δ-phase at room temperature.
+
+The moderate Cs⁺ content (18%) likely serves to stabilize the photoactive black phase of the perovskite by:
+1. Reducing lattice strain through partial accommodation of the smaller Cs⁺ ions
+2. Potentially suppressing the phase transition tendencies of the FA-rich composition
+3. Improving thermal stability compared to MA-containing formulations
+
+### Potential Stability Implications
+The relatively high instability index (27122.0) suggests that despite the Cs⁺ incorporation, this particular composition may still face stability challenges. This could be attributed to:
+- Insufficient Cs⁺ content to fully stabilize the FA-rich structure
+- Possible phase segregation under operational conditions
+- Vulnerability to moisture ingress at the specific Cs/FA ratio employed
+
+## Conclusion
+The analyzed Cs₀.₁₈FA₀.₈₂PbI₃ composition represents a MA-free mixed-cation approach to perovskite formulation. While the incorporation of Cs⁺ likely provides some structural stabilization benefits compared to pure FAPbI₃, the high instability index suggests that further compositional optimization may be required to achieve long-term operational stability. Additional strategies such as incorporation of bromide ions, dimensional engineering, or interface passivation could be explored to enhance the stability of this composition.","Report: # Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following composition:
+- CsPbI₃: 18%
+- FAPbI₃: 82%
+- MAPbI₃: 0%
+- Measured instability index: 27122.0
+
+## Discussion of Composition-Property Relationships
+
+### Structural Considerations
+The examined perovskite represents a binary Cs/FA mixed-cation system with complete absence of the MA cation. The incorporation of Cs⁺ (ionic radius ~167 pm) alongside the larger FA⁺ cation (~253 pm) likely influences the Goldschmidt tolerance factor of the resulting perovskite structure. This combination may create a more balanced structural framework compared to single-cation systems.
+
+### Chemical Stability Factors
+The absence of MA⁺ cations eliminates a common degradation pathway, as MA⁺ is known to be susceptible to thermal degradation and moisture-induced decomposition. However, the predominance of FA⁺ (82%) may introduce some vulnerability to phase instability, as pure FAPbI₃ typically exhibits a phase transition to a non-photoactive δ-phase at room temperature.
+
+The moderate Cs⁺ content (18%) likely serves to stabilize the photoactive black phase of the perovskite by:
+1. Reducing lattice strain through partial accommodation of the smaller Cs⁺ ions
+2. Potentially suppressing the phase transition tendencies of the FA-rich composition
+3. Improving thermal stability compared to MA-containing formulations
+
+### Potential Stability Implications
+The relatively high instability index (27122.0) suggests that despite the Cs⁺ incorporation, this particular composition may still face stability challenges. This could be attributed to:
+- Insufficient Cs⁺ content to fully stabilize the FA-rich structure
+- Possible phase segregation under operational conditions
+- Vulnerability to moisture ingress at the specific Cs/FA ratio employed
+
+## Conclusion
+The analyzed Cs₀.₁₈FA₀.₈₂PbI₃ composition represents a MA-free mixed-cation approach to perovskite formulation. While the incorporation of Cs⁺ likely provides some structural stabilization benefits compared to pure FAPbI₃, the high instability index suggests that further compositional optimization may be required to achieve long-term operational stability. Additional strategies such as incorporation of bromide ions, dimensional engineering, or interface passivation could be explored to enhance the stability of this composition. 
+
+**The Actual Instability index is 27122**","Parameters: CsPbI: 0.18, FAPbI: 0.82, MAPbI: 0.0, Instability index: 27122.0 
+
+**The Actual Instability index is 27122**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,19,0.81,0.0,0.19,463506,"CsPbI: 0.81, FAPbI: 0.0, MAPbI: 0.19, Instability index: 463506.0","# Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite material under investigation has the following composition:
+- CsPbI₃: 81%
+- MAPbI₃: 19%
+- FAPbI₃: 0%
+
+## Structural and Chemical Considerations
+
+### Cation Size Effects
+The material is predominantly composed of CsPbI₃ with Cs⁺ being the smallest A-site cation (ionic radius ~1.67 Å) compared to MA⁺ (~2.17 Å) and FA⁺ (~2.53 Å). This size difference likely creates lattice strain in the mixed composition, potentially affecting structural stability.
+
+### Phase Stability
+CsPbI₃ typically forms in the yellow δ-phase at room temperature rather than the desired black α-phase for photovoltaic applications. The addition of 19% MA⁺ may help stabilize the black phase, but the absence of FA⁺ (which typically enhances phase stability in mixed compositions) could be significant.
+
+### Moisture Sensitivity
+The MA⁺ component introduces hygroscopic properties to the perovskite, potentially increasing moisture sensitivity. The high Cs⁺ content may partially mitigate this effect, but the material likely remains vulnerable to humidity-induced degradation.
+
+### Thermal Stability
+The Cs⁺-rich composition should provide better thermal stability than MA⁺-rich formulations, as Cs⁺ is inorganic and not susceptible to thermal decomposition like organic MA⁺ cations.
+
+### Ion Migration
+The mixed-cation composition may experience ion migration under operational conditions, particularly at interfaces. The different ionic radii could create pathways for halide migration, potentially leading to compositional heterogeneity over time.
+
+## Conclusion
+The Cs₀.₈₁MA₀.₁₉PbI₃ composition represents a predominantly inorganic perovskite with a small organic component. While the high Cs⁺ content may enhance thermal stability, the material likely faces challenges regarding phase stability and potential moisture sensitivity. The absence of FA⁺ removes a component often used to stabilize the perovskite structure in mixed-cation formulations.","Report: # Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite material under investigation has the following composition:
+- CsPbI₃: 81%
+- MAPbI₃: 19%
+- FAPbI₃: 0%
+
+## Structural and Chemical Considerations
+
+### Cation Size Effects
+The material is predominantly composed of CsPbI₃ with Cs⁺ being the smallest A-site cation (ionic radius ~1.67 Å) compared to MA⁺ (~2.17 Å) and FA⁺ (~2.53 Å). This size difference likely creates lattice strain in the mixed composition, potentially affecting structural stability.
+
+### Phase Stability
+CsPbI₃ typically forms in the yellow δ-phase at room temperature rather than the desired black α-phase for photovoltaic applications. The addition of 19% MA⁺ may help stabilize the black phase, but the absence of FA⁺ (which typically enhances phase stability in mixed compositions) could be significant.
+
+### Moisture Sensitivity
+The MA⁺ component introduces hygroscopic properties to the perovskite, potentially increasing moisture sensitivity. The high Cs⁺ content may partially mitigate this effect, but the material likely remains vulnerable to humidity-induced degradation.
+
+### Thermal Stability
+The Cs⁺-rich composition should provide better thermal stability than MA⁺-rich formulations, as Cs⁺ is inorganic and not susceptible to thermal decomposition like organic MA⁺ cations.
+
+### Ion Migration
+The mixed-cation composition may experience ion migration under operational conditions, particularly at interfaces. The different ionic radii could create pathways for halide migration, potentially leading to compositional heterogeneity over time.
+
+## Conclusion
+The Cs₀.₈₁MA₀.₁₉PbI₃ composition represents a predominantly inorganic perovskite with a small organic component. While the high Cs⁺ content may enhance thermal stability, the material likely faces challenges regarding phase stability and potential moisture sensitivity. The absence of FA⁺ removes a component often used to stabilize the perovskite structure in mixed-cation formulations. 
+
+**The Actual Instability index is 463506**","Parameters: CsPbI: 0.81, FAPbI: 0.0, MAPbI: 0.19, Instability index: 463506.0 
+
+**The Actual Instability index is 463506**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,20,0.81,0.0,0.19,376516,"CsPbI: 0.81, FAPbI: 0.0, MAPbI: 0.19, Instability index: 376516.0","# Experimental Report: Compositional Analysis of Mixed Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratio:
+- CsPbI₃: 81%
+- MAPbI₃: 19%
+- FAPbI₃: 0%
+
+## Structural and Chemical Considerations
+
+### Cation Size Effects
+The sample is predominantly composed of CsPbI₃ with a smaller fraction of MAPbI₃. The Cs⁺ cation (ionic radius ~1.67 Å) is significantly smaller than the MA⁺ cation (methylammonium, ~2.17 Å). This size disparity may introduce lattice strain at the interfaces between CsPbI₃ and MAPbI₃ domains.
+
+### Phase Stability
+Pure CsPbI₃ typically forms a yellow non-perovskite δ-phase at room temperature, which is photoinactive. The incorporation of 19% MA⁺ cations may help stabilize the black perovskite α-phase by increasing the tolerance factor. However, the absence of FA⁺ (formamidinium) cations, which typically enhance structural stability, could be a limiting factor.
+
+### Moisture and Thermal Sensitivity
+The MA⁺ cation is known to be vulnerable to moisture and thermal degradation due to its organic nature and volatility. While the high Cs⁺ content may improve thermal stability, the presence of MA⁺ could still create pathways for moisture ingress and degradation.
+
+### Ion Migration Considerations
+The mixed cation composition may affect ion migration pathways. The different sizes of Cs⁺ and MA⁺ could create interstitial spaces that facilitate halide migration, potentially leading to phase segregation over time.
+
+## Stability Implications
+The high instability index (376516.0) suggests significant potential for degradation. This may be attributed to:
+1. Possible phase segregation between Cs-rich and MA-rich domains
+2. The absence of FA⁺ cations, which typically contribute to structural stability
+3. Potential lattice strain due to the significant size mismatch between Cs⁺ and MA⁺
+
+## Conclusion
+The perovskite composition with 81% CsPbI₃ and 19% MAPbI₃ presents several structural and chemical features that may compromise long-term stability. The high Cs⁺ content may provide some thermal resilience, but the binary cation mixture without FA⁺ appears suboptimal for overall stability based on general perovskite design principles.","Report: # Experimental Report: Compositional Analysis of Mixed Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratio:
+- CsPbI₃: 81%
+- MAPbI₃: 19%
+- FAPbI₃: 0%
+
+## Structural and Chemical Considerations
+
+### Cation Size Effects
+The sample is predominantly composed of CsPbI₃ with a smaller fraction of MAPbI₃. The Cs⁺ cation (ionic radius ~1.67 Å) is significantly smaller than the MA⁺ cation (methylammonium, ~2.17 Å). This size disparity may introduce lattice strain at the interfaces between CsPbI₃ and MAPbI₃ domains.
+
+### Phase Stability
+Pure CsPbI₃ typically forms a yellow non-perovskite δ-phase at room temperature, which is photoinactive. The incorporation of 19% MA⁺ cations may help stabilize the black perovskite α-phase by increasing the tolerance factor. However, the absence of FA⁺ (formamidinium) cations, which typically enhance structural stability, could be a limiting factor.
+
+### Moisture and Thermal Sensitivity
+The MA⁺ cation is known to be vulnerable to moisture and thermal degradation due to its organic nature and volatility. While the high Cs⁺ content may improve thermal stability, the presence of MA⁺ could still create pathways for moisture ingress and degradation.
+
+### Ion Migration Considerations
+The mixed cation composition may affect ion migration pathways. The different sizes of Cs⁺ and MA⁺ could create interstitial spaces that facilitate halide migration, potentially leading to phase segregation over time.
+
+## Stability Implications
+The high instability index (376516.0) suggests significant potential for degradation. This may be attributed to:
+1. Possible phase segregation between Cs-rich and MA-rich domains
+2. The absence of FA⁺ cations, which typically contribute to structural stability
+3. Potential lattice strain due to the significant size mismatch between Cs⁺ and MA⁺
+
+## Conclusion
+The perovskite composition with 81% CsPbI₃ and 19% MAPbI₃ presents several structural and chemical features that may compromise long-term stability. The high Cs⁺ content may provide some thermal resilience, but the binary cation mixture without FA⁺ appears suboptimal for overall stability based on general perovskite design principles. 
+
+**The Actual Instability index is 376516**","Parameters: CsPbI: 0.81, FAPbI: 0.0, MAPbI: 0.19, Instability index: 376516.0 
+
+**The Actual Instability index is 376516**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,21,0.8,0.11,0.09,228347,"CsPbI: 0.8, FAPbI: 0.11, MAPbI: 0.09, Instability index: 228347.0","# Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratios:
+- CsPbI₃: 0.8 (80%)
+- FAPbI₃: 0.11 (11%)
+- MAPbI₃: 0.09 (9%)
+- Measured instability index: 228347.0
+
+## Discussion of Composition-Property Relationships
+
+### Structural Considerations
+The predominance of Cs⁺ cations (80%) in the A-site position significantly influences the crystal structure. Cs⁺ has a smaller ionic radius (1.67 Å) compared to FA⁺ (~2.53 Å) and MA⁺ (~2.17 Å), which affects the Goldschmidt tolerance factor. The high Cs⁺ content likely results in a more distorted octahedral framework with potential phase instability at room temperature, as pure CsPbI₃ typically forms a non-photoactive yellow δ-phase under ambient conditions.
+
+### Chemical Stability Factors
+The high instability index (228347.0) may be attributed to several factors:
+1. The Cs-dominant composition may be prone to phase segregation due to the significant size mismatch between the different A-site cations.
+2. The limited proportion of organic cations (FA⁺ and MA⁺) reduces hydrogen bonding interactions that can stabilize the perovskite framework.
+3. MA⁺ cations are known to be vulnerable to thermal and moisture degradation, potentially contributing to instability despite their low concentration (9%).
+
+### Potential Implications for Long-term Stability
+The composition suggests challenges for long-term stability:
+- The high Cs⁺ content may promote phase transitions under thermal stress
+- The relatively low FA⁺ content (11%) may be insufficient to provide the stabilizing effect typically observed in mixed-cation formulations
+- The presence of MA⁺, even at 9%, could introduce moisture sensitivity pathways
+
+## Conclusion
+The analyzed composition with 80% CsPbI₃, 11% FAPbI₃, and 9% MAPbI₃ exhibits characteristics that may explain the high instability index. The dominance of Cs⁺ cations combined with relatively low proportions of organic cations likely creates structural and chemical vulnerabilities. Further investigation into phase behavior under environmental stressors would be valuable to fully characterize the stability limitations of this compositional ratio.","Report: # Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratios:
+- CsPbI₃: 0.8 (80%)
+- FAPbI₃: 0.11 (11%)
+- MAPbI₃: 0.09 (9%)
+- Measured instability index: 228347.0
+
+## Discussion of Composition-Property Relationships
+
+### Structural Considerations
+The predominance of Cs⁺ cations (80%) in the A-site position significantly influences the crystal structure. Cs⁺ has a smaller ionic radius (1.67 Å) compared to FA⁺ (~2.53 Å) and MA⁺ (~2.17 Å), which affects the Goldschmidt tolerance factor. The high Cs⁺ content likely results in a more distorted octahedral framework with potential phase instability at room temperature, as pure CsPbI₃ typically forms a non-photoactive yellow δ-phase under ambient conditions.
+
+### Chemical Stability Factors
+The high instability index (228347.0) may be attributed to several factors:
+1. The Cs-dominant composition may be prone to phase segregation due to the significant size mismatch between the different A-site cations.
+2. The limited proportion of organic cations (FA⁺ and MA⁺) reduces hydrogen bonding interactions that can stabilize the perovskite framework.
+3. MA⁺ cations are known to be vulnerable to thermal and moisture degradation, potentially contributing to instability despite their low concentration (9%).
+
+### Potential Implications for Long-term Stability
+The composition suggests challenges for long-term stability:
+- The high Cs⁺ content may promote phase transitions under thermal stress
+- The relatively low FA⁺ content (11%) may be insufficient to provide the stabilizing effect typically observed in mixed-cation formulations
+- The presence of MA⁺, even at 9%, could introduce moisture sensitivity pathways
+
+## Conclusion
+The analyzed composition with 80% CsPbI₃, 11% FAPbI₃, and 9% MAPbI₃ exhibits characteristics that may explain the high instability index. The dominance of Cs⁺ cations combined with relatively low proportions of organic cations likely creates structural and chemical vulnerabilities. Further investigation into phase behavior under environmental stressors would be valuable to fully characterize the stability limitations of this compositional ratio. 
+
+**The Actual Instability index is 228347**","Parameters: CsPbI: 0.8, FAPbI: 0.11, MAPbI: 0.09, Instability index: 228347.0 
+
+**The Actual Instability index is 228347**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,22,0.18,0.78,0.04,147202,"CsPbI: 0.18, FAPbI: 0.78, MAPbI: 0.04, Instability index: 147202.0","# Compositional Analysis of Mixed-Cation Perovskite and Stability Implications
+
+## Composition Analysis
+The perovskite sample under investigation has the following A-site cation distribution:
+- Cs⁺: 18%
+- FA⁺ (formamidinium): 78%
+- MA⁺ (methylammonium): 4%
+
+## Results and Discussion
+The examined perovskite demonstrates a predominantly FA-based composition with significant Cs incorporation and minimal MA content. This compositional profile has several implications for material properties:
+
+The high FA⁺ content (78%) likely contributes to favorable optoelectronic properties, as FAPbI₃ typically exhibits a desirable bandgap (~1.48 eV) and good charge transport characteristics. However, pure FAPbI₃ is known to suffer from phase instability at room temperature, tending to transform from the photoactive α-phase to the non-photoactive δ-phase.
+
+The incorporation of 18% Cs⁺ is significant and likely serves as a stabilizing agent. Cs⁺, with its smaller ionic radius compared to FA⁺, can help suppress the phase transition to the δ-phase by inducing lattice contraction and enhancing the Goldschmidt tolerance factor toward optimal values.
+
+The minimal MA⁺ content (4%) suggests an intentional reduction of this cation, which is beneficial as MA⁺ is known to be thermally unstable and susceptible to volatilization at elevated temperatures.
+
+## Stability Considerations
+The high instability index (147202.0) suggests potential challenges with long-term stability despite the compositional engineering. This could be attributed to:
+
+1. The still-dominant FA⁺ content may not be sufficiently stabilized by the Cs⁺ incorporation
+2. Potential ion migration pathways that remain accessible in this composition
+3. Possible incomplete crystallization or presence of phase impurities
+
+## Conclusion
+The analyzed perovskite composition represents a strategic approach to balance performance and stability through mixed-cation engineering. While the high FA⁺ content supports good optoelectronic properties and the Cs⁺ addition aims to enhance structural stability, the high instability index suggests that further compositional optimization or additional stabilization strategies may be necessary for long-term device performance.","Report: # Compositional Analysis of Mixed-Cation Perovskite and Stability Implications
+
+## Composition Analysis
+The perovskite sample under investigation has the following A-site cation distribution:
+- Cs⁺: 18%
+- FA⁺ (formamidinium): 78%
+- MA⁺ (methylammonium): 4%
+
+## Results and Discussion
+The examined perovskite demonstrates a predominantly FA-based composition with significant Cs incorporation and minimal MA content. This compositional profile has several implications for material properties:
+
+The high FA⁺ content (78%) likely contributes to favorable optoelectronic properties, as FAPbI₃ typically exhibits a desirable bandgap (~1.48 eV) and good charge transport characteristics. However, pure FAPbI₃ is known to suffer from phase instability at room temperature, tending to transform from the photoactive α-phase to the non-photoactive δ-phase.
+
+The incorporation of 18% Cs⁺ is significant and likely serves as a stabilizing agent. Cs⁺, with its smaller ionic radius compared to FA⁺, can help suppress the phase transition to the δ-phase by inducing lattice contraction and enhancing the Goldschmidt tolerance factor toward optimal values.
+
+The minimal MA⁺ content (4%) suggests an intentional reduction of this cation, which is beneficial as MA⁺ is known to be thermally unstable and susceptible to volatilization at elevated temperatures.
+
+## Stability Considerations
+The high instability index (147202.0) suggests potential challenges with long-term stability despite the compositional engineering. This could be attributed to:
+
+1. The still-dominant FA⁺ content may not be sufficiently stabilized by the Cs⁺ incorporation
+2. Potential ion migration pathways that remain accessible in this composition
+3. Possible incomplete crystallization or presence of phase impurities
+
+## Conclusion
+The analyzed perovskite composition represents a strategic approach to balance performance and stability through mixed-cation engineering. While the high FA⁺ content supports good optoelectronic properties and the Cs⁺ addition aims to enhance structural stability, the high instability index suggests that further compositional optimization or additional stabilization strategies may be necessary for long-term device performance. 
+
+**The Actual Instability index is 147202**","Parameters: CsPbI: 0.18, FAPbI: 0.78, MAPbI: 0.04, Instability index: 147202.0 
+
+**The Actual Instability index is 147202**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,23,0.12,0.81,0.07,239057,"CsPbI: 0.12, FAPbI: 0.81, MAPbI: 0.07, Instability index: 239057.0","# Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratios:
+- CsPbI₃: 0.12
+- FAPbI₃: 0.81
+- MAPbI₃: 0.07
+
+## Discussion of Composition-Property Relationships
+
+### Structural Considerations
+The sample is predominantly composed of FAPbI₃ (81%), with minor contributions from CsPbI₃ (12%) and MAPbI₃ (7%). This composition represents a mixed-cation approach, which typically aims to combine the beneficial properties of individual components while mitigating their respective weaknesses.
+
+The formamidinium (FA) cation, being the dominant component, likely determines many of the material's baseline properties. FA cations are larger than both Cs⁺ and methylammonium (MA) cations, which affects the overall tolerance factor of the perovskite structure. The high FA content may promote a more favorable black phase with appropriate band gap for photovoltaic applications.
+
+### Stability Implications
+The relatively high instability index (239057.0) suggests potential challenges with long-term stability. Several compositional factors may contribute to this:
+
+1. **Low Cesium Content**: The relatively low Cs⁺ content (12%) may be insufficient to adequately stabilize the perovskite structure. Cesium ions typically enhance structural stability through their inorganic nature and appropriate ionic radius.
+
+2. **High FA Content**: While FAPbI₃ offers advantageous optoelectronic properties, its high proportion (81%) may contribute to instability as pure FAPbI₃ is known to undergo phase transitions to a non-photoactive δ-phase at room temperature.
+
+3. **Cation Ratio Balance**: The current ratio between the three cations may not provide optimal structural stability. The low MA content (7%) provides minimal contribution of its stabilizing effects while still introducing potential degradation pathways associated with MA's volatile nature.
+
+## Conclusion
+The analyzed perovskite composition demonstrates a FA-dominant mixed-cation approach with minor Cs and MA incorporation. The high instability index suggests that this particular compositional ratio may not provide optimal structural stability. Further optimization of the cation ratios, particularly increasing the Cs content while maintaining appropriate FA levels, might improve the stability while preserving favorable optoelectronic properties.","Report: # Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratios:
+- CsPbI₃: 0.12
+- FAPbI₃: 0.81
+- MAPbI₃: 0.07
+
+## Discussion of Composition-Property Relationships
+
+### Structural Considerations
+The sample is predominantly composed of FAPbI₃ (81%), with minor contributions from CsPbI₃ (12%) and MAPbI₃ (7%). This composition represents a mixed-cation approach, which typically aims to combine the beneficial properties of individual components while mitigating their respective weaknesses.
+
+The formamidinium (FA) cation, being the dominant component, likely determines many of the material's baseline properties. FA cations are larger than both Cs⁺ and methylammonium (MA) cations, which affects the overall tolerance factor of the perovskite structure. The high FA content may promote a more favorable black phase with appropriate band gap for photovoltaic applications.
+
+### Stability Implications
+The relatively high instability index (239057.0) suggests potential challenges with long-term stability. Several compositional factors may contribute to this:
+
+1. **Low Cesium Content**: The relatively low Cs⁺ content (12%) may be insufficient to adequately stabilize the perovskite structure. Cesium ions typically enhance structural stability through their inorganic nature and appropriate ionic radius.
+
+2. **High FA Content**: While FAPbI₃ offers advantageous optoelectronic properties, its high proportion (81%) may contribute to instability as pure FAPbI₃ is known to undergo phase transitions to a non-photoactive δ-phase at room temperature.
+
+3. **Cation Ratio Balance**: The current ratio between the three cations may not provide optimal structural stability. The low MA content (7%) provides minimal contribution of its stabilizing effects while still introducing potential degradation pathways associated with MA's volatile nature.
+
+## Conclusion
+The analyzed perovskite composition demonstrates a FA-dominant mixed-cation approach with minor Cs and MA incorporation. The high instability index suggests that this particular compositional ratio may not provide optimal structural stability. Further optimization of the cation ratios, particularly increasing the Cs content while maintaining appropriate FA levels, might improve the stability while preserving favorable optoelectronic properties. 
+
+**The Actual Instability index is 239057**","Parameters: CsPbI: 0.12, FAPbI: 0.81, MAPbI: 0.07, Instability index: 239057.0 
+
+**The Actual Instability index is 239057**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,24,0.18,0.76,0.06,140574,"CsPbI: 0.18, FAPbI: 0.76, MAPbI: 0.06, Instability index: 140574.0","# Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratios:
+- CsPbI₃: 0.18 (18%)
+- FAPbI₃: 0.76 (76%)
+- MAPbI₃: 0.06 (6%)
+- Measured instability index: 140574.0
+
+## Discussion of Composition-Property Relationships
+
+### Structural Considerations
+The predominance of FA⁺ cations (76%) in the A-site position likely influences the crystal structure significantly. FA⁺ has a larger ionic radius (253 pm) compared to both Cs⁺ (167 pm) and MA⁺ (217 pm), which affects the Goldschmidt tolerance factor. The high FA⁺ content may promote a more cubic-like structure, potentially beneficial for optoelectronic properties.
+
+The relatively low Cs⁺ content (18%) may be insufficient to fully stabilize the crystal lattice against phase transitions. Cesium typically enhances structural rigidity and thermal stability in mixed-cation perovskites.
+
+### Chemical Stability Factors
+The minimal MA⁺ content (6%) is noteworthy, as methylammonium is generally considered the least stable of the three cations due to its volatility and susceptibility to degradation under heat and moisture. However, even this small percentage could potentially contribute to instability pathways.
+
+The high FA⁺ content may present challenges, as formamidinium-based perovskites are prone to phase transitions between the photoactive α-phase and the non-photoactive δ-phase, particularly under environmental stressors.
+
+### Potential Stability Implications
+The high instability index (140574.0) suggests potential structural or chemical vulnerabilities. This could manifest as:
+
+1. Phase segregation under operational conditions
+2. Susceptibility to moisture-induced degradation
+3. Thermal instability at elevated temperatures
+4. Potential ion migration under applied electric fields
+
+## Conclusion
+The perovskite composition is predominantly FA-based with moderate Cs incorporation and minimal MA content. The high instability index suggests that this particular compositional ratio may face stability challenges. Further investigation into phase behavior under various environmental conditions would be valuable to understand the specific degradation mechanisms and to develop appropriate stabilization strategies.","Report: # Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratios:
+- CsPbI₃: 0.18 (18%)
+- FAPbI₃: 0.76 (76%)
+- MAPbI₃: 0.06 (6%)
+- Measured instability index: 140574.0
+
+## Discussion of Composition-Property Relationships
+
+### Structural Considerations
+The predominance of FA⁺ cations (76%) in the A-site position likely influences the crystal structure significantly. FA⁺ has a larger ionic radius (253 pm) compared to both Cs⁺ (167 pm) and MA⁺ (217 pm), which affects the Goldschmidt tolerance factor. The high FA⁺ content may promote a more cubic-like structure, potentially beneficial for optoelectronic properties.
+
+The relatively low Cs⁺ content (18%) may be insufficient to fully stabilize the crystal lattice against phase transitions. Cesium typically enhances structural rigidity and thermal stability in mixed-cation perovskites.
+
+### Chemical Stability Factors
+The minimal MA⁺ content (6%) is noteworthy, as methylammonium is generally considered the least stable of the three cations due to its volatility and susceptibility to degradation under heat and moisture. However, even this small percentage could potentially contribute to instability pathways.
+
+The high FA⁺ content may present challenges, as formamidinium-based perovskites are prone to phase transitions between the photoactive α-phase and the non-photoactive δ-phase, particularly under environmental stressors.
+
+### Potential Stability Implications
+The high instability index (140574.0) suggests potential structural or chemical vulnerabilities. This could manifest as:
+
+1. Phase segregation under operational conditions
+2. Susceptibility to moisture-induced degradation
+3. Thermal instability at elevated temperatures
+4. Potential ion migration under applied electric fields
+
+## Conclusion
+The perovskite composition is predominantly FA-based with moderate Cs incorporation and minimal MA content. The high instability index suggests that this particular compositional ratio may face stability challenges. Further investigation into phase behavior under various environmental conditions would be valuable to understand the specific degradation mechanisms and to develop appropriate stabilization strategies. 
+
+**The Actual Instability index is 140574**","Parameters: CsPbI: 0.18, FAPbI: 0.76, MAPbI: 0.06, Instability index: 140574.0 
+
+**The Actual Instability index is 140574**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,25,0.25,0.7,0.06,107908,"CsPbI: 0.25, FAPbI: 0.7, MAPbI: 0.06, Instability index: 107908.0","# Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following A-site cation distribution:
+- Cs⁺: 25%
+- FA⁺ (formamidinium): 70%
+- MA⁺ (methylammonium): 6%
+
+## Structural and Stability Considerations
+
+The mixed-cation approach employed in this composition represents a strategy to balance structural stability with optoelectronic performance. The relatively high instability index (107908.0) suggests potential challenges with long-term stability that warrant further investigation.
+
+The incorporation of 25% cesium likely provides some structural rigidity due to its inorganic nature and smaller ionic radius compared to the organic cations. Cesium typically enhances thermal stability and reduces hygroscopic tendencies in perovskite structures.
+
+The dominant presence of FA⁺ (70%) may contribute to favorable band gap properties, but FA-rich compositions often face phase instability challenges, particularly conversion to the yellow δ-phase under ambient conditions. The high FA⁺ content could be a significant factor in the observed instability index.
+
+The small fraction of MA⁺ (6%) may serve to improve crystallization kinetics during film formation, though MA⁺ is generally considered the least stable of the three cations due to its volatility and susceptibility to degradation under heat, moisture, and light exposure.
+
+## Recommendations for Further Investigation
+
+1. Conduct X-ray diffraction (XRD) analysis to determine phase purity and identify any non-perovskite phases
+2. Perform thermal stability tests (TGA/DSC) to evaluate decomposition pathways
+3. Assess moisture stability through controlled humidity exposure experiments
+4. Investigate film morphology via SEM/AFM to correlate microstructure with stability
+5. Consider adjusting the Cs⁺ content upward to potentially improve the stability index
+
+The high instability index suggests that compositional optimization may be necessary to achieve a more favorable stability profile while maintaining desirable optoelectronic properties.","Report: # Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following A-site cation distribution:
+- Cs⁺: 25%
+- FA⁺ (formamidinium): 70%
+- MA⁺ (methylammonium): 6%
+
+## Structural and Stability Considerations
+
+The mixed-cation approach employed in this composition represents a strategy to balance structural stability with optoelectronic performance. The relatively high instability index (107908.0) suggests potential challenges with long-term stability that warrant further investigation.
+
+The incorporation of 25% cesium likely provides some structural rigidity due to its inorganic nature and smaller ionic radius compared to the organic cations. Cesium typically enhances thermal stability and reduces hygroscopic tendencies in perovskite structures.
+
+The dominant presence of FA⁺ (70%) may contribute to favorable band gap properties, but FA-rich compositions often face phase instability challenges, particularly conversion to the yellow δ-phase under ambient conditions. The high FA⁺ content could be a significant factor in the observed instability index.
+
+The small fraction of MA⁺ (6%) may serve to improve crystallization kinetics during film formation, though MA⁺ is generally considered the least stable of the three cations due to its volatility and susceptibility to degradation under heat, moisture, and light exposure.
+
+## Recommendations for Further Investigation
+
+1. Conduct X-ray diffraction (XRD) analysis to determine phase purity and identify any non-perovskite phases
+2. Perform thermal stability tests (TGA/DSC) to evaluate decomposition pathways
+3. Assess moisture stability through controlled humidity exposure experiments
+4. Investigate film morphology via SEM/AFM to correlate microstructure with stability
+5. Consider adjusting the Cs⁺ content upward to potentially improve the stability index
+
+The high instability index suggests that compositional optimization may be necessary to achieve a more favorable stability profile while maintaining desirable optoelectronic properties. 
+
+**The Actual Instability index is 107908**","Parameters: CsPbI: 0.25, FAPbI: 0.7, MAPbI: 0.06, Instability index: 107908.0 
+
+**The Actual Instability index is 107908**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,26,0.13,0.79,0.08,184086,"CsPbI: 0.13, FAPbI: 0.79, MAPbI: 0.08, Instability index: 184086.0","# Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratios:
+- CsPbI₃: 0.13 (13%)
+- FAPbI₃: 0.79 (79%)
+- MAPbI₃: 0.08 (8%)
+- Reported instability index: 184086.0
+
+## Discussion of Composition-Property Relationships
+
+### Structural Considerations
+The examined perovskite is predominantly composed of formamidinium (FA) cations, with smaller proportions of cesium (Cs) and methylammonium (MA) cations. This mixed-cation approach is consistent with current strategies to optimize perovskite properties through compositional engineering.
+
+The high FA content (79%) likely influences the crystal structure significantly. FA⁺ has a larger ionic radius than both MA⁺ and Cs⁺, which typically results in a more favorable tolerance factor for the perovskite structure. However, pure FAPbI₃ is known to be thermodynamically unstable at room temperature, often converting to a non-photoactive δ-phase.
+
+### Stability Implications
+The incorporation of 13% Cs⁺ may provide some stabilizing effect by:
+- Reducing lattice strain through appropriate size matching
+- Potentially suppressing phase segregation
+- Enhancing thermal stability due to the inorganic nature of Cs⁺
+
+The relatively low MA⁺ content (8%) could be beneficial for stability as MA⁺ is:
+- More susceptible to thermal degradation
+- Prone to volatilization under environmental stressors
+- More hygroscopic than Cs⁺
+
+### Chemical Considerations
+The all-iodide composition (PbI₃) suggests:
+- A narrower bandgap compared to bromide or mixed-halide variants
+- Potentially higher susceptibility to iodide migration and volatilization
+- Greater sensitivity to oxidative environments
+
+## Conclusion
+The triple-cation composition with FA-dominant character represents a balance between favorable optoelectronic properties and structural stability. The high instability index value suggests potential challenges with long-term stability, which may be addressed through further compositional optimization, interface engineering, or encapsulation strategies. Additional characterization of phase purity, crystallinity, and environmental response would be valuable for comprehensive stability assessment.","Report: # Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratios:
+- CsPbI₃: 0.13 (13%)
+- FAPbI₃: 0.79 (79%)
+- MAPbI₃: 0.08 (8%)
+- Reported instability index: 184086.0
+
+## Discussion of Composition-Property Relationships
+
+### Structural Considerations
+The examined perovskite is predominantly composed of formamidinium (FA) cations, with smaller proportions of cesium (Cs) and methylammonium (MA) cations. This mixed-cation approach is consistent with current strategies to optimize perovskite properties through compositional engineering.
+
+The high FA content (79%) likely influences the crystal structure significantly. FA⁺ has a larger ionic radius than both MA⁺ and Cs⁺, which typically results in a more favorable tolerance factor for the perovskite structure. However, pure FAPbI₃ is known to be thermodynamically unstable at room temperature, often converting to a non-photoactive δ-phase.
+
+### Stability Implications
+The incorporation of 13% Cs⁺ may provide some stabilizing effect by:
+- Reducing lattice strain through appropriate size matching
+- Potentially suppressing phase segregation
+- Enhancing thermal stability due to the inorganic nature of Cs⁺
+
+The relatively low MA⁺ content (8%) could be beneficial for stability as MA⁺ is:
+- More susceptible to thermal degradation
+- Prone to volatilization under environmental stressors
+- More hygroscopic than Cs⁺
+
+### Chemical Considerations
+The all-iodide composition (PbI₃) suggests:
+- A narrower bandgap compared to bromide or mixed-halide variants
+- Potentially higher susceptibility to iodide migration and volatilization
+- Greater sensitivity to oxidative environments
+
+## Conclusion
+The triple-cation composition with FA-dominant character represents a balance between favorable optoelectronic properties and structural stability. The high instability index value suggests potential challenges with long-term stability, which may be addressed through further compositional optimization, interface engineering, or encapsulation strategies. Additional characterization of phase purity, crystallinity, and environmental response would be valuable for comprehensive stability assessment. 
+
+**The Actual Instability index is 184086**","Parameters: CsPbI: 0.13, FAPbI: 0.79, MAPbI: 0.08, Instability index: 184086.0 
+
+**The Actual Instability index is 184086**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,27,0.13,0.79,0.08,88158,"CsPbI: 0.13, FAPbI: 0.79, MAPbI: 0.08, Instability index: 88158.0","# Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratios:
+- CsPbI₃: 0.13 (13%)
+- FAPbI₃: 0.79 (79%)
+- MAPbI₃: 0.08 (8%)
+- Measured instability index: 88158.0
+
+## Discussion of Composition-Property Relationships
+
+### Structural Considerations
+The examined perovskite is predominantly composed of formamidinium (FA) cations, with smaller proportions of cesium (Cs) and methylammonium (MA) cations. This mixed-cation approach is consistent with current strategies to optimize perovskite properties through compositional engineering.
+
+The high FA content (79%) likely influences the crystal structure significantly. FA⁺ has a larger ionic radius (2.53 Å) compared to MA⁺ (2.17 Å) and Cs⁺ (1.81 Å), which affects the Goldschmidt tolerance factor. The FA-dominant composition may promote a more cubic crystal structure, potentially beneficial for optoelectronic properties but possibly challenging for stability.
+
+### Chemical Stability Factors
+The relatively high instability index (88158.0) suggests potential concerns regarding long-term stability. Several compositional factors may contribute to this:
+
+1. The FA-rich composition may increase susceptibility to humidity-induced degradation, as FA⁺ is generally more prone to moisture-related decomposition than Cs⁺.
+
+2. The low Cs⁺ content (13%) may be insufficient to fully stabilize the crystal structure against phase transitions that typically occur under thermal stress or prolonged operation.
+
+3. The minimal MA⁺ incorporation (8%) provides limited contribution to structural stability. While MA⁺ itself is volatile, in mixed compositions it can help optimize the tolerance factor.
+
+### Potential Improvement Strategies
+Based on the compositional analysis, the following modifications might improve stability:
+
+1. Increasing the Cs⁺ content to enhance thermal stability and resistance to phase segregation.
+
+2. Incorporating small amounts of rubidium (Rb⁺) or potassium (K⁺) to further stabilize the crystal lattice.
+
+3. Partial substitution of iodide with bromide to improve moisture resistance, though this would affect the bandgap.
+
+## Conclusion
+The analyzed perovskite composition demonstrates a FA-dominant structure with minor Cs and MA incorporation. The high instability index correlates with the compositional characteristics, particularly the high FA content. Further compositional tuning could potentially improve the stability while maintaining favorable optoelectronic properties.","Report: # Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample under investigation has the following compositional ratios:
+- CsPbI₃: 0.13 (13%)
+- FAPbI₃: 0.79 (79%)
+- MAPbI₃: 0.08 (8%)
+- Measured instability index: 88158.0
+
+## Discussion of Composition-Property Relationships
+
+### Structural Considerations
+The examined perovskite is predominantly composed of formamidinium (FA) cations, with smaller proportions of cesium (Cs) and methylammonium (MA) cations. This mixed-cation approach is consistent with current strategies to optimize perovskite properties through compositional engineering.
+
+The high FA content (79%) likely influences the crystal structure significantly. FA⁺ has a larger ionic radius (2.53 Å) compared to MA⁺ (2.17 Å) and Cs⁺ (1.81 Å), which affects the Goldschmidt tolerance factor. The FA-dominant composition may promote a more cubic crystal structure, potentially beneficial for optoelectronic properties but possibly challenging for stability.
+
+### Chemical Stability Factors
+The relatively high instability index (88158.0) suggests potential concerns regarding long-term stability. Several compositional factors may contribute to this:
+
+1. The FA-rich composition may increase susceptibility to humidity-induced degradation, as FA⁺ is generally more prone to moisture-related decomposition than Cs⁺.
+
+2. The low Cs⁺ content (13%) may be insufficient to fully stabilize the crystal structure against phase transitions that typically occur under thermal stress or prolonged operation.
+
+3. The minimal MA⁺ incorporation (8%) provides limited contribution to structural stability. While MA⁺ itself is volatile, in mixed compositions it can help optimize the tolerance factor.
+
+### Potential Improvement Strategies
+Based on the compositional analysis, the following modifications might improve stability:
+
+1. Increasing the Cs⁺ content to enhance thermal stability and resistance to phase segregation.
+
+2. Incorporating small amounts of rubidium (Rb⁺) or potassium (K⁺) to further stabilize the crystal lattice.
+
+3. Partial substitution of iodide with bromide to improve moisture resistance, though this would affect the bandgap.
+
+## Conclusion
+The analyzed perovskite composition demonstrates a FA-dominant structure with minor Cs and MA incorporation. The high instability index correlates with the compositional characteristics, particularly the high FA content. Further compositional tuning could potentially improve the stability while maintaining favorable optoelectronic properties. 
+
+**The Actual Instability index is 88158**","Parameters: CsPbI: 0.13, FAPbI: 0.79, MAPbI: 0.08, Instability index: 88158.0 
+
+**The Actual Instability index is 88158**"
+llm_experiment_perovskite_instability_trajectory_parameters_seed40.csv,28,0.13,0.87,0.0,24723,"CsPbI: 0.13, FAPbI: 0.87, MAPbI: 0.0, Instability index: 24723.0","# Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample has the following compositional ratio:
+- CsPbI₃: 13%
+- FAPbI₃: 87%
+- MAPbI₃: 0%
+
+## Structural and Stability Considerations
+
+The analyzed composition represents a binary mixed-cation perovskite with Cs⁺ and FA⁺ (formamidinium) as A-site cations in the ABX₃ perovskite structure, while maintaining consistent B-site (Pb²⁺) and X-site (I⁻) ions.
+
+### Key Observations:
+
+1. **Tolerance Factor Effects**: The incorporation of 13% Cs⁺ (smaller ionic radius) alongside 87% FA⁺ (larger ionic radius) likely modifies the overall Goldschmidt tolerance factor of the structure. This combination may help stabilize the perovskite phase by reducing lattice distortion.
+
+2. **Absence of MA⁺**: The complete absence of methylammonium (MA⁺) eliminates potential degradation pathways associated with MA⁺ volatility and thermal instability.
+
+3. **FA⁺ Dominance**: The high FA⁺ content (87%) may contribute to:
+   - Enhanced light absorption properties due to FA⁺'s favorable bandgap characteristics
+   - Potential phase instability concerns, as pure FAPbI₃ tends to form a yellow δ-phase at room temperature
+
+4. **Cs⁺ Stabilization**: The 13% Cs⁺ content likely serves as a structural stabilizer, potentially:
+   - Suppressing the formation of the non-photoactive δ-phase
+   - Improving thermal stability through stronger ionic bonding
+   - Enhancing resistance to moisture-induced degradation
+
+## Stability Implications
+
+The relatively high instability index (24723.0) suggests potential concerns regarding long-term stability. This may be attributed to:
+
+1. The dominant FA⁺ content, which despite beneficial optoelectronic properties, may not be sufficiently stabilized by the 13% Cs⁺ incorporation.
+
+2. Possible incomplete phase stabilization, where the Cs⁺ concentration may be insufficient to fully suppress phase segregation or transformation under environmental stressors.
+
+3. Potential iodide migration pathways that remain accessible in this compositional configuration.
+
+## Conclusion
+
+This Cs₀.₁₃FA₀.₈₇PbI₃ composition represents a strategic approach to balance the favorable optoelectronic properties of FA-based perovskites with the stabilizing effects of Cs⁺ incorporation. However, the high instability index suggests that further compositional engineering may be necessary to achieve optimal long-term stability for practical applications.","Report: # Experimental Report: Compositional Analysis of Mixed-Cation Perovskite
+
+## Composition Analysis
+The perovskite sample has the following compositional ratio:
+- CsPbI₃: 13%
+- FAPbI₃: 87%
+- MAPbI₃: 0%
+
+## Structural and Stability Considerations
+
+The analyzed composition represents a binary mixed-cation perovskite with Cs⁺ and FA⁺ (formamidinium) as A-site cations in the ABX₃ perovskite structure, while maintaining consistent B-site (Pb²⁺) and X-site (I⁻) ions.
+
+### Key Observations:
+
+1. **Tolerance Factor Effects**: The incorporation of 13% Cs⁺ (smaller ionic radius) alongside 87% FA⁺ (larger ionic radius) likely modifies the overall Goldschmidt tolerance factor of the structure. This combination may help stabilize the perovskite phase by reducing lattice distortion.
+
+2. **Absence of MA⁺**: The complete absence of methylammonium (MA⁺) eliminates potential degradation pathways associated with MA⁺ volatility and thermal instability.
+
+3. **FA⁺ Dominance**: The high FA⁺ content (87%) may contribute to:
+   - Enhanced light absorption properties due to FA⁺'s favorable bandgap characteristics
+   - Potential phase instability concerns, as pure FAPbI₃ tends to form a yellow δ-phase at room temperature
+
+4. **Cs⁺ Stabilization**: The 13% Cs⁺ content likely serves as a structural stabilizer, potentially:
+   - Suppressing the formation of the non-photoactive δ-phase
+   - Improving thermal stability through stronger ionic bonding
+   - Enhancing resistance to moisture-induced degradation
+
+## Stability Implications
+
+The relatively high instability index (24723.0) suggests potential concerns regarding long-term stability. This may be attributed to:
+
+1. The dominant FA⁺ content, which despite beneficial optoelectronic properties, may not be sufficiently stabilized by the 13% Cs⁺ incorporation.
+
+2. Possible incomplete phase stabilization, where the Cs⁺ concentration may be insufficient to fully suppress phase segregation or transformation under environmental stressors.
+
+3. Potential iodide migration pathways that remain accessible in this compositional configuration.
+
+## Conclusion
+
+This Cs₀.₁₃FA₀.₈₇PbI₃ composition represents a strategic approach to balance the favorable optoelectronic properties of FA-based perovskites with the stabilizing effects of Cs⁺ incorporation. However, the high instability index suggests that further compositional engineering may be necessary to achieve optimal long-term stability for practical applications. 
+
+**The Actual Instability index is 24723**","Parameters: CsPbI: 0.13, FAPbI: 0.87, MAPbI: 0.0, Instability index: 24723.0 
+
+**The Actual Instability index is 24723**"

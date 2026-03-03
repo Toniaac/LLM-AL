@@ -1,0 +1,24 @@
+Iteration,Index,Observed Target Value,Predicted Target Value,Uncertainty,Min Instability index in Dataset,Phase,Stopping Reason
+0,0,480185.0,,,23707.0,WarmStart,WarmStart
+1,1,505657.0,,,23707.0,WarmStart,WarmStart
+2,6,273687.0,,,23707.0,WarmStart,WarmStart
+3,7,144556.0,,,23707.0,WarmStart,WarmStart
+4,8,351227.0,,,23707.0,WarmStart,WarmStart
+5,28,57484.0,,,23707.0,WarmStart,WarmStart
+6,29,286689.0,,,23707.0,WarmStart,WarmStart
+7,58,221696.0,,,23707.0,WarmStart,WarmStart
+8,59,123157.0,,,23707.0,WarmStart,WarmStart
+9,61,449878.0,,,23707.0,WarmStart,WarmStart
+10,67,227835.0,,,23707.0,WarmStart,WarmStart
+11,72,339668.0,,,23707.0,WarmStart,WarmStart
+12,83,1497320.0,,,23707.0,WarmStart,WarmStart
+13,84,24723.0,,,23707.0,WarmStart,WarmStart
+14,86,91681.0,,,23707.0,WarmStart,WarmStart
+15,87,183180.0,,,23707.0,WarmStart,WarmStart
+16,88,132641.0,,,23707.0,WarmStart,WarmStart
+17,92,261756.0,,,23707.0,WarmStart,WarmStart
+18,113,59211.0,,,23707.0,WarmStart,WarmStart
+19,128,258154.0,,,23707.0,WarmStart,WarmStart
+20,136,1413800.0,,,23707.0,WarmStart,WarmStart
+21,138,1755056.0,,,23707.0,WarmStart,WarmStart
+22,112,23707.0,67280.015625,87100.0234375,23707.0,ActiveLearning,Min Instability index in Dataset reached

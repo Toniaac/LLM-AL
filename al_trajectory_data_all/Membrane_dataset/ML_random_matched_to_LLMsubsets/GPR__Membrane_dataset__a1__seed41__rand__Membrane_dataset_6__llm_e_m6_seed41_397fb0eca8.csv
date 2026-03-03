@@ -1,0 +1,8 @@
+Iteration,Index,Observed Target Value,Predicted Target Value,Uncertainty,Max Elastic Modulus_mean in Dataset,Phase,Stopping Reason
+0,40,162.77817832797786,,,296.35081017123304,WarmStart,WarmStart
+1,47,188.5569729101656,,,296.35081017123304,WarmStart,WarmStart
+2,54,197.8404462303588,,,296.35081017123304,WarmStart,WarmStart
+3,55,168.33383829683325,,,296.35081017123304,WarmStart,WarmStart
+4,61,201.80400290446065,,,296.35081017123304,WarmStart,WarmStart
+5,68,65.48719407925006,,,296.35081017123304,WarmStart,WarmStart
+6,57,296.35081017123304,184.3376336403168,39.115817233113894,296.35081017123304,ActiveLearning,Max Elastic Modulus_mean in Dataset reached

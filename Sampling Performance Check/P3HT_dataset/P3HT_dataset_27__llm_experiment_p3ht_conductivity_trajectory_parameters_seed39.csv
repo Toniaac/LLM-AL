@@ -1,0 +1,1410 @@
+Trajectory_File,Iteration,P3HT content (%),D1 content (%),D2 content (%),D6 content (%),D8 content (%),Conductivity (measured) (S/cm),Formatted_Parameters,Report,Report with output,Formatted_Parameters with output
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,0,89.55,5.72,0.83,1.8,2.1,16.69,"P3HT content (%): 89.55, D1 content (%): 5.72, D2 content (%): 0.83, D6 content (%): 1.8, D8 content (%): 2.1, Conductivity (measured) (S/cm): 16.69","# Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition Analysis
+The thin film composite consists of:
+- P3HT: 89.55%
+- Carbon nanotubes (10.45% total):
+  * Long single-walled (D1): 5.72%
+  * Short single-walled (D2): 0.83%
+  * Double-walled (D6): 1.80%
+  * Multi-walled (D8): 2.10%
+- Measured conductivity: 16.69 S/cm
+
+## Results and Discussion
+The relatively high conductivity (16.69 S/cm) observed in this composite can be attributed to several factors related to the specific composition and morphology of the film.
+
+The composite contains a significant CNT loading (10.45% total), which exceeds the typical percolation threshold for CNT/polymer composites (usually 0.1-5% depending on CNT type and dispersion). This ensures formation of an effective conductive network throughout the P3HT matrix.
+
+The predominance of long single-walled CNTs (D1, 5.72%) is particularly significant, as these nanotubes provide extended conductive pathways with fewer junction points compared to shorter CNTs. The high aspect ratio of long SWCNTs allows for effective percolation at lower loading levels, contributing substantially to the overall conductivity.
+
+The presence of multi-walled (D8) and double-walled (D6) CNTs likely enhances mechanical stability while providing additional conductive pathways. MWCNTs typically offer higher current-carrying capacity but lower mobility compared to SWCNTs, creating a complementary effect in the conductive network.
+
+The P3HT matrix (89.55%) serves as both a semiconducting component and a dispersing medium for the CNTs. The π-π interactions between the thiophene rings of P3HT and the CNT sidewalls likely create favorable electronic coupling, enhancing charge transfer at the polymer-nanotube interfaces.
+
+The relatively low content of short SWCNTs (D2, 0.83%) suggests minimal contribution from these components, which typically require higher loading to achieve percolation due to their reduced aspect ratio.
+
+## Conclusion
+The observed conductivity of 16.69 S/cm results from an effective percolation network dominated by long SWCNTs, supplemented by multi-walled and double-walled CNTs, all dispersed within a semiconducting P3HT matrix. The composition represents an effective balance between CNT loading and polymer content, with the predominance of high-aspect-ratio nanotubes facilitating efficient charge transport pathways.","Report: # Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition Analysis
+The thin film composite consists of:
+- P3HT: 89.55%
+- Carbon nanotubes (10.45% total):
+  * Long single-walled (D1): 5.72%
+  * Short single-walled (D2): 0.83%
+  * Double-walled (D6): 1.80%
+  * Multi-walled (D8): 2.10%
+- Measured conductivity: 16.69 S/cm
+
+## Results and Discussion
+The relatively high conductivity (16.69 S/cm) observed in this composite can be attributed to several factors related to the specific composition and morphology of the film.
+
+The composite contains a significant CNT loading (10.45% total), which exceeds the typical percolation threshold for CNT/polymer composites (usually 0.1-5% depending on CNT type and dispersion). This ensures formation of an effective conductive network throughout the P3HT matrix.
+
+The predominance of long single-walled CNTs (D1, 5.72%) is particularly significant, as these nanotubes provide extended conductive pathways with fewer junction points compared to shorter CNTs. The high aspect ratio of long SWCNTs allows for effective percolation at lower loading levels, contributing substantially to the overall conductivity.
+
+The presence of multi-walled (D8) and double-walled (D6) CNTs likely enhances mechanical stability while providing additional conductive pathways. MWCNTs typically offer higher current-carrying capacity but lower mobility compared to SWCNTs, creating a complementary effect in the conductive network.
+
+The P3HT matrix (89.55%) serves as both a semiconducting component and a dispersing medium for the CNTs. The π-π interactions between the thiophene rings of P3HT and the CNT sidewalls likely create favorable electronic coupling, enhancing charge transfer at the polymer-nanotube interfaces.
+
+The relatively low content of short SWCNTs (D2, 0.83%) suggests minimal contribution from these components, which typically require higher loading to achieve percolation due to their reduced aspect ratio.
+
+## Conclusion
+The observed conductivity of 16.69 S/cm results from an effective percolation network dominated by long SWCNTs, supplemented by multi-walled and double-walled CNTs, all dispersed within a semiconducting P3HT matrix. The composition represents an effective balance between CNT loading and polymer content, with the predominance of high-aspect-ratio nanotubes facilitating efficient charge transport pathways. 
+
+**The Actual Conductivity is 16.69 S/cm**","Parameters: P3HT content (%): 89.55, D1 content (%): 5.72, D2 content (%): 0.83, D6 content (%): 1.8, D8 content (%): 2.1, Conductivity (measured) (S/cm): 16.69 
+
+**The Actual Conductivity is 16.69 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,1,88.45,3.5,1.89,1.96,4.21,16.66,"P3HT content (%): 88.45, D1 content (%): 3.5, D2 content (%): 1.89, D6 content (%): 1.96, D8 content (%): 4.21, Conductivity (measured) (S/cm): 16.66","# Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition
+The thin film composite consists of:
+- P3HT: 88.45%
+- Carbon nanotubes:
+  * Long single-walled (D1): 3.50%
+  * Short single-walled (D2): 1.89%
+  * Double-walled (D6): 1.96%
+  * Multi-walled (D8): 4.21%
+- Total CNT content: 11.55%
+- Measured conductivity: 16.66 S/cm
+
+## Results and Discussion
+
+The moderate conductivity value (16.66 S/cm) observed in this composite can be attributed to several factors related to the formation of conductive networks within the P3HT matrix.
+
+The total CNT loading (11.55%) exceeds typical percolation thresholds for CNT/polymer composites (usually 0.1-5%), suggesting the formation of an effective conductive network. The relatively high P3HT content (88.45%) provides a semiconducting matrix that facilitates charge transport between CNT junctions.
+
+The distribution of CNT types appears optimized for conductivity. The highest proportion comes from multi-walled CNTs (D8, 4.21%), which typically offer good mechanical stability and moderate conductivity. The long single-walled CNTs (D1, 3.50%) likely create spanning pathways across the film, critical for establishing percolation networks. The lower concentrations of short single-walled (D2) and double-walled (D6) CNTs complement the network by filling gaps and creating additional junction points.
+
+The π-π interactions between P3HT's thiophene rings and the CNT sidewalls likely enhance charge transfer at the polymer-nanotube interfaces. This interaction is particularly beneficial with single-walled CNTs (D1 and D2), which together constitute 5.39% of the composite.
+
+The balanced mixture of different CNT types may mitigate agglomeration issues that often occur with single CNT types, leading to more uniform dispersion and consequently better electrical performance.
+
+## Conclusion
+
+The observed conductivity of 16.66 S/cm results from an effective percolation network formed by the 11.55% CNT loading, with complementary contributions from different CNT morphologies and favorable P3HT-CNT interactions.","Report: # Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition
+The thin film composite consists of:
+- P3HT: 88.45%
+- Carbon nanotubes:
+  * Long single-walled (D1): 3.50%
+  * Short single-walled (D2): 1.89%
+  * Double-walled (D6): 1.96%
+  * Multi-walled (D8): 4.21%
+- Total CNT content: 11.55%
+- Measured conductivity: 16.66 S/cm
+
+## Results and Discussion
+
+The moderate conductivity value (16.66 S/cm) observed in this composite can be attributed to several factors related to the formation of conductive networks within the P3HT matrix.
+
+The total CNT loading (11.55%) exceeds typical percolation thresholds for CNT/polymer composites (usually 0.1-5%), suggesting the formation of an effective conductive network. The relatively high P3HT content (88.45%) provides a semiconducting matrix that facilitates charge transport between CNT junctions.
+
+The distribution of CNT types appears optimized for conductivity. The highest proportion comes from multi-walled CNTs (D8, 4.21%), which typically offer good mechanical stability and moderate conductivity. The long single-walled CNTs (D1, 3.50%) likely create spanning pathways across the film, critical for establishing percolation networks. The lower concentrations of short single-walled (D2) and double-walled (D6) CNTs complement the network by filling gaps and creating additional junction points.
+
+The π-π interactions between P3HT's thiophene rings and the CNT sidewalls likely enhance charge transfer at the polymer-nanotube interfaces. This interaction is particularly beneficial with single-walled CNTs (D1 and D2), which together constitute 5.39% of the composite.
+
+The balanced mixture of different CNT types may mitigate agglomeration issues that often occur with single CNT types, leading to more uniform dispersion and consequently better electrical performance.
+
+## Conclusion
+
+The observed conductivity of 16.66 S/cm results from an effective percolation network formed by the 11.55% CNT loading, with complementary contributions from different CNT morphologies and favorable P3HT-CNT interactions. 
+
+**The Actual Conductivity is 16.66 S/cm**","Parameters: P3HT content (%): 88.45, D1 content (%): 3.5, D2 content (%): 1.89, D6 content (%): 1.96, D8 content (%): 4.21, Conductivity (measured) (S/cm): 16.66 
+
+**The Actual Conductivity is 16.66 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,2,89.8,3.01,1.59,4.36,1.23,7.84,"P3HT content (%): 89.8, D1 content (%): 3.01, D2 content (%): 1.59, D6 content (%): 4.36, D8 content (%): 1.23, Conductivity (measured) (S/cm): 7.84","# Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Results and Discussion
+
+The thin film composite containing 89.8% poly(3-hexylthiophene) (P3HT) and 10.2% carbon nanotubes (CNTs) exhibited an electrical conductivity of 7.84 S/cm. The CNT content consisted of 3.01% long single-walled (D1), 1.59% short single-walled (D2), 4.36% double-walled (D6), and 1.23% multi-walled (D8) carbon nanotubes.
+
+The observed conductivity can be explained by the formation of a percolative network within the P3HT matrix. With a total CNT loading of 10.2%, the composite likely exceeds the percolation threshold necessary for efficient charge transport. The relatively high conductivity suggests effective dispersion of the CNTs throughout the polymer matrix, creating continuous conductive pathways.
+
+The CNT composition significantly influences the network formation. The highest proportion of CNTs (4.36%) consists of double-walled nanotubes (D6), which typically offer a balance between flexibility and electrical conductivity. Long single-walled CNTs (D1) constitute the second largest fraction (3.01%), likely contributing to long-range connectivity due to their high aspect ratio. The presence of short single-walled CNTs (D2, 1.59%) may fill gaps between longer tubes, while the small amount of multi-walled CNTs (D8, 1.23%) could provide additional conduction pathways with potentially higher individual conductivity.
+
+The predominance of P3HT (89.8%) ensures good film-forming properties while allowing sufficient π-π interactions between the conjugated polymer backbone and the CNT sidewalls. These interactions likely facilitate charge transfer between the polymer and nanotube networks, enhancing overall conductivity beyond what would be expected from either component alone.
+
+The measured conductivity of 7.84 S/cm represents a significant enhancement over neat P3HT (typically 10^-5 to 10^-3 S/cm), demonstrating effective percolation and synergistic effects between the polymer and the mixed CNT population.","Report: # Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Results and Discussion
+
+The thin film composite containing 89.8% poly(3-hexylthiophene) (P3HT) and 10.2% carbon nanotubes (CNTs) exhibited an electrical conductivity of 7.84 S/cm. The CNT content consisted of 3.01% long single-walled (D1), 1.59% short single-walled (D2), 4.36% double-walled (D6), and 1.23% multi-walled (D8) carbon nanotubes.
+
+The observed conductivity can be explained by the formation of a percolative network within the P3HT matrix. With a total CNT loading of 10.2%, the composite likely exceeds the percolation threshold necessary for efficient charge transport. The relatively high conductivity suggests effective dispersion of the CNTs throughout the polymer matrix, creating continuous conductive pathways.
+
+The CNT composition significantly influences the network formation. The highest proportion of CNTs (4.36%) consists of double-walled nanotubes (D6), which typically offer a balance between flexibility and electrical conductivity. Long single-walled CNTs (D1) constitute the second largest fraction (3.01%), likely contributing to long-range connectivity due to their high aspect ratio. The presence of short single-walled CNTs (D2, 1.59%) may fill gaps between longer tubes, while the small amount of multi-walled CNTs (D8, 1.23%) could provide additional conduction pathways with potentially higher individual conductivity.
+
+The predominance of P3HT (89.8%) ensures good film-forming properties while allowing sufficient π-π interactions between the conjugated polymer backbone and the CNT sidewalls. These interactions likely facilitate charge transfer between the polymer and nanotube networks, enhancing overall conductivity beyond what would be expected from either component alone.
+
+The measured conductivity of 7.84 S/cm represents a significant enhancement over neat P3HT (typically 10^-5 to 10^-3 S/cm), demonstrating effective percolation and synergistic effects between the polymer and the mixed CNT population. 
+
+**The Actual Conductivity is 7.84 S/cm**","Parameters: P3HT content (%): 89.8, D1 content (%): 3.01, D2 content (%): 1.59, D6 content (%): 4.36, D8 content (%): 1.23, Conductivity (measured) (S/cm): 7.84 
+
+**The Actual Conductivity is 7.84 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,3,88.5,7.91,0.96,1.95,0.64,31.24,"P3HT content (%): 88.5, D1 content (%): 7.91, D2 content (%): 0.96, D6 content (%): 1.95, D8 content (%): 0.64, Conductivity (measured) (S/cm): 31.24","# Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Results and Discussion
+
+The thin film composite analyzed in this study consists of poly(3-hexylthiophene) (P3HT) (88.5%) and various carbon nanotubes: long single-walled CNTs (D1, 7.91%), short single-walled CNTs (D2, 0.96%), double-walled CNTs (D6, 1.95%), and multi-walled CNTs (D8, 0.64%). The measured electrical conductivity of this composite is 31.24 S/cm.
+
+The relatively high conductivity observed can be attributed to several key factors in the composite structure:
+
+1. **Percolation network formation**: The total CNT content (11.5%) exceeds typical percolation thresholds for polymer/CNT composites (usually 0.1-5%), ensuring the formation of an effective conductive network. The high proportion of long single-walled CNTs (D1) is particularly significant, as their high aspect ratio facilitates network formation at lower loading levels.
+
+2. **CNT type distribution**: The predominance of single-walled CNTs (D1+D2 = 8.87%) contributes significantly to conductivity due to their superior intrinsic electrical properties compared to multi-walled variants. Long SWCNTs (D1) likely form the primary conductive pathways, while the smaller fractions of DWCNTs (D6) and MWCNTs (D8) may serve as secondary conductive bridges.
+
+3. **P3HT-CNT interactions**: P3HT, being a semiconducting polymer with π-conjugated structure, likely exhibits π-π stacking interactions with the CNT surfaces. This interaction can enhance charge transfer at the polymer-nanotube interfaces, further improving overall conductivity.
+
+4. **Dispersion quality**: The balanced mixture of different CNT types may promote improved dispersion by preventing excessive CNT bundling. The presence of shorter CNTs (D2) alongside longer ones (D1) can help fill gaps in the conductive network.
+
+The measured conductivity (31.24 S/cm) indicates successful formation of an efficient charge transport network, significantly higher than what would be expected from pure P3HT (typically 10⁻⁵-10⁻³ S/cm). This suggests effective load transfer between the polymer matrix and the CNT network.
+
+## Conclusion
+
+The electrical conductivity of the P3HT/CNT composite film (31.24 S/cm) results from an effective conductive network primarily formed by long single-walled CNTs, supplemented by other CNT variants. The high P3HT content (88.5%) maintains the film's processability while the strategic CNT distribution ensures efficient charge transport pathways throughout the composite.","Report: # Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Results and Discussion
+
+The thin film composite analyzed in this study consists of poly(3-hexylthiophene) (P3HT) (88.5%) and various carbon nanotubes: long single-walled CNTs (D1, 7.91%), short single-walled CNTs (D2, 0.96%), double-walled CNTs (D6, 1.95%), and multi-walled CNTs (D8, 0.64%). The measured electrical conductivity of this composite is 31.24 S/cm.
+
+The relatively high conductivity observed can be attributed to several key factors in the composite structure:
+
+1. **Percolation network formation**: The total CNT content (11.5%) exceeds typical percolation thresholds for polymer/CNT composites (usually 0.1-5%), ensuring the formation of an effective conductive network. The high proportion of long single-walled CNTs (D1) is particularly significant, as their high aspect ratio facilitates network formation at lower loading levels.
+
+2. **CNT type distribution**: The predominance of single-walled CNTs (D1+D2 = 8.87%) contributes significantly to conductivity due to their superior intrinsic electrical properties compared to multi-walled variants. Long SWCNTs (D1) likely form the primary conductive pathways, while the smaller fractions of DWCNTs (D6) and MWCNTs (D8) may serve as secondary conductive bridges.
+
+3. **P3HT-CNT interactions**: P3HT, being a semiconducting polymer with π-conjugated structure, likely exhibits π-π stacking interactions with the CNT surfaces. This interaction can enhance charge transfer at the polymer-nanotube interfaces, further improving overall conductivity.
+
+4. **Dispersion quality**: The balanced mixture of different CNT types may promote improved dispersion by preventing excessive CNT bundling. The presence of shorter CNTs (D2) alongside longer ones (D1) can help fill gaps in the conductive network.
+
+The measured conductivity (31.24 S/cm) indicates successful formation of an efficient charge transport network, significantly higher than what would be expected from pure P3HT (typically 10⁻⁵-10⁻³ S/cm). This suggests effective load transfer between the polymer matrix and the CNT network.
+
+## Conclusion
+
+The electrical conductivity of the P3HT/CNT composite film (31.24 S/cm) results from an effective conductive network primarily formed by long single-walled CNTs, supplemented by other CNT variants. The high P3HT content (88.5%) maintains the film's processability while the strategic CNT distribution ensures efficient charge transport pathways throughout the composite. 
+
+**The Actual Conductivity is 31.24 S/cm**","Parameters: P3HT content (%): 88.5, D1 content (%): 7.91, D2 content (%): 0.96, D6 content (%): 1.95, D8 content (%): 0.64, Conductivity (measured) (S/cm): 31.24 
+
+**The Actual Conductivity is 31.24 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,4,88.25,0.83,8.23,1.57,1.21,5.09,"P3HT content (%): 88.25, D1 content (%): 0.83, D2 content (%): 8.23, D6 content (%): 1.57, D8 content (%): 1.21, Conductivity (measured) (S/cm): 5.09","# Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Results and Discussion
+
+The thin film composite analyzed in this study consists of poly(3-hexylthiophene) (P3HT) (88.25%) and various carbon nanotubes: long single-walled CNTs (D1, 0.83%), short single-walled CNTs (D2, 8.23%), double-walled CNTs (D6, 1.57%), and multi-walled CNTs (D8, 1.21%). The measured electrical conductivity of this composite is 5.09 S/cm.
+
+The moderate conductivity value (5.09 S/cm) can be attributed to several factors related to the composition. The composite contains a total CNT loading of 11.75%, which is sufficient to exceed the percolation threshold typically observed in polymer-CNT composites (usually 0.1-5% depending on CNT type and dispersion). This enables the formation of an electrically conductive network throughout the P3HT matrix.
+
+The dominant CNT component is short single-walled nanotubes (D2, 8.23%), which likely contributes significantly to the conductive network. Short SWCNTs typically offer good dispersibility in polymer matrices due to their reduced tendency for bundling compared to longer CNTs. However, their shorter length means more CNT-CNT junctions are required to form conductive pathways, which can introduce contact resistance.
+
+The relatively low content of long single-walled CNTs (D1, 0.83%) may limit the formation of extended conductive pathways that could potentially enhance conductivity. Long SWCNTs can bridge larger distances in the polymer matrix, reducing the number of high-resistance CNT-CNT junctions.
+
+The presence of double-walled (D6, 1.57%) and multi-walled CNTs (D8, 1.21%) likely contributes to conductivity through their inherently higher electrical conductivity compared to single-walled variants, though their dispersion in the P3HT matrix may be less uniform due to stronger van der Waals interactions between the graphitic shells.
+
+The high P3HT content (88.25%) suggests that the polymer phase dominates the composite morphology. P3HT is a semiconducting polymer with moderate conductivity on its own, and its π-conjugated structure can interact favorably with the CNT sidewalls through π-π stacking. This interaction may enhance charge transfer between the polymer and CNTs, potentially improving overall conductivity.
+
+## Conclusion
+
+The electrical conductivity of 5.09 S/cm achieved in this P3HT/CNT composite can be attributed to the formation of a percolating network of predominantly short single-walled CNTs (D2), supplemented by smaller amounts of other CNT types. The high loading of CNTs (11.75% total) ensures network formation, while the specific CNT type distribution influences the network's effectiveness for charge transport. Future optimization could explore increasing the proportion of long SWCNTs to potentially enhance conductivity by reducing junction resistance in the conductive network.","Report: # Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Results and Discussion
+
+The thin film composite analyzed in this study consists of poly(3-hexylthiophene) (P3HT) (88.25%) and various carbon nanotubes: long single-walled CNTs (D1, 0.83%), short single-walled CNTs (D2, 8.23%), double-walled CNTs (D6, 1.57%), and multi-walled CNTs (D8, 1.21%). The measured electrical conductivity of this composite is 5.09 S/cm.
+
+The moderate conductivity value (5.09 S/cm) can be attributed to several factors related to the composition. The composite contains a total CNT loading of 11.75%, which is sufficient to exceed the percolation threshold typically observed in polymer-CNT composites (usually 0.1-5% depending on CNT type and dispersion). This enables the formation of an electrically conductive network throughout the P3HT matrix.
+
+The dominant CNT component is short single-walled nanotubes (D2, 8.23%), which likely contributes significantly to the conductive network. Short SWCNTs typically offer good dispersibility in polymer matrices due to their reduced tendency for bundling compared to longer CNTs. However, their shorter length means more CNT-CNT junctions are required to form conductive pathways, which can introduce contact resistance.
+
+The relatively low content of long single-walled CNTs (D1, 0.83%) may limit the formation of extended conductive pathways that could potentially enhance conductivity. Long SWCNTs can bridge larger distances in the polymer matrix, reducing the number of high-resistance CNT-CNT junctions.
+
+The presence of double-walled (D6, 1.57%) and multi-walled CNTs (D8, 1.21%) likely contributes to conductivity through their inherently higher electrical conductivity compared to single-walled variants, though their dispersion in the P3HT matrix may be less uniform due to stronger van der Waals interactions between the graphitic shells.
+
+The high P3HT content (88.25%) suggests that the polymer phase dominates the composite morphology. P3HT is a semiconducting polymer with moderate conductivity on its own, and its π-conjugated structure can interact favorably with the CNT sidewalls through π-π stacking. This interaction may enhance charge transfer between the polymer and CNTs, potentially improving overall conductivity.
+
+## Conclusion
+
+The electrical conductivity of 5.09 S/cm achieved in this P3HT/CNT composite can be attributed to the formation of a percolating network of predominantly short single-walled CNTs (D2), supplemented by smaller amounts of other CNT types. The high loading of CNTs (11.75% total) ensures network formation, while the specific CNT type distribution influences the network's effectiveness for charge transport. Future optimization could explore increasing the proportion of long SWCNTs to potentially enhance conductivity by reducing junction resistance in the conductive network. 
+
+**The Actual Conductivity is 5.09 S/cm**","Parameters: P3HT content (%): 88.25, D1 content (%): 0.83, D2 content (%): 8.23, D6 content (%): 1.57, D8 content (%): 1.21, Conductivity (measured) (S/cm): 5.09 
+
+**The Actual Conductivity is 5.09 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,5,87.89,2.0,6.26,2.42,1.33,63.53,"P3HT content (%): 87.89, D1 content (%): 2.0, D2 content (%): 6.26, D6 content (%): 2.42, D8 content (%): 1.33, Conductivity (measured) (S/cm): 63.53","# Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition
+- P3HT: 87.89%
+- Carbon nanotubes (total: 12.01%):
+  - Long single-walled (D1): 2.00%
+  - Short single-walled (D2): 6.26%
+  - Double-walled (D6): 2.42%
+  - Multi-walled (D8): 1.33%
+- Measured conductivity: 63.53 S/cm
+
+## Results and Discussion
+
+The composite film demonstrates relatively high electrical conductivity (63.53 S/cm) despite the predominance of the semiconducting polymer P3HT (87.89%). This enhanced conductivity can be attributed to the formation of an effective conductive network by the carbon nanotubes dispersed within the P3HT matrix.
+
+The CNT content (12.01%) exceeds the typical percolation threshold for CNT-polymer composites (usually 0.1-5% depending on CNT type and dispersion), ensuring the formation of continuous conductive pathways. The conductivity value suggests that the percolation threshold has been surpassed, with the CNTs forming an interconnected network that facilitates efficient charge transport throughout the material.
+
+The distribution of CNT types appears optimized for conductivity enhancement. The predominance of short single-walled CNTs (D2, 6.26%) likely contributes to better dispersion within the P3HT matrix due to their smaller dimensions, creating more potential contact points. Meanwhile, the long single-walled CNTs (D1, 2.00%) can bridge larger distances between conductive domains. The inclusion of double-walled (D6) and multi-walled (D8) CNTs provides additional conductive pathways with potentially higher individual conductivities.
+
+The π-π interactions between the conjugated backbone of P3HT and the CNT surfaces likely enhance charge transfer at the polymer-nanotube interfaces, further improving overall conductivity. The relatively high P3HT content (87.89%) maintains the processability and mechanical properties of the film while the strategic incorporation of various CNT types creates an efficient conductive network.
+
+## Conclusion
+
+The measured conductivity of 63.53 S/cm demonstrates successful formation of a conductive network in this P3HT/CNT composite. The balanced combination of different CNT types, particularly the higher proportion of short single-walled CNTs, appears to create an effective percolation network while maintaining a high polymer content for processability.","Report: # Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition
+- P3HT: 87.89%
+- Carbon nanotubes (total: 12.01%):
+  - Long single-walled (D1): 2.00%
+  - Short single-walled (D2): 6.26%
+  - Double-walled (D6): 2.42%
+  - Multi-walled (D8): 1.33%
+- Measured conductivity: 63.53 S/cm
+
+## Results and Discussion
+
+The composite film demonstrates relatively high electrical conductivity (63.53 S/cm) despite the predominance of the semiconducting polymer P3HT (87.89%). This enhanced conductivity can be attributed to the formation of an effective conductive network by the carbon nanotubes dispersed within the P3HT matrix.
+
+The CNT content (12.01%) exceeds the typical percolation threshold for CNT-polymer composites (usually 0.1-5% depending on CNT type and dispersion), ensuring the formation of continuous conductive pathways. The conductivity value suggests that the percolation threshold has been surpassed, with the CNTs forming an interconnected network that facilitates efficient charge transport throughout the material.
+
+The distribution of CNT types appears optimized for conductivity enhancement. The predominance of short single-walled CNTs (D2, 6.26%) likely contributes to better dispersion within the P3HT matrix due to their smaller dimensions, creating more potential contact points. Meanwhile, the long single-walled CNTs (D1, 2.00%) can bridge larger distances between conductive domains. The inclusion of double-walled (D6) and multi-walled (D8) CNTs provides additional conductive pathways with potentially higher individual conductivities.
+
+The π-π interactions between the conjugated backbone of P3HT and the CNT surfaces likely enhance charge transfer at the polymer-nanotube interfaces, further improving overall conductivity. The relatively high P3HT content (87.89%) maintains the processability and mechanical properties of the film while the strategic incorporation of various CNT types creates an efficient conductive network.
+
+## Conclusion
+
+The measured conductivity of 63.53 S/cm demonstrates successful formation of a conductive network in this P3HT/CNT composite. The balanced combination of different CNT types, particularly the higher proportion of short single-walled CNTs, appears to create an effective percolation network while maintaining a high polymer content for processability. 
+
+**The Actual Conductivity is 63.53 S/cm**","Parameters: P3HT content (%): 87.89, D1 content (%): 2.0, D2 content (%): 6.26, D6 content (%): 2.42, D8 content (%): 1.33, Conductivity (measured) (S/cm): 63.53 
+
+**The Actual Conductivity is 63.53 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,6,85.08,7.75,3.5,2.24,1.36,18.25,"P3HT content (%): 85.08, D1 content (%): 7.75, D2 content (%): 3.5, D6 content (%): 2.24, D8 content (%): 1.36, Conductivity (measured) (S/cm): 18.25","# Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition
+The thin film composite consists of:
+- P3HT: 85.08%
+- Long single-walled CNTs (D1): 7.75%
+- Short single-walled CNTs (D2): 3.5%
+- Double-walled CNTs (D6): 2.24%
+- Multi-walled CNTs (D8): 1.36%
+
+## Results
+The measured electrical conductivity of the composite film is 18.25 S/cm.
+
+## Discussion
+The observed conductivity of 18.25 S/cm indicates successful formation of an electrically conductive network within the P3HT matrix. This can be attributed to several factors:
+
+1. **CNT Content and Percolation Threshold**: The total CNT loading (14.85%) exceeds typical percolation thresholds for polymer/CNT composites (usually 0.1-5%), ensuring formation of conductive pathways throughout the material.
+
+2. **CNT Type Distribution**: The predominance of single-walled CNTs (D1+D2=11.25%) is significant, as SWCNTs typically exhibit higher intrinsic conductivity than MWCNTs. The higher proportion of long SWCNTs (D1, 7.75%) is particularly beneficial, as their greater aspect ratio facilitates percolation network formation at lower concentrations.
+
+3. **Hierarchical Network Structure**: The mixture of different CNT types likely creates a hierarchical conductive network. Long SWCNTs (D1) form the primary conductive backbone, while shorter SWCNTs (D2) and DWCNTs (D6) fill gaps between these longer nanotubes. MWCNTs (D8), despite their lower content, may provide additional conductive junctions.
+
+4. **P3HT-CNT Interactions**: P3HT, being a semiconducting polymer with delocalized π-electrons along its backbone, likely forms favorable π-π interactions with the CNT sidewalls. These interactions can enhance charge transfer between the polymer and nanotubes, improving overall conductivity.
+
+The relatively high P3HT content (85.08%) maintains the processability and mechanical properties of the film while still allowing sufficient CNT loading for effective electrical conductivity. The measured conductivity suggests that the CNTs are well-dispersed within the P3HT matrix, minimizing aggregation that would otherwise reduce the effective aspect ratio and conductive network efficiency.","Report: # Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition
+The thin film composite consists of:
+- P3HT: 85.08%
+- Long single-walled CNTs (D1): 7.75%
+- Short single-walled CNTs (D2): 3.5%
+- Double-walled CNTs (D6): 2.24%
+- Multi-walled CNTs (D8): 1.36%
+
+## Results
+The measured electrical conductivity of the composite film is 18.25 S/cm.
+
+## Discussion
+The observed conductivity of 18.25 S/cm indicates successful formation of an electrically conductive network within the P3HT matrix. This can be attributed to several factors:
+
+1. **CNT Content and Percolation Threshold**: The total CNT loading (14.85%) exceeds typical percolation thresholds for polymer/CNT composites (usually 0.1-5%), ensuring formation of conductive pathways throughout the material.
+
+2. **CNT Type Distribution**: The predominance of single-walled CNTs (D1+D2=11.25%) is significant, as SWCNTs typically exhibit higher intrinsic conductivity than MWCNTs. The higher proportion of long SWCNTs (D1, 7.75%) is particularly beneficial, as their greater aspect ratio facilitates percolation network formation at lower concentrations.
+
+3. **Hierarchical Network Structure**: The mixture of different CNT types likely creates a hierarchical conductive network. Long SWCNTs (D1) form the primary conductive backbone, while shorter SWCNTs (D2) and DWCNTs (D6) fill gaps between these longer nanotubes. MWCNTs (D8), despite their lower content, may provide additional conductive junctions.
+
+4. **P3HT-CNT Interactions**: P3HT, being a semiconducting polymer with delocalized π-electrons along its backbone, likely forms favorable π-π interactions with the CNT sidewalls. These interactions can enhance charge transfer between the polymer and nanotubes, improving overall conductivity.
+
+The relatively high P3HT content (85.08%) maintains the processability and mechanical properties of the film while still allowing sufficient CNT loading for effective electrical conductivity. The measured conductivity suggests that the CNTs are well-dispersed within the P3HT matrix, minimizing aggregation that would otherwise reduce the effective aspect ratio and conductive network efficiency. 
+
+**The Actual Conductivity is 18.25 S/cm**","Parameters: P3HT content (%): 85.08, D1 content (%): 7.75, D2 content (%): 3.5, D6 content (%): 2.24, D8 content (%): 1.36, Conductivity (measured) (S/cm): 18.25 
+
+**The Actual Conductivity is 18.25 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,7,68.11,28.69,0.89,0.97,1.35,63.81,"P3HT content (%): 68.11, D1 content (%): 28.69, D2 content (%): 0.89, D6 content (%): 0.97, D8 content (%): 1.35, Conductivity (measured) (S/cm): 63.81","# Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition Analysis
+The thin film composite consists of:
+- P3HT: 68.11%
+- Long single-walled CNTs (D1): 28.69%
+- Short single-walled CNTs (D2): 0.89%
+- Double-walled CNTs (D6): 0.97%
+- Multi-walled CNTs (D8): 1.35%
+
+Measured conductivity: 63.81 S/cm
+
+## Results and Discussion
+The relatively high conductivity (63.81 S/cm) of this composite can be attributed to several key factors related to its composition:
+
+The dominant CNT component is long single-walled nanotubes (D1, 28.69%), which significantly influences the electrical properties. Long SWCNTs are particularly effective at forming conductive pathways due to their high aspect ratio, allowing for efficient percolation network formation at lower loading levels compared to shorter CNTs.
+
+The P3HT matrix (68.11%) provides a semiconducting polymer environment that can facilitate charge transfer between CNTs while maintaining good film-forming properties. The π-conjugated structure of P3HT enables electronic interaction with the CNT sidewalls through π-π stacking, potentially enhancing charge transfer at the polymer-nanotube interfaces.
+
+The minor additions of other CNT types (D2, D6, and D8) likely contribute to the overall conductivity by:
+1. Creating additional junction points within the primary D1 network
+2. Providing diversity in electronic properties (particularly the MWCNTs, which typically offer higher individual conductivity)
+3. Potentially filling gaps in the primary conductive network
+
+## Conclusion
+The high conductivity observed in this composite (63.81 S/cm) results primarily from the effective percolation network formed by the substantial loading of long SWCNTs (D1), complemented by the semiconducting P3HT matrix and the synergistic effects of the minor CNT components. The dominance of long SWCNTs in the CNT fraction suggests that aspect ratio was prioritized in the design of this composite to achieve efficient electrical pathways while maintaining a significant polymer content for mechanical integrity and processability.","Report: # Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition Analysis
+The thin film composite consists of:
+- P3HT: 68.11%
+- Long single-walled CNTs (D1): 28.69%
+- Short single-walled CNTs (D2): 0.89%
+- Double-walled CNTs (D6): 0.97%
+- Multi-walled CNTs (D8): 1.35%
+
+Measured conductivity: 63.81 S/cm
+
+## Results and Discussion
+The relatively high conductivity (63.81 S/cm) of this composite can be attributed to several key factors related to its composition:
+
+The dominant CNT component is long single-walled nanotubes (D1, 28.69%), which significantly influences the electrical properties. Long SWCNTs are particularly effective at forming conductive pathways due to their high aspect ratio, allowing for efficient percolation network formation at lower loading levels compared to shorter CNTs.
+
+The P3HT matrix (68.11%) provides a semiconducting polymer environment that can facilitate charge transfer between CNTs while maintaining good film-forming properties. The π-conjugated structure of P3HT enables electronic interaction with the CNT sidewalls through π-π stacking, potentially enhancing charge transfer at the polymer-nanotube interfaces.
+
+The minor additions of other CNT types (D2, D6, and D8) likely contribute to the overall conductivity by:
+1. Creating additional junction points within the primary D1 network
+2. Providing diversity in electronic properties (particularly the MWCNTs, which typically offer higher individual conductivity)
+3. Potentially filling gaps in the primary conductive network
+
+## Conclusion
+The high conductivity observed in this composite (63.81 S/cm) results primarily from the effective percolation network formed by the substantial loading of long SWCNTs (D1), complemented by the semiconducting P3HT matrix and the synergistic effects of the minor CNT components. The dominance of long SWCNTs in the CNT fraction suggests that aspect ratio was prioritized in the design of this composite to achieve efficient electrical pathways while maintaining a significant polymer content for mechanical integrity and processability. 
+
+**The Actual Conductivity is 63.81 S/cm**","Parameters: P3HT content (%): 68.11, D1 content (%): 28.69, D2 content (%): 0.89, D6 content (%): 0.97, D8 content (%): 1.35, Conductivity (measured) (S/cm): 63.81 
+
+**The Actual Conductivity is 63.81 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,8,40.0,60.0,0.0,0.0,0.0,634.35,"P3HT content (%): 40.0, D1 content (%): 60.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 634.35","# Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition
+The thin film composite consists of:
+- Poly(3-hexylthiophene) (P3HT): 40.0%
+- Long single-walled carbon nanotubes (D1): 60.0%
+- Measured electrical conductivity: 634.35 S/cm
+
+## Results and Discussion
+
+The high conductivity (634.35 S/cm) observed in this composite can be attributed to several key factors related to the specific composition and morphology of the film:
+
+The relatively high loading of long single-walled CNTs (60%) exceeds the percolation threshold necessary for forming efficient conductive pathways throughout the matrix. Long SWCNTs are particularly effective at creating conductive networks due to their high aspect ratio, which enables them to form interconnections at lower volume fractions compared to shorter CNT variants.
+
+P3HT, being a semiconducting polymer with π-conjugated backbone, contributes to charge transport while also facilitating effective dispersion of the CNTs. The 40:60 ratio appears optimal for this system, as it provides sufficient polymer to coat and disperse the nanotubes while maintaining high CNT-CNT contacts.
+
+The exclusive use of long SWCNTs (D1) rather than a mixture with other CNT types likely enhances conductivity through several mechanisms:
+1. Reduced junction resistance compared to heterogeneous CNT networks
+2. Fewer structural defects compared to multi-walled variants (D8)
+3. Greater length providing longer mean free paths for charge carriers
+
+The π-π interactions between P3HT and the SWCNTs likely create favorable electronic coupling at the polymer-nanotube interfaces, further enhancing charge transfer throughout the composite.
+
+This composition demonstrates the effectiveness of high-loading, homogeneous SWCNT networks in polymer matrices for achieving excellent electrical conductivity in thin film composites.","Report: # Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition
+The thin film composite consists of:
+- Poly(3-hexylthiophene) (P3HT): 40.0%
+- Long single-walled carbon nanotubes (D1): 60.0%
+- Measured electrical conductivity: 634.35 S/cm
+
+## Results and Discussion
+
+The high conductivity (634.35 S/cm) observed in this composite can be attributed to several key factors related to the specific composition and morphology of the film:
+
+The relatively high loading of long single-walled CNTs (60%) exceeds the percolation threshold necessary for forming efficient conductive pathways throughout the matrix. Long SWCNTs are particularly effective at creating conductive networks due to their high aspect ratio, which enables them to form interconnections at lower volume fractions compared to shorter CNT variants.
+
+P3HT, being a semiconducting polymer with π-conjugated backbone, contributes to charge transport while also facilitating effective dispersion of the CNTs. The 40:60 ratio appears optimal for this system, as it provides sufficient polymer to coat and disperse the nanotubes while maintaining high CNT-CNT contacts.
+
+The exclusive use of long SWCNTs (D1) rather than a mixture with other CNT types likely enhances conductivity through several mechanisms:
+1. Reduced junction resistance compared to heterogeneous CNT networks
+2. Fewer structural defects compared to multi-walled variants (D8)
+3. Greater length providing longer mean free paths for charge carriers
+
+The π-π interactions between P3HT and the SWCNTs likely create favorable electronic coupling at the polymer-nanotube interfaces, further enhancing charge transfer throughout the composite.
+
+This composition demonstrates the effectiveness of high-loading, homogeneous SWCNT networks in polymer matrices for achieving excellent electrical conductivity in thin film composites. 
+
+**The Actual Conductivity is 634.35 S/cm**","Parameters: P3HT content (%): 40.0, D1 content (%): 60.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 634.35 
+
+**The Actual Conductivity is 634.35 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,9,40.0,60.0,0.0,0.0,0.0,490.06,"P3HT content (%): 40.0, D1 content (%): 60.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 490.06","# Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition
+The thin film composite consists of:
+- Poly(3-hexylthiophene) (P3HT): 40.0%
+- Long single-walled carbon nanotubes (D1): 60.0%
+- Measured electrical conductivity: 490.06 S/cm
+
+## Results and Discussion
+
+The high conductivity (490.06 S/cm) observed in this composite can be attributed to several key factors related to the specific composition and morphology of the film:
+
+The relatively high loading of long single-walled CNTs (60%) exceeds the percolation threshold necessary for forming efficient conductive pathways throughout the matrix. Long SWCNTs are particularly effective at creating conductive networks due to their high aspect ratio, which enables them to form interconnections at lower loading levels compared to shorter CNT variants.
+
+P3HT, a semiconducting polymer, contributes to conductivity through π-π interactions with the CNT sidewalls. At 40% content, P3HT likely forms a continuous phase that helps disperse the CNTs while maintaining good interfacial contact. The conjugated backbone of P3HT facilitates charge transfer between adjacent CNTs, enhancing the overall conductivity.
+
+The exclusive use of long SWCNTs (D1) without shorter variants (D2) or multi-walled types (D6, D8) results in fewer junction points in the conductive network. This reduces contact resistance, as electron transport through CNT-CNT junctions typically represents a significant barrier to conductivity in such composites.
+
+The high conductivity suggests excellent dispersion of the CNTs within the P3HT matrix, minimizing CNT bundling that would otherwise reduce the effective surface area for charge transport. The P3HT likely acts as an effective dispersing agent for the SWCNTs through favorable non-covalent interactions.
+
+This composition represents an optimal balance between conductive filler content and polymer matrix, maximizing conductivity while maintaining processability of the composite film.","Report: # Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition
+The thin film composite consists of:
+- Poly(3-hexylthiophene) (P3HT): 40.0%
+- Long single-walled carbon nanotubes (D1): 60.0%
+- Measured electrical conductivity: 490.06 S/cm
+
+## Results and Discussion
+
+The high conductivity (490.06 S/cm) observed in this composite can be attributed to several key factors related to the specific composition and morphology of the film:
+
+The relatively high loading of long single-walled CNTs (60%) exceeds the percolation threshold necessary for forming efficient conductive pathways throughout the matrix. Long SWCNTs are particularly effective at creating conductive networks due to their high aspect ratio, which enables them to form interconnections at lower loading levels compared to shorter CNT variants.
+
+P3HT, a semiconducting polymer, contributes to conductivity through π-π interactions with the CNT sidewalls. At 40% content, P3HT likely forms a continuous phase that helps disperse the CNTs while maintaining good interfacial contact. The conjugated backbone of P3HT facilitates charge transfer between adjacent CNTs, enhancing the overall conductivity.
+
+The exclusive use of long SWCNTs (D1) without shorter variants (D2) or multi-walled types (D6, D8) results in fewer junction points in the conductive network. This reduces contact resistance, as electron transport through CNT-CNT junctions typically represents a significant barrier to conductivity in such composites.
+
+The high conductivity suggests excellent dispersion of the CNTs within the P3HT matrix, minimizing CNT bundling that would otherwise reduce the effective surface area for charge transport. The P3HT likely acts as an effective dispersing agent for the SWCNTs through favorable non-covalent interactions.
+
+This composition represents an optimal balance between conductive filler content and polymer matrix, maximizing conductivity while maintaining processability of the composite film. 
+
+**The Actual Conductivity is 490.06 S/cm**","Parameters: P3HT content (%): 40.0, D1 content (%): 60.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 490.06 
+
+**The Actual Conductivity is 490.06 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,10,55.34,38.12,6.27,0.01,0.26,654.34,"P3HT content (%): 55.34, D1 content (%): 38.12, D2 content (%): 6.27, D6 content (%): 0.01, D8 content (%): 0.26, Conductivity (measured) (S/cm): 654.34","# Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Results and Discussion
+
+The thin film composite containing 55.34% poly(3-hexylthiophene) (P3HT) and 44.66% carbon nanotubes (CNTs) exhibited a high electrical conductivity of 654.34 S/cm. This conductivity can be attributed to the specific composition and morphology of the conductive network formed within the film.
+
+The CNT component consists predominantly of long single-walled nanotubes (D1, 38.12%), with smaller amounts of short single-walled nanotubes (D2, 6.27%), minimal double-walled nanotubes (D6, 0.01%), and a small fraction of multi-walled nanotubes (D8, 0.26%). This distribution significantly influences the electrical properties of the composite.
+
+The high conductivity observed can be explained by several factors:
+
+1. **Percolation network formation**: The substantial content of long single-walled CNTs (D1) likely creates an efficient percolation network throughout the P3HT matrix. Long SWCNTs provide extended conductive pathways with fewer junctions, reducing contact resistance.
+
+2. **CNT aspect ratio effect**: The dominance of long SWCNTs (D1) over short SWCNTs (D2) contributes to a lower percolation threshold, as high-aspect-ratio fillers form conductive networks more efficiently at lower loading levels.
+
+3. **P3HT-CNT interactions**: The moderate P3HT content (55.34%) allows for effective π-π interactions between the conjugated polymer backbone and the CNT sidewalls, potentially enhancing charge transfer at the interfaces while maintaining sufficient CNT-CNT contacts.
+
+4. **CNT type synergy**: The small addition of MWCNTs (D8, 0.26%) may provide additional conduction pathways that complement the SWCNT network, as MWCNTs typically offer higher individual conductivity than SWCNTs.
+
+The minimal presence of double-walled CNTs (D6, 0.01%) likely has negligible impact on the overall conductivity. The composite's high conductivity suggests excellent CNT dispersion within the P3HT matrix, minimizing agglomeration that would otherwise reduce effective conductive pathways.
+
+## Conclusion
+
+The high electrical conductivity (654.34 S/cm) of this P3HT/CNT composite can be primarily attributed to the formation of an efficient percolation network dominated by long single-walled CNTs, complemented by effective polymer-nanotube interactions that facilitate charge transport throughout the material.","Report: # Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Results and Discussion
+
+The thin film composite containing 55.34% poly(3-hexylthiophene) (P3HT) and 44.66% carbon nanotubes (CNTs) exhibited a high electrical conductivity of 654.34 S/cm. This conductivity can be attributed to the specific composition and morphology of the conductive network formed within the film.
+
+The CNT component consists predominantly of long single-walled nanotubes (D1, 38.12%), with smaller amounts of short single-walled nanotubes (D2, 6.27%), minimal double-walled nanotubes (D6, 0.01%), and a small fraction of multi-walled nanotubes (D8, 0.26%). This distribution significantly influences the electrical properties of the composite.
+
+The high conductivity observed can be explained by several factors:
+
+1. **Percolation network formation**: The substantial content of long single-walled CNTs (D1) likely creates an efficient percolation network throughout the P3HT matrix. Long SWCNTs provide extended conductive pathways with fewer junctions, reducing contact resistance.
+
+2. **CNT aspect ratio effect**: The dominance of long SWCNTs (D1) over short SWCNTs (D2) contributes to a lower percolation threshold, as high-aspect-ratio fillers form conductive networks more efficiently at lower loading levels.
+
+3. **P3HT-CNT interactions**: The moderate P3HT content (55.34%) allows for effective π-π interactions between the conjugated polymer backbone and the CNT sidewalls, potentially enhancing charge transfer at the interfaces while maintaining sufficient CNT-CNT contacts.
+
+4. **CNT type synergy**: The small addition of MWCNTs (D8, 0.26%) may provide additional conduction pathways that complement the SWCNT network, as MWCNTs typically offer higher individual conductivity than SWCNTs.
+
+The minimal presence of double-walled CNTs (D6, 0.01%) likely has negligible impact on the overall conductivity. The composite's high conductivity suggests excellent CNT dispersion within the P3HT matrix, minimizing agglomeration that would otherwise reduce effective conductive pathways.
+
+## Conclusion
+
+The high electrical conductivity (654.34 S/cm) of this P3HT/CNT composite can be primarily attributed to the formation of an efficient percolation network dominated by long single-walled CNTs, complemented by effective polymer-nanotube interactions that facilitate charge transport throughout the material. 
+
+**The Actual Conductivity is 654.34 S/cm**","Parameters: P3HT content (%): 55.34, D1 content (%): 38.12, D2 content (%): 6.27, D6 content (%): 0.01, D8 content (%): 0.26, Conductivity (measured) (S/cm): 654.34 
+
+**The Actual Conductivity is 654.34 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,11,55.34,38.12,6.27,0.01,0.26,561.86,"P3HT content (%): 55.34, D1 content (%): 38.12, D2 content (%): 6.27, D6 content (%): 0.01, D8 content (%): 0.26, Conductivity (measured) (S/cm): 561.86","# Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Results and Discussion
+
+The thin film composite containing 55.34% poly(3-hexylthiophene) (P3HT) and various carbon nanotubes (CNTs) exhibited a high electrical conductivity of 561.86 S/cm. This conductivity can be explained by analyzing the composition and resulting conductive network formation.
+
+The CNT content consists predominantly of long single-walled nanotubes (D1, 38.12%), with smaller amounts of short single-walled nanotubes (D2, 6.27%), multi-walled nanotubes (D8, 0.26%), and minimal double-walled nanotubes (D6, 0.01%). This distribution significantly influences the electrical properties of the composite.
+
+The high conductivity observed can be attributed to several factors:
+
+1. **Percolation network formation**: The substantial content of long single-walled CNTs (D1) likely exceeds the percolation threshold, creating continuous conductive pathways throughout the composite. Long SWCNTs are particularly effective at forming percolation networks due to their high aspect ratio.
+
+2. **CNT type distribution**: The dominance of SWCNTs (D1+D2 = 44.39%) is beneficial for conductivity as they typically possess higher intrinsic conductivity than MWCNTs when properly dispersed. The small fraction of MWCNTs (D8) may provide additional conduction pathways with different electronic properties.
+
+3. **P3HT-CNT interactions**: The relatively high P3HT content (55.34%) suggests good polymer-nanotube interfacial contact. P3HT can wrap around CNTs through π-π interactions between the thiophene rings and CNT sidewalls, potentially enhancing charge transfer between the components.
+
+4. **Dispersion quality**: The high conductivity indicates effective dispersion of the CNTs within the P3HT matrix, minimizing aggregation that would otherwise reduce the effective aspect ratio and conductive network formation.
+
+The balanced ratio between P3HT and CNTs (approximately 55:45) appears optimal for this system, providing sufficient CNT content for percolation while maintaining good processability through the polymer matrix.
+
+## Conclusion
+
+The exceptional conductivity of 561.86 S/cm achieved in this P3HT/CNT composite can be primarily attributed to the high content of long single-walled CNTs forming an effective percolation network, complemented by good polymer-nanotube interactions and effective dispersion within the P3HT matrix.","Report: # Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Results and Discussion
+
+The thin film composite containing 55.34% poly(3-hexylthiophene) (P3HT) and various carbon nanotubes (CNTs) exhibited a high electrical conductivity of 561.86 S/cm. This conductivity can be explained by analyzing the composition and resulting conductive network formation.
+
+The CNT content consists predominantly of long single-walled nanotubes (D1, 38.12%), with smaller amounts of short single-walled nanotubes (D2, 6.27%), multi-walled nanotubes (D8, 0.26%), and minimal double-walled nanotubes (D6, 0.01%). This distribution significantly influences the electrical properties of the composite.
+
+The high conductivity observed can be attributed to several factors:
+
+1. **Percolation network formation**: The substantial content of long single-walled CNTs (D1) likely exceeds the percolation threshold, creating continuous conductive pathways throughout the composite. Long SWCNTs are particularly effective at forming percolation networks due to their high aspect ratio.
+
+2. **CNT type distribution**: The dominance of SWCNTs (D1+D2 = 44.39%) is beneficial for conductivity as they typically possess higher intrinsic conductivity than MWCNTs when properly dispersed. The small fraction of MWCNTs (D8) may provide additional conduction pathways with different electronic properties.
+
+3. **P3HT-CNT interactions**: The relatively high P3HT content (55.34%) suggests good polymer-nanotube interfacial contact. P3HT can wrap around CNTs through π-π interactions between the thiophene rings and CNT sidewalls, potentially enhancing charge transfer between the components.
+
+4. **Dispersion quality**: The high conductivity indicates effective dispersion of the CNTs within the P3HT matrix, minimizing aggregation that would otherwise reduce the effective aspect ratio and conductive network formation.
+
+The balanced ratio between P3HT and CNTs (approximately 55:45) appears optimal for this system, providing sufficient CNT content for percolation while maintaining good processability through the polymer matrix.
+
+## Conclusion
+
+The exceptional conductivity of 561.86 S/cm achieved in this P3HT/CNT composite can be primarily attributed to the high content of long single-walled CNTs forming an effective percolation network, complemented by good polymer-nanotube interactions and effective dispersion within the P3HT matrix. 
+
+**The Actual Conductivity is 561.86 S/cm**","Parameters: P3HT content (%): 55.34, D1 content (%): 38.12, D2 content (%): 6.27, D6 content (%): 0.01, D8 content (%): 0.26, Conductivity (measured) (S/cm): 561.86 
+
+**The Actual Conductivity is 561.86 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,12,45.0,0.0,0.0,55.0,0.0,45.53,"P3HT content (%): 45.0, D1 content (%): 0.0, D2 content (%): 0.0, D6 content (%): 55.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 45.53","# Electrical Conductivity Analysis of P3HT/DWCNT Composite Film
+
+## Composition
+- Poly(3-hexylthiophene) (P3HT): 45.0%
+- Double-walled carbon nanotubes (D6): 55.0%
+- Measured conductivity: 45.53 S/cm
+
+## Results and Discussion
+
+The composite film exhibits a relatively high electrical conductivity of 45.53 S/cm, which can be attributed to the specific composition and interaction between P3HT and double-walled carbon nanotubes (DWCNTs).
+
+The high loading of DWCNTs (55.0%) significantly exceeds the typical percolation threshold for nanotube-polymer composites, which is generally below 5% for well-dispersed systems. This high concentration ensures the formation of a robust conductive network throughout the composite matrix. DWCNTs offer an advantageous balance between flexibility and structural integrity compared to single-walled or multi-walled variants, potentially allowing for better dispersion while maintaining excellent conductive pathways.
+
+The P3HT polymer (45.0%) likely serves dual functions in this composite: (1) as a semiconducting component that contributes to charge transport, and (2) as a dispersing agent that helps prevent DWCNT aggregation. The π-conjugated backbone of P3HT can interact with the π-electron system of the DWCNTs through π-π stacking, potentially enhancing charge transfer at the polymer-nanotube interfaces.
+
+The absence of other CNT types (D1, D2, D8) simplifies the system, allowing for more uniform electrical properties throughout the film. The exclusive use of DWCNTs may provide more consistent tube-tube junctions compared to mixed CNT systems, reducing junction resistance which often limits overall composite conductivity.
+
+The observed conductivity suggests efficient charge transport through both the DWCNT network and potentially across the P3HT-DWCNT interfaces, indicating good dispersion quality and effective percolation network formation.","Report: # Electrical Conductivity Analysis of P3HT/DWCNT Composite Film
+
+## Composition
+- Poly(3-hexylthiophene) (P3HT): 45.0%
+- Double-walled carbon nanotubes (D6): 55.0%
+- Measured conductivity: 45.53 S/cm
+
+## Results and Discussion
+
+The composite film exhibits a relatively high electrical conductivity of 45.53 S/cm, which can be attributed to the specific composition and interaction between P3HT and double-walled carbon nanotubes (DWCNTs).
+
+The high loading of DWCNTs (55.0%) significantly exceeds the typical percolation threshold for nanotube-polymer composites, which is generally below 5% for well-dispersed systems. This high concentration ensures the formation of a robust conductive network throughout the composite matrix. DWCNTs offer an advantageous balance between flexibility and structural integrity compared to single-walled or multi-walled variants, potentially allowing for better dispersion while maintaining excellent conductive pathways.
+
+The P3HT polymer (45.0%) likely serves dual functions in this composite: (1) as a semiconducting component that contributes to charge transport, and (2) as a dispersing agent that helps prevent DWCNT aggregation. The π-conjugated backbone of P3HT can interact with the π-electron system of the DWCNTs through π-π stacking, potentially enhancing charge transfer at the polymer-nanotube interfaces.
+
+The absence of other CNT types (D1, D2, D8) simplifies the system, allowing for more uniform electrical properties throughout the film. The exclusive use of DWCNTs may provide more consistent tube-tube junctions compared to mixed CNT systems, reducing junction resistance which often limits overall composite conductivity.
+
+The observed conductivity suggests efficient charge transport through both the DWCNT network and potentially across the P3HT-DWCNT interfaces, indicating good dispersion quality and effective percolation network formation. 
+
+**The Actual Conductivity is 45.53 S/cm**","Parameters: P3HT content (%): 45.0, D1 content (%): 0.0, D2 content (%): 0.0, D6 content (%): 55.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 45.53 
+
+**The Actual Conductivity is 45.53 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,13,38.38,48.28,0.04,0.57,12.71,636.48,"P3HT content (%): 38.38, D1 content (%): 48.28, D2 content (%): 0.04, D6 content (%): 0.57, D8 content (%): 12.71, Conductivity (measured) (S/cm): 636.48","# Electrical Conductivity Analysis of P3HT-CNT Composite Film
+
+## Composition Analysis
+The thin film composite consists of:
+- P3HT: 38.38%
+- Long single-walled CNTs (D1): 48.28%
+- Short single-walled CNTs (D2): 0.04%
+- Double-walled CNTs (D6): 0.57%
+- Multi-walled CNTs (D8): 12.71%
+- Measured conductivity: 636.48 S/cm
+
+## Results and Discussion
+The high conductivity (636.48 S/cm) observed in this composite can be attributed to several key factors related to the composition and resulting morphology:
+
+The dominant presence of long single-walled CNTs (D1, 48.28%) likely establishes an efficient percolation network throughout the film. Long SWCNTs provide extended conductive pathways with fewer junctions, reducing contact resistance. The high aspect ratio of D1 nanotubes enables percolation at lower loading levels compared to shorter CNT variants.
+
+The moderate P3HT content (38.38%) serves dual functions: (1) it acts as a semiconducting matrix that can contribute to charge transport, and (2) it likely improves CNT dispersion through π-π interactions between the conjugated P3HT backbone and CNT sidewalls. This interaction may enhance charge transfer between the polymer and nanotubes.
+
+The multi-walled CNTs (D8, 12.71%) likely contribute to conductivity through their inherently higher conductance per tube compared to SWCNTs, though they typically form less efficient networks due to lower aspect ratios. Their presence complements the SWCNT network by providing additional conductive pathways.
+
+The minimal presence of short SWCNTs (D2, 0.04%) and DWCNTs (D6, 0.57%) suggests these components play negligible roles in the overall conductivity. The high conductivity despite their low concentration further supports that the D1-dominated network is highly effective.
+
+The overall high CNT content (61.6% total) significantly exceeds typical percolation thresholds, resulting in a dense conductive network. The dominance of long SWCNTs within this network optimizes the balance between junction formation and individual tube conductance.
+
+## Conclusion
+The exceptional conductivity of this composite (636.48 S/cm) results primarily from the synergistic combination of a well-dispersed, long SWCNT-dominated network embedded within a semiconducting P3HT matrix. The composition represents an optimized balance between conductive filler content and polymer matrix that facilitates effective charge transport throughout the material.","Report: # Electrical Conductivity Analysis of P3HT-CNT Composite Film
+
+## Composition Analysis
+The thin film composite consists of:
+- P3HT: 38.38%
+- Long single-walled CNTs (D1): 48.28%
+- Short single-walled CNTs (D2): 0.04%
+- Double-walled CNTs (D6): 0.57%
+- Multi-walled CNTs (D8): 12.71%
+- Measured conductivity: 636.48 S/cm
+
+## Results and Discussion
+The high conductivity (636.48 S/cm) observed in this composite can be attributed to several key factors related to the composition and resulting morphology:
+
+The dominant presence of long single-walled CNTs (D1, 48.28%) likely establishes an efficient percolation network throughout the film. Long SWCNTs provide extended conductive pathways with fewer junctions, reducing contact resistance. The high aspect ratio of D1 nanotubes enables percolation at lower loading levels compared to shorter CNT variants.
+
+The moderate P3HT content (38.38%) serves dual functions: (1) it acts as a semiconducting matrix that can contribute to charge transport, and (2) it likely improves CNT dispersion through π-π interactions between the conjugated P3HT backbone and CNT sidewalls. This interaction may enhance charge transfer between the polymer and nanotubes.
+
+The multi-walled CNTs (D8, 12.71%) likely contribute to conductivity through their inherently higher conductance per tube compared to SWCNTs, though they typically form less efficient networks due to lower aspect ratios. Their presence complements the SWCNT network by providing additional conductive pathways.
+
+The minimal presence of short SWCNTs (D2, 0.04%) and DWCNTs (D6, 0.57%) suggests these components play negligible roles in the overall conductivity. The high conductivity despite their low concentration further supports that the D1-dominated network is highly effective.
+
+The overall high CNT content (61.6% total) significantly exceeds typical percolation thresholds, resulting in a dense conductive network. The dominance of long SWCNTs within this network optimizes the balance between junction formation and individual tube conductance.
+
+## Conclusion
+The exceptional conductivity of this composite (636.48 S/cm) results primarily from the synergistic combination of a well-dispersed, long SWCNT-dominated network embedded within a semiconducting P3HT matrix. The composition represents an optimized balance between conductive filler content and polymer matrix that facilitates effective charge transport throughout the material. 
+
+**The Actual Conductivity is 636.48 S/cm**","Parameters: P3HT content (%): 38.38, D1 content (%): 48.28, D2 content (%): 0.04, D6 content (%): 0.57, D8 content (%): 12.71, Conductivity (measured) (S/cm): 636.48 
+
+**The Actual Conductivity is 636.48 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,14,45.0,0.0,55.0,0.0,0.0,16.94,"P3HT content (%): 45.0, D1 content (%): 0.0, D2 content (%): 55.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 16.94","# Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition
+- P3HT: 45.0%
+- Short single-walled CNTs (D2): 55.0%
+- Measured conductivity: 16.94 S/cm
+
+## Results and Discussion
+
+The composite film exhibits a relatively high electrical conductivity of 16.94 S/cm, which can be attributed to the specific composition and interaction between components. The high loading of short single-walled CNTs (55.0%) exceeds the typical percolation threshold required for forming conductive networks in polymer matrices.
+
+Short single-walled CNTs (D2) provide several advantages in this system. Their smaller dimensions allow for better dispersion throughout the P3HT matrix compared to longer CNTs, which tend to aggregate due to stronger van der Waals interactions. This improved dispersion creates a more uniform conductive network throughout the composite.
+
+The P3HT content (45.0%) is sufficient to provide mechanical stability while allowing the formation of extensive CNT-CNT junctions. The π-π interactions between P3HT's thiophene rings and the CNT sidewalls likely enhance charge transfer at the polymer-CNT interfaces, facilitating electron hopping between conductive pathways.
+
+The high CNT loading (55.0%) indicates operation well above the percolation threshold, where conductivity follows the power law relationship:
+σ ∝ (φ - φc)^t
+
+where φ is the CNT volume fraction, φc is the percolation threshold, and t is the critical exponent.
+
+The absence of other CNT types (D1, D6, D8) simplifies the conductive network, avoiding potential complications from mixed CNT morphologies that could create varying junction resistances. The homogeneity of using only D2 CNTs likely contributes to the efficient charge transport observed in this composite.","Report: # Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition
+- P3HT: 45.0%
+- Short single-walled CNTs (D2): 55.0%
+- Measured conductivity: 16.94 S/cm
+
+## Results and Discussion
+
+The composite film exhibits a relatively high electrical conductivity of 16.94 S/cm, which can be attributed to the specific composition and interaction between components. The high loading of short single-walled CNTs (55.0%) exceeds the typical percolation threshold required for forming conductive networks in polymer matrices.
+
+Short single-walled CNTs (D2) provide several advantages in this system. Their smaller dimensions allow for better dispersion throughout the P3HT matrix compared to longer CNTs, which tend to aggregate due to stronger van der Waals interactions. This improved dispersion creates a more uniform conductive network throughout the composite.
+
+The P3HT content (45.0%) is sufficient to provide mechanical stability while allowing the formation of extensive CNT-CNT junctions. The π-π interactions between P3HT's thiophene rings and the CNT sidewalls likely enhance charge transfer at the polymer-CNT interfaces, facilitating electron hopping between conductive pathways.
+
+The high CNT loading (55.0%) indicates operation well above the percolation threshold, where conductivity follows the power law relationship:
+σ ∝ (φ - φc)^t
+
+where φ is the CNT volume fraction, φc is the percolation threshold, and t is the critical exponent.
+
+The absence of other CNT types (D1, D6, D8) simplifies the conductive network, avoiding potential complications from mixed CNT morphologies that could create varying junction resistances. The homogeneity of using only D2 CNTs likely contributes to the efficient charge transport observed in this composite. 
+
+**The Actual Conductivity is 16.94 S/cm**","Parameters: P3HT content (%): 45.0, D1 content (%): 0.0, D2 content (%): 55.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 16.94 
+
+**The Actual Conductivity is 16.94 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,15,54.48,0.65,0.53,0.46,43.89,12.19,"P3HT content (%): 54.48, D1 content (%): 0.65, D2 content (%): 0.53, D6 content (%): 0.46, D8 content (%): 43.89, Conductivity (measured) (S/cm): 12.19","# Electrical Conductivity Analysis of P3HT-CNT Composite Film
+
+## Composition Analysis
+The thin film composite consists of:
+- P3HT: 54.48%
+- Carbon nanotubes:
+  * D1 (long single-walled CNTs): 0.65%
+  * D2 (short single-walled CNTs): 0.53%
+  * D6 (double-walled CNTs): 0.46%
+  * D8 (multi-walled CNTs): 43.89%
+- Measured conductivity: 12.19 S/cm
+
+## Results and Discussion
+The relatively high conductivity (12.19 S/cm) of this composite can be attributed to several key factors:
+
+The high loading of multi-walled carbon nanotubes (D8, 43.89%) is the dominant factor contributing to conductivity. MWCNTs typically form robust conductive networks due to their larger diameter and multiple conductive walls. This high concentration significantly exceeds the percolation threshold, creating numerous conductive pathways throughout the film.
+
+The P3HT content (54.48%) provides a semiconducting matrix that facilitates charge transfer between CNTs. P3HT's conjugated backbone likely forms π-π interactions with the CNT surfaces, improving interfacial contact and charge transfer efficiency.
+
+The small percentages of single-walled (D1, D2) and double-walled (D6) CNTs likely enhance the conductive network by:
+1. Filling gaps between larger MWCNTs
+2. Creating additional conductive bridges
+3. Potentially improving dispersion quality
+
+The ratio between P3HT and total CNT content (54.48:45.52) represents a balanced composition where the polymer provides sufficient mechanical integrity while allowing the formation of an extensive CNT percolation network.
+
+The higher proportion of long SWCNTs (D1) compared to short SWCNTs (D2) is beneficial, as longer nanotubes more effectively bridge conductive pathways, reducing junction resistance in the percolation network.
+
+## Conclusion
+The observed conductivity of 12.19 S/cm results primarily from the high MWCNT content creating a robust percolation network, complemented by the semiconducting P3HT matrix and smaller amounts of SWCNTs and DWCNTs that enhance network connectivity and charge transport.","Report: # Electrical Conductivity Analysis of P3HT-CNT Composite Film
+
+## Composition Analysis
+The thin film composite consists of:
+- P3HT: 54.48%
+- Carbon nanotubes:
+  * D1 (long single-walled CNTs): 0.65%
+  * D2 (short single-walled CNTs): 0.53%
+  * D6 (double-walled CNTs): 0.46%
+  * D8 (multi-walled CNTs): 43.89%
+- Measured conductivity: 12.19 S/cm
+
+## Results and Discussion
+The relatively high conductivity (12.19 S/cm) of this composite can be attributed to several key factors:
+
+The high loading of multi-walled carbon nanotubes (D8, 43.89%) is the dominant factor contributing to conductivity. MWCNTs typically form robust conductive networks due to their larger diameter and multiple conductive walls. This high concentration significantly exceeds the percolation threshold, creating numerous conductive pathways throughout the film.
+
+The P3HT content (54.48%) provides a semiconducting matrix that facilitates charge transfer between CNTs. P3HT's conjugated backbone likely forms π-π interactions with the CNT surfaces, improving interfacial contact and charge transfer efficiency.
+
+The small percentages of single-walled (D1, D2) and double-walled (D6) CNTs likely enhance the conductive network by:
+1. Filling gaps between larger MWCNTs
+2. Creating additional conductive bridges
+3. Potentially improving dispersion quality
+
+The ratio between P3HT and total CNT content (54.48:45.52) represents a balanced composition where the polymer provides sufficient mechanical integrity while allowing the formation of an extensive CNT percolation network.
+
+The higher proportion of long SWCNTs (D1) compared to short SWCNTs (D2) is beneficial, as longer nanotubes more effectively bridge conductive pathways, reducing junction resistance in the percolation network.
+
+## Conclusion
+The observed conductivity of 12.19 S/cm results primarily from the high MWCNT content creating a robust percolation network, complemented by the semiconducting P3HT matrix and smaller amounts of SWCNTs and DWCNTs that enhance network connectivity and charge transport. 
+
+**The Actual Conductivity is 12.19 S/cm**","Parameters: P3HT content (%): 54.48, D1 content (%): 0.65, D2 content (%): 0.53, D6 content (%): 0.46, D8 content (%): 43.89, Conductivity (measured) (S/cm): 12.19 
+
+**The Actual Conductivity is 12.19 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,16,50.0,50.0,0.0,0.0,0.0,602.48,"P3HT content (%): 50.0, D1 content (%): 50.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 602.48","# Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition
+The thin film composite consists of:
+- Poly(3-hexylthiophene) (P3HT): 50.0%
+- Long single-walled carbon nanotubes (D1): 50.0%
+- Measured electrical conductivity: 602.48 S/cm
+
+## Results and Discussion
+
+The high conductivity value (602.48 S/cm) observed in this composite can be attributed to several key factors related to the specific composition and morphology of the film:
+
+The 1:1 ratio of P3HT to CNTs represents an optimal balance where sufficient conductive pathways are formed while maintaining good processability. The high loading of long single-walled CNTs (D1) is particularly significant, as these nanotubes possess several advantageous characteristics for electrical conductivity:
+
+1. **Extended percolation networks**: Long SWCNTs (D1) create more efficient conductive pathways with fewer junction points compared to shorter CNT variants, reducing junction resistance.
+
+2. **High aspect ratio**: The length of D1 nanotubes enables them to form conductive networks at the observed 50% loading, well above the percolation threshold typically needed for effective charge transport.
+
+3. **P3HT-CNT interactions**: The π-π stacking between P3HT and the SWCNT sidewalls likely creates favorable electronic coupling, enhancing charge transfer between the polymer and nanotube phases.
+
+4. **Morphological considerations**: The equal ratio of components suggests a morphology where the CNTs form a continuous network while the P3HT provides both mechanical support and additional conductive pathways.
+
+The absence of other CNT types (D2, D6, D8) eliminates potential complications from mixed CNT morphologies, allowing the long SWCNTs to establish optimal conductive pathways throughout the composite matrix.
+
+## Conclusion
+
+The high conductivity of this P3HT/long SWCNT composite (602.48 S/cm) demonstrates the effectiveness of using high loadings of long single-walled carbon nanotubes in conjunction with the semiconducting polymer P3HT. This composition achieves excellent electrical performance through the formation of efficient percolation networks and favorable polymer-nanotube electronic interactions.","Report: # Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition
+The thin film composite consists of:
+- Poly(3-hexylthiophene) (P3HT): 50.0%
+- Long single-walled carbon nanotubes (D1): 50.0%
+- Measured electrical conductivity: 602.48 S/cm
+
+## Results and Discussion
+
+The high conductivity value (602.48 S/cm) observed in this composite can be attributed to several key factors related to the specific composition and morphology of the film:
+
+The 1:1 ratio of P3HT to CNTs represents an optimal balance where sufficient conductive pathways are formed while maintaining good processability. The high loading of long single-walled CNTs (D1) is particularly significant, as these nanotubes possess several advantageous characteristics for electrical conductivity:
+
+1. **Extended percolation networks**: Long SWCNTs (D1) create more efficient conductive pathways with fewer junction points compared to shorter CNT variants, reducing junction resistance.
+
+2. **High aspect ratio**: The length of D1 nanotubes enables them to form conductive networks at the observed 50% loading, well above the percolation threshold typically needed for effective charge transport.
+
+3. **P3HT-CNT interactions**: The π-π stacking between P3HT and the SWCNT sidewalls likely creates favorable electronic coupling, enhancing charge transfer between the polymer and nanotube phases.
+
+4. **Morphological considerations**: The equal ratio of components suggests a morphology where the CNTs form a continuous network while the P3HT provides both mechanical support and additional conductive pathways.
+
+The absence of other CNT types (D2, D6, D8) eliminates potential complications from mixed CNT morphologies, allowing the long SWCNTs to establish optimal conductive pathways throughout the composite matrix.
+
+## Conclusion
+
+The high conductivity of this P3HT/long SWCNT composite (602.48 S/cm) demonstrates the effectiveness of using high loadings of long single-walled carbon nanotubes in conjunction with the semiconducting polymer P3HT. This composition achieves excellent electrical performance through the formation of efficient percolation networks and favorable polymer-nanotube electronic interactions. 
+
+**The Actual Conductivity is 602.48 S/cm**","Parameters: P3HT content (%): 50.0, D1 content (%): 50.0, D2 content (%): 0.0, D6 content (%): 0.0, D8 content (%): 0.0, Conductivity (measured) (S/cm): 602.48 
+
+**The Actual Conductivity is 602.48 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,17,49.51,49.24,0.62,0.12,0.56,607.72,"P3HT content (%): 49.51, D1 content (%): 49.24, D2 content (%): 0.62, D6 content (%): 0.12, D8 content (%): 0.56, Conductivity (measured) (S/cm): 607.72","# Electrical Conductivity Analysis of P3HT-CNT Composite Film
+
+## Results and Discussion
+
+The thin film composite analyzed in this study consists of poly(3-hexylthiophene) (P3HT) (49.51%) and various carbon nanotubes: long single-walled CNTs (D1, 49.24%), short single-walled CNTs (D2, 0.62%), double-walled CNTs (D6, 0.12%), and multi-walled CNTs (D8, 0.56%). The measured electrical conductivity of this composite is 607.72 S/cm.
+
+The exceptionally high conductivity observed can be attributed to several key factors:
+
+1. **Balanced P3HT-CNT Ratio**: The near 1:1 ratio between P3HT and total CNT content (49.51%:50.49%) represents an optimal balance. This ratio ensures sufficient CNT loading to form robust conductive networks while maintaining adequate polymer content for film cohesion and processability.
+
+2. **Dominant Long SWCNT Content**: The predominance of long single-walled CNTs (D1, 49.24%) is likely the primary contributor to the high conductivity. Long SWCNTs create extensive conductive pathways with fewer junction points, reducing contact resistance throughout the network. Their high aspect ratio facilitates percolation at this loading level, well above the typical percolation threshold.
+
+3. **Minimal Junction Resistance**: The conductive network is primarily formed by one CNT type (D1), which minimizes heterojunction resistance that would occur between different CNT varieties. The small quantities of other CNT types (D2, D6, D8) may serve to fill gaps in the primary network without introducing significant heterojunction effects.
+
+4. **P3HT-CNT Interactions**: P3HT likely wraps around the SWCNTs through π-π interactions between the conjugated polymer backbone and the CNT surface. This interaction can enhance charge transfer between the polymer and nanotubes, potentially improving overall conductivity.
+
+5. **Synergistic Effects**: The small percentages of other CNT types may contribute to conductivity enhancement through synergistic effects. The multi-walled CNTs (D8, 0.56%), despite their lower intrinsic conductivity compared to SWCNTs, may provide mechanical reinforcement and additional conductive pathways.
+
+## Conclusion
+
+The high conductivity (607.72 S/cm) of this composite can be primarily attributed to the optimal P3HT:CNT ratio and the dominance of long single-walled CNTs, which form an effective percolation network. The composition demonstrates that a well-designed CNT network, predominantly consisting of one CNT type with small additions of complementary CNT varieties, can achieve exceptional electrical properties in polymer-CNT composites.","Report: # Electrical Conductivity Analysis of P3HT-CNT Composite Film
+
+## Results and Discussion
+
+The thin film composite analyzed in this study consists of poly(3-hexylthiophene) (P3HT) (49.51%) and various carbon nanotubes: long single-walled CNTs (D1, 49.24%), short single-walled CNTs (D2, 0.62%), double-walled CNTs (D6, 0.12%), and multi-walled CNTs (D8, 0.56%). The measured electrical conductivity of this composite is 607.72 S/cm.
+
+The exceptionally high conductivity observed can be attributed to several key factors:
+
+1. **Balanced P3HT-CNT Ratio**: The near 1:1 ratio between P3HT and total CNT content (49.51%:50.49%) represents an optimal balance. This ratio ensures sufficient CNT loading to form robust conductive networks while maintaining adequate polymer content for film cohesion and processability.
+
+2. **Dominant Long SWCNT Content**: The predominance of long single-walled CNTs (D1, 49.24%) is likely the primary contributor to the high conductivity. Long SWCNTs create extensive conductive pathways with fewer junction points, reducing contact resistance throughout the network. Their high aspect ratio facilitates percolation at this loading level, well above the typical percolation threshold.
+
+3. **Minimal Junction Resistance**: The conductive network is primarily formed by one CNT type (D1), which minimizes heterojunction resistance that would occur between different CNT varieties. The small quantities of other CNT types (D2, D6, D8) may serve to fill gaps in the primary network without introducing significant heterojunction effects.
+
+4. **P3HT-CNT Interactions**: P3HT likely wraps around the SWCNTs through π-π interactions between the conjugated polymer backbone and the CNT surface. This interaction can enhance charge transfer between the polymer and nanotubes, potentially improving overall conductivity.
+
+5. **Synergistic Effects**: The small percentages of other CNT types may contribute to conductivity enhancement through synergistic effects. The multi-walled CNTs (D8, 0.56%), despite their lower intrinsic conductivity compared to SWCNTs, may provide mechanical reinforcement and additional conductive pathways.
+
+## Conclusion
+
+The high conductivity (607.72 S/cm) of this composite can be primarily attributed to the optimal P3HT:CNT ratio and the dominance of long single-walled CNTs, which form an effective percolation network. The composition demonstrates that a well-designed CNT network, predominantly consisting of one CNT type with small additions of complementary CNT varieties, can achieve exceptional electrical properties in polymer-CNT composites. 
+
+**The Actual Conductivity is 607.72 S/cm**","Parameters: P3HT content (%): 49.51, D1 content (%): 49.24, D2 content (%): 0.62, D6 content (%): 0.12, D8 content (%): 0.56, Conductivity (measured) (S/cm): 607.72 
+
+**The Actual Conductivity is 607.72 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,18,44.3,54.68,0.04,0.29,0.78,660.0,"P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 660.0","# Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition
+The thin film composite consists of:
+- P3HT: 44.3%
+- Long single-walled CNTs (D1): 54.68%
+- Short single-walled CNTs (D2): 0.04%
+- Double-walled CNTs (D6): 0.29%
+- Multi-walled CNTs (D8): 0.78%
+- Measured conductivity: 660.0 S/cm
+
+## Results and Discussion
+
+The high conductivity (660.0 S/cm) observed in this composite can be attributed to several key factors related to its composition and microstructure:
+
+The dominant presence of long single-walled CNTs (54.68%) is likely the primary contributor to the high conductivity. Long SWCNTs create extensive conductive pathways throughout the composite, significantly exceeding the percolation threshold. Their high aspect ratio facilitates efficient electron transport with minimal junction resistance compared to shorter CNT variants.
+
+The P3HT content (44.3%) provides a semiconducting matrix that complements the CNT network. P3HT is known to form π-π interactions with CNT sidewalls, potentially improving CNT dispersion while maintaining good interfacial contact. This interaction may enhance charge transfer between the polymer and CNT phases.
+
+The minimal presence of short SWCNTs (0.04%) is beneficial, as shorter nanotubes would introduce additional junction points that increase contact resistance within the conductive network.
+
+The low concentrations of DWCNTs (0.29%) and MWCNTs (0.78%) likely play a secondary role in the overall conductivity. While these multi-walled variants typically exhibit lower intrinsic conductivity than SWCNTs, they may contribute to network robustness and provide additional conductive pathways.
+
+The high CNT:polymer ratio (approximately 56:44) ensures the formation of a well-developed percolation network. This composition likely positions the system well above the critical percolation threshold, resulting in numerous parallel conductive pathways and consequently high conductivity.
+
+## Conclusion
+
+The exceptional conductivity of this composite (660.0 S/cm) results primarily from the high loading of long SWCNTs creating an extensive conductive network, complemented by appropriate P3HT content that facilitates good CNT dispersion while maintaining effective charge transport pathways.","Report: # Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition
+The thin film composite consists of:
+- P3HT: 44.3%
+- Long single-walled CNTs (D1): 54.68%
+- Short single-walled CNTs (D2): 0.04%
+- Double-walled CNTs (D6): 0.29%
+- Multi-walled CNTs (D8): 0.78%
+- Measured conductivity: 660.0 S/cm
+
+## Results and Discussion
+
+The high conductivity (660.0 S/cm) observed in this composite can be attributed to several key factors related to its composition and microstructure:
+
+The dominant presence of long single-walled CNTs (54.68%) is likely the primary contributor to the high conductivity. Long SWCNTs create extensive conductive pathways throughout the composite, significantly exceeding the percolation threshold. Their high aspect ratio facilitates efficient electron transport with minimal junction resistance compared to shorter CNT variants.
+
+The P3HT content (44.3%) provides a semiconducting matrix that complements the CNT network. P3HT is known to form π-π interactions with CNT sidewalls, potentially improving CNT dispersion while maintaining good interfacial contact. This interaction may enhance charge transfer between the polymer and CNT phases.
+
+The minimal presence of short SWCNTs (0.04%) is beneficial, as shorter nanotubes would introduce additional junction points that increase contact resistance within the conductive network.
+
+The low concentrations of DWCNTs (0.29%) and MWCNTs (0.78%) likely play a secondary role in the overall conductivity. While these multi-walled variants typically exhibit lower intrinsic conductivity than SWCNTs, they may contribute to network robustness and provide additional conductive pathways.
+
+The high CNT:polymer ratio (approximately 56:44) ensures the formation of a well-developed percolation network. This composition likely positions the system well above the critical percolation threshold, resulting in numerous parallel conductive pathways and consequently high conductivity.
+
+## Conclusion
+
+The exceptional conductivity of this composite (660.0 S/cm) results primarily from the high loading of long SWCNTs creating an extensive conductive network, complemented by appropriate P3HT content that facilitates good CNT dispersion while maintaining effective charge transport pathways. 
+
+**The Actual Conductivity is 660.0 S/cm**","Parameters: P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 660.0 
+
+**The Actual Conductivity is 660.0 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,19,44.3,54.68,0.04,0.29,0.78,452.8,"P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 452.8","# Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition Analysis
+The thin film composite consists of:
+- P3HT: 44.3%
+- Long single-walled CNTs (D1): 54.68%
+- Short single-walled CNTs (D2): 0.04%
+- Double-walled CNTs (D6): 0.29%
+- Multi-walled CNTs (D8): 0.78%
+- Measured conductivity: 452.8 S/cm
+
+## Results and Discussion
+The high conductivity (452.8 S/cm) observed in this composite can be attributed to several key factors:
+
+1. **High CNT Loading**: The total CNT content (55.79%) exceeds the P3HT content (44.3%), suggesting operation well above the percolation threshold. This enables formation of extensive conductive pathways throughout the film.
+
+2. **CNT Type Distribution**: The predominance of long single-walled CNTs (D1, 54.68%) is particularly significant. Long SWCNTs provide extended conductive pathways with fewer junctions compared to shorter CNTs, reducing junction resistance which typically limits composite conductivity.
+
+3. **Minimal Short SWCNT Content**: The very low concentration of short SWCNTs (D2, 0.04%) is beneficial as shorter nanotubes would introduce additional junction points that increase contact resistance.
+
+4. **Limited Multi-walled CNT Content**: The relatively low concentrations of DWCNTs (D6, 0.29%) and MWCNTs (D8, 0.78%) maintain the high conductivity. While MWCNTs offer good individual conductivity, their larger diameters can disrupt the dense packing of the conductive network.
+
+5. **P3HT-CNT Interactions**: The substantial P3HT content (44.3%) likely provides:
+   - Improved CNT dispersion through π-π interactions between the thiophene rings and CNT sidewalls
+   - Enhanced charge transfer at the P3HT-CNT interfaces
+   - Sufficient polymer matrix to maintain mechanical integrity while allowing CNT-CNT contacts
+
+The exceptionally high conductivity suggests excellent CNT dispersion with minimal aggregation, creating an efficient percolation network dominated by the long SWCNTs with minimal junction resistance.
+
+## Conclusion
+The high electrical conductivity of this composite (452.8 S/cm) results primarily from the dominant presence of long SWCNTs forming an extensive percolation network, complemented by appropriate P3HT content that facilitates dispersion while maintaining CNT-CNT contacts essential for efficient charge transport.","Report: # Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition Analysis
+The thin film composite consists of:
+- P3HT: 44.3%
+- Long single-walled CNTs (D1): 54.68%
+- Short single-walled CNTs (D2): 0.04%
+- Double-walled CNTs (D6): 0.29%
+- Multi-walled CNTs (D8): 0.78%
+- Measured conductivity: 452.8 S/cm
+
+## Results and Discussion
+The high conductivity (452.8 S/cm) observed in this composite can be attributed to several key factors:
+
+1. **High CNT Loading**: The total CNT content (55.79%) exceeds the P3HT content (44.3%), suggesting operation well above the percolation threshold. This enables formation of extensive conductive pathways throughout the film.
+
+2. **CNT Type Distribution**: The predominance of long single-walled CNTs (D1, 54.68%) is particularly significant. Long SWCNTs provide extended conductive pathways with fewer junctions compared to shorter CNTs, reducing junction resistance which typically limits composite conductivity.
+
+3. **Minimal Short SWCNT Content**: The very low concentration of short SWCNTs (D2, 0.04%) is beneficial as shorter nanotubes would introduce additional junction points that increase contact resistance.
+
+4. **Limited Multi-walled CNT Content**: The relatively low concentrations of DWCNTs (D6, 0.29%) and MWCNTs (D8, 0.78%) maintain the high conductivity. While MWCNTs offer good individual conductivity, their larger diameters can disrupt the dense packing of the conductive network.
+
+5. **P3HT-CNT Interactions**: The substantial P3HT content (44.3%) likely provides:
+   - Improved CNT dispersion through π-π interactions between the thiophene rings and CNT sidewalls
+   - Enhanced charge transfer at the P3HT-CNT interfaces
+   - Sufficient polymer matrix to maintain mechanical integrity while allowing CNT-CNT contacts
+
+The exceptionally high conductivity suggests excellent CNT dispersion with minimal aggregation, creating an efficient percolation network dominated by the long SWCNTs with minimal junction resistance.
+
+## Conclusion
+The high electrical conductivity of this composite (452.8 S/cm) results primarily from the dominant presence of long SWCNTs forming an extensive percolation network, complemented by appropriate P3HT content that facilitates dispersion while maintaining CNT-CNT contacts essential for efficient charge transport. 
+
+**The Actual Conductivity is 452.8 S/cm**","Parameters: P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 452.8 
+
+**The Actual Conductivity is 452.8 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,20,44.3,54.68,0.04,0.29,0.78,731.11,"P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 731.11","# Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition Analysis
+The thin film composite consists of:
+- P3HT: 44.3%
+- Long single-walled CNTs (D1): 54.68%
+- Short single-walled CNTs (D2): 0.04%
+- Double-walled CNTs (D6): 0.29%
+- Multi-walled CNTs (D8): 0.78%
+- Measured conductivity: 731.11 S/cm
+
+## Results and Discussion
+The exceptionally high conductivity (731.11 S/cm) of this composite can be attributed to several key factors:
+
+1. **High CNT Loading**: The total CNT content (55.79%) exceeds the polymer content, with long single-walled CNTs (D1) constituting the vast majority (54.68%). This high loading significantly surpasses the percolation threshold, creating extensive conductive pathways throughout the film.
+
+2. **CNT Type Distribution**: The predominance of long single-walled CNTs (D1) is particularly advantageous for conductivity. Long SWCNTs provide extended conductive pathways with fewer junctions compared to shorter CNTs, reducing junction resistance. The minimal presence of other CNT types (D2, D6, D8) suggests they play only a supplementary role in the conductive network.
+
+3. **P3HT-CNT Interaction**: The substantial P3HT content (44.3%) likely facilitates effective π-π interactions between the conjugated polymer backbone and the CNT sidewalls. This interaction can enhance charge transfer between the components while potentially improving CNT dispersion through non-covalent functionalization.
+
+4. **Percolation Network Structure**: The high D1 content creates a dense percolation network where electrons can travel primarily along the CNTs rather than hopping between polymer chains. The aspect ratio of long SWCNTs enables them to form interconnections even at lower volume fractions, but the exceptionally high loading here creates redundant pathways that enhance conductivity.
+
+5. **Limited Role of Multi-walled CNTs**: The small fraction of MWCNTs (D8, 0.78%) may contribute marginally to conductivity through their higher individual conductance, but their impact is likely minimal given their low concentration relative to SWCNTs.
+
+The observed conductivity suggests excellent dispersion of the CNTs within the P3HT matrix, as poor dispersion would result in aggregation and significantly lower conductivity values despite the high CNT content.","Report: # Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition Analysis
+The thin film composite consists of:
+- P3HT: 44.3%
+- Long single-walled CNTs (D1): 54.68%
+- Short single-walled CNTs (D2): 0.04%
+- Double-walled CNTs (D6): 0.29%
+- Multi-walled CNTs (D8): 0.78%
+- Measured conductivity: 731.11 S/cm
+
+## Results and Discussion
+The exceptionally high conductivity (731.11 S/cm) of this composite can be attributed to several key factors:
+
+1. **High CNT Loading**: The total CNT content (55.79%) exceeds the polymer content, with long single-walled CNTs (D1) constituting the vast majority (54.68%). This high loading significantly surpasses the percolation threshold, creating extensive conductive pathways throughout the film.
+
+2. **CNT Type Distribution**: The predominance of long single-walled CNTs (D1) is particularly advantageous for conductivity. Long SWCNTs provide extended conductive pathways with fewer junctions compared to shorter CNTs, reducing junction resistance. The minimal presence of other CNT types (D2, D6, D8) suggests they play only a supplementary role in the conductive network.
+
+3. **P3HT-CNT Interaction**: The substantial P3HT content (44.3%) likely facilitates effective π-π interactions between the conjugated polymer backbone and the CNT sidewalls. This interaction can enhance charge transfer between the components while potentially improving CNT dispersion through non-covalent functionalization.
+
+4. **Percolation Network Structure**: The high D1 content creates a dense percolation network where electrons can travel primarily along the CNTs rather than hopping between polymer chains. The aspect ratio of long SWCNTs enables them to form interconnections even at lower volume fractions, but the exceptionally high loading here creates redundant pathways that enhance conductivity.
+
+5. **Limited Role of Multi-walled CNTs**: The small fraction of MWCNTs (D8, 0.78%) may contribute marginally to conductivity through their higher individual conductance, but their impact is likely minimal given their low concentration relative to SWCNTs.
+
+The observed conductivity suggests excellent dispersion of the CNTs within the P3HT matrix, as poor dispersion would result in aggregation and significantly lower conductivity values despite the high CNT content. 
+
+**The Actual Conductivity is 731.11 S/cm**","Parameters: P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 731.11 
+
+**The Actual Conductivity is 731.11 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,21,44.3,54.68,0.04,0.29,0.78,772.94,"P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 772.94","# Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition Analysis
+The thin film composite consists of:
+- P3HT: 44.3%
+- Long single-walled CNTs (D1): 54.68%
+- Short single-walled CNTs (D2): 0.04%
+- Double-walled CNTs (D6): 0.29%
+- Multi-walled CNTs (D8): 0.78%
+- Measured conductivity: 772.94 S/cm
+
+## Results and Discussion
+The high conductivity (772.94 S/cm) observed in this composite can be attributed to several key factors:
+
+1. **High CNT Loading**: The total CNT content (55.79%) exceeds the P3HT content (44.3%), suggesting operation well above the percolation threshold. This enables formation of extensive conductive pathways throughout the film.
+
+2. **CNT Type Distribution**: The predominance of long single-walled CNTs (D1, 54.68%) is particularly significant. Long SWCNTs create efficient percolation networks with fewer junction points compared to shorter CNTs, reducing contact resistance. The high aspect ratio of D1 CNTs allows for effective charge transport across greater distances with minimal hopping events.
+
+3. **Minimal Short SWCNT Content**: The very low concentration of short SWCNTs (D2, 0.04%) is beneficial as shorter nanotubes would introduce additional junction points and increase network resistance.
+
+4. **Limited Multi-walled CNT Content**: The small amounts of DWCNTs (D6, 0.29%) and MWCNTs (D8, 0.78%) likely contribute to conductivity without significantly disrupting the SWCNT network. MWCNTs may provide additional conduction pathways through the film thickness.
+
+5. **P3HT-CNT Interactions**: The substantial P3HT content (44.3%) suggests good polymer-nanotube interaction. P3HT can wrap around CNTs through π-π interactions, potentially improving CNT dispersion while maintaining electrical connectivity between nanotubes. The conjugated backbone of P3HT may also contribute to charge transport between adjacent CNTs.
+
+## Conclusion
+The exceptional conductivity of this composite (772.94 S/cm) results primarily from the high loading and predominance of long SWCNTs, which form an efficient percolation network with minimal junction resistance. The P3HT content is sufficient to provide mechanical stability while maintaining CNT connectivity. The minimal presence of shorter CNTs and limited multi-walled varieties helps maintain network efficiency while potentially enhancing through-plane conductivity.","Report: # Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition Analysis
+The thin film composite consists of:
+- P3HT: 44.3%
+- Long single-walled CNTs (D1): 54.68%
+- Short single-walled CNTs (D2): 0.04%
+- Double-walled CNTs (D6): 0.29%
+- Multi-walled CNTs (D8): 0.78%
+- Measured conductivity: 772.94 S/cm
+
+## Results and Discussion
+The high conductivity (772.94 S/cm) observed in this composite can be attributed to several key factors:
+
+1. **High CNT Loading**: The total CNT content (55.79%) exceeds the P3HT content (44.3%), suggesting operation well above the percolation threshold. This enables formation of extensive conductive pathways throughout the film.
+
+2. **CNT Type Distribution**: The predominance of long single-walled CNTs (D1, 54.68%) is particularly significant. Long SWCNTs create efficient percolation networks with fewer junction points compared to shorter CNTs, reducing contact resistance. The high aspect ratio of D1 CNTs allows for effective charge transport across greater distances with minimal hopping events.
+
+3. **Minimal Short SWCNT Content**: The very low concentration of short SWCNTs (D2, 0.04%) is beneficial as shorter nanotubes would introduce additional junction points and increase network resistance.
+
+4. **Limited Multi-walled CNT Content**: The small amounts of DWCNTs (D6, 0.29%) and MWCNTs (D8, 0.78%) likely contribute to conductivity without significantly disrupting the SWCNT network. MWCNTs may provide additional conduction pathways through the film thickness.
+
+5. **P3HT-CNT Interactions**: The substantial P3HT content (44.3%) suggests good polymer-nanotube interaction. P3HT can wrap around CNTs through π-π interactions, potentially improving CNT dispersion while maintaining electrical connectivity between nanotubes. The conjugated backbone of P3HT may also contribute to charge transport between adjacent CNTs.
+
+## Conclusion
+The exceptional conductivity of this composite (772.94 S/cm) results primarily from the high loading and predominance of long SWCNTs, which form an efficient percolation network with minimal junction resistance. The P3HT content is sufficient to provide mechanical stability while maintaining CNT connectivity. The minimal presence of shorter CNTs and limited multi-walled varieties helps maintain network efficiency while potentially enhancing through-plane conductivity. 
+
+**The Actual Conductivity is 772.94 S/cm**","Parameters: P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 772.94 
+
+**The Actual Conductivity is 772.94 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,22,44.3,54.68,0.04,0.29,0.78,552.26,"P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 552.26","# Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition Analysis
+The thin film composite consists of:
+- P3HT: 44.3%
+- Long single-walled CNTs (D1): 54.68%
+- Short single-walled CNTs (D2): 0.04%
+- Double-walled CNTs (D6): 0.29%
+- Multi-walled CNTs (D8): 0.78%
+- Measured conductivity: 552.26 S/cm
+
+## Results and Discussion
+The high conductivity (552.26 S/cm) observed in this composite can be attributed to several key factors:
+
+1. **High CNT Loading**: The total CNT content (55.79%) exceeds the P3HT content (44.3%), suggesting operation well above the percolation threshold. This enables formation of extensive conductive pathways throughout the film.
+
+2. **CNT Type Distribution**: The predominance of long single-walled CNTs (D1, 54.68%) is particularly significant. Long SWCNTs create efficient percolation networks with fewer junction points compared to shorter CNTs, reducing contact resistance. The high aspect ratio of D1 CNTs allows for effective charge transport with minimal hopping events.
+
+3. **Minimal Short SWCNT Content**: The very low concentration of short SWCNTs (D2, 0.04%) is beneficial as shorter nanotubes would introduce additional junction points and increase network resistance.
+
+4. **Limited Multi-walled CNT Content**: The small amounts of DWCNTs (D6, 0.29%) and MWCNTs (D8, 0.78%) may provide additional conduction pathways without significantly disrupting the SWCNT network. MWCNTs typically offer lower intrinsic conductivity than SWCNTs but can bridge gaps in the primary network.
+
+5. **P3HT-CNT Interactions**: The substantial P3HT content (44.3%) likely facilitates π-π interactions between the conjugated polymer backbone and CNT sidewalls. These interactions can enhance charge transfer between the polymer and nanotubes while potentially improving CNT dispersion through non-covalent functionalization.
+
+The exceptionally high conductivity suggests excellent CNT dispersion with minimal aggregation, creating a highly interconnected network. The P3HT matrix appears to provide sufficient interfacial contact with the CNTs while maintaining the integrity of the conductive network.
+
+## Conclusion
+The high electrical conductivity of this composite (552.26 S/cm) results primarily from the dominant presence of long SWCNTs forming an efficient percolation network, complemented by appropriate P3HT content that enables effective charge transfer while maintaining CNT dispersion.","Report: # Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition Analysis
+The thin film composite consists of:
+- P3HT: 44.3%
+- Long single-walled CNTs (D1): 54.68%
+- Short single-walled CNTs (D2): 0.04%
+- Double-walled CNTs (D6): 0.29%
+- Multi-walled CNTs (D8): 0.78%
+- Measured conductivity: 552.26 S/cm
+
+## Results and Discussion
+The high conductivity (552.26 S/cm) observed in this composite can be attributed to several key factors:
+
+1. **High CNT Loading**: The total CNT content (55.79%) exceeds the P3HT content (44.3%), suggesting operation well above the percolation threshold. This enables formation of extensive conductive pathways throughout the film.
+
+2. **CNT Type Distribution**: The predominance of long single-walled CNTs (D1, 54.68%) is particularly significant. Long SWCNTs create efficient percolation networks with fewer junction points compared to shorter CNTs, reducing contact resistance. The high aspect ratio of D1 CNTs allows for effective charge transport with minimal hopping events.
+
+3. **Minimal Short SWCNT Content**: The very low concentration of short SWCNTs (D2, 0.04%) is beneficial as shorter nanotubes would introduce additional junction points and increase network resistance.
+
+4. **Limited Multi-walled CNT Content**: The small amounts of DWCNTs (D6, 0.29%) and MWCNTs (D8, 0.78%) may provide additional conduction pathways without significantly disrupting the SWCNT network. MWCNTs typically offer lower intrinsic conductivity than SWCNTs but can bridge gaps in the primary network.
+
+5. **P3HT-CNT Interactions**: The substantial P3HT content (44.3%) likely facilitates π-π interactions between the conjugated polymer backbone and CNT sidewalls. These interactions can enhance charge transfer between the polymer and nanotubes while potentially improving CNT dispersion through non-covalent functionalization.
+
+The exceptionally high conductivity suggests excellent CNT dispersion with minimal aggregation, creating a highly interconnected network. The P3HT matrix appears to provide sufficient interfacial contact with the CNTs while maintaining the integrity of the conductive network.
+
+## Conclusion
+The high electrical conductivity of this composite (552.26 S/cm) results primarily from the dominant presence of long SWCNTs forming an efficient percolation network, complemented by appropriate P3HT content that enables effective charge transfer while maintaining CNT dispersion. 
+
+**The Actual Conductivity is 552.26 S/cm**","Parameters: P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 552.26 
+
+**The Actual Conductivity is 552.26 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,23,44.3,54.68,0.04,0.29,0.78,1089.12,"P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 1089.12","# Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition Analysis
+The thin film composite consists of:
+- P3HT: 44.3%
+- Long single-walled CNTs (D1): 54.68%
+- Short single-walled CNTs (D2): 0.04%
+- Double-walled CNTs (D6): 0.29%
+- Multi-walled CNTs (D8): 0.78%
+- Measured conductivity: 1089.12 S/cm
+
+## Results and Discussion
+The exceptionally high conductivity (1089.12 S/cm) of this composite can be attributed to several key factors:
+
+1. **High CNT Loading**: The total CNT content (55.79%) exceeds the polymer content, with long single-walled CNTs (D1) constituting the majority (54.68%). This high loading significantly surpasses the percolation threshold, creating extensive conductive pathways throughout the film.
+
+2. **CNT Type Distribution**: The predominance of long single-walled CNTs (D1) is particularly advantageous for conductivity. Long SWCNTs provide extended conductive pathways with fewer junction points, reducing contact resistance. The minimal presence of shorter CNTs (D2) avoids disruption of these pathways.
+
+3. **Polymer-CNT Interaction**: The substantial P3HT content (44.3%) provides sufficient polymer matrix to facilitate CNT dispersion while maintaining inter-tube connections. P3HT, being a semiconducting polymer, contributes to charge transport while potentially improving CNT alignment through π-π interactions between the thiophene rings and CNT sidewalls.
+
+4. **Hierarchical Network Structure**: The small percentages of DWCNTs (D6) and MWCNTs (D8) likely serve as secondary conductive bridges between SWCNT networks, enhancing overall connectivity while the predominant SWCNT network provides the primary conduction channels.
+
+The observed conductivity suggests excellent CNT dispersion with minimal aggregation, as excessive bundling would reduce the effective aspect ratio and available surface area for charge transport. The P3HT content appears optimized to provide sufficient CNT wetting and dispersion while maintaining a continuous conductive network.
+
+## Conclusion
+The exceptional conductivity of this composite can be primarily attributed to the high loading of long single-walled CNTs forming a percolated network, with the P3HT matrix providing effective dispersion and additional charge transport pathways. The minor presence of other CNT types likely contributes to network connectivity at a secondary level.","Report: # Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition Analysis
+The thin film composite consists of:
+- P3HT: 44.3%
+- Long single-walled CNTs (D1): 54.68%
+- Short single-walled CNTs (D2): 0.04%
+- Double-walled CNTs (D6): 0.29%
+- Multi-walled CNTs (D8): 0.78%
+- Measured conductivity: 1089.12 S/cm
+
+## Results and Discussion
+The exceptionally high conductivity (1089.12 S/cm) of this composite can be attributed to several key factors:
+
+1. **High CNT Loading**: The total CNT content (55.79%) exceeds the polymer content, with long single-walled CNTs (D1) constituting the majority (54.68%). This high loading significantly surpasses the percolation threshold, creating extensive conductive pathways throughout the film.
+
+2. **CNT Type Distribution**: The predominance of long single-walled CNTs (D1) is particularly advantageous for conductivity. Long SWCNTs provide extended conductive pathways with fewer junction points, reducing contact resistance. The minimal presence of shorter CNTs (D2) avoids disruption of these pathways.
+
+3. **Polymer-CNT Interaction**: The substantial P3HT content (44.3%) provides sufficient polymer matrix to facilitate CNT dispersion while maintaining inter-tube connections. P3HT, being a semiconducting polymer, contributes to charge transport while potentially improving CNT alignment through π-π interactions between the thiophene rings and CNT sidewalls.
+
+4. **Hierarchical Network Structure**: The small percentages of DWCNTs (D6) and MWCNTs (D8) likely serve as secondary conductive bridges between SWCNT networks, enhancing overall connectivity while the predominant SWCNT network provides the primary conduction channels.
+
+The observed conductivity suggests excellent CNT dispersion with minimal aggregation, as excessive bundling would reduce the effective aspect ratio and available surface area for charge transport. The P3HT content appears optimized to provide sufficient CNT wetting and dispersion while maintaining a continuous conductive network.
+
+## Conclusion
+The exceptional conductivity of this composite can be primarily attributed to the high loading of long single-walled CNTs forming a percolated network, with the P3HT matrix providing effective dispersion and additional charge transport pathways. The minor presence of other CNT types likely contributes to network connectivity at a secondary level. 
+
+**The Actual Conductivity is 1089.12 S/cm**","Parameters: P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 1089.12 
+
+**The Actual Conductivity is 1089.12 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,24,44.3,54.68,0.04,0.29,0.78,291.41,"P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 291.41","# Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition Analysis
+The thin film composite consists of:
+- P3HT: 44.3%
+- Long single-walled CNTs (D1): 54.68%
+- Short single-walled CNTs (D2): 0.04%
+- Double-walled CNTs (D6): 0.29%
+- Multi-walled CNTs (D8): 0.78%
+- Measured conductivity: 291.41 S/cm
+
+## Results and Discussion
+The high conductivity (291.41 S/cm) of this composite can be attributed to several key factors:
+
+1. **High CNT Loading**: The total CNT content (55.79%) exceeds the P3HT content (44.3%), suggesting operation well above the percolation threshold. This enables formation of extensive conductive pathways throughout the film.
+
+2. **Dominant Long SWCNT Contribution**: The predominance of long single-walled CNTs (D1, 54.68%) is particularly significant. Long SWCNTs create more efficient percolation networks due to their high aspect ratio, requiring fewer contact points between nanotubes to establish conductive pathways.
+
+3. **Minimal Junction Resistance**: The high proportion of D1 CNTs likely reduces the number of CNT-CNT junctions per conductive path compared to shorter CNTs, minimizing junction resistance which typically limits composite conductivity.
+
+4. **Synergistic P3HT Interaction**: The substantial P3HT content (44.3%) likely provides:
+   - Improved CNT dispersion through π-π interactions with the thiophene rings
+   - Secondary conductive pathways via the semiconducting polymer
+   - Reduced contact resistance at CNT-CNT junctions
+
+5. **Hierarchical Conductivity Network**: The small percentages of other CNT types (D2, D6, D8) may contribute to a hierarchical conductive network where MWCNTs and DWCNTs bridge gaps between SWCNT-rich regions.
+
+The exceptionally high conductivity suggests excellent dispersion of the CNTs within the P3HT matrix, with minimal aggregation that would otherwise reduce effective aspect ratio and conductivity.
+
+## Conclusion
+The high electrical conductivity of this composite (291.41 S/cm) results primarily from the formation of an extensive percolation network dominated by long SWCNTs, complemented by the semiconducting P3HT matrix. This composition represents an optimal balance for charge transport, with the high loading of long SWCNTs providing efficient conductive pathways while maintaining sufficient polymer content for processing and film integrity.","Report: # Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition Analysis
+The thin film composite consists of:
+- P3HT: 44.3%
+- Long single-walled CNTs (D1): 54.68%
+- Short single-walled CNTs (D2): 0.04%
+- Double-walled CNTs (D6): 0.29%
+- Multi-walled CNTs (D8): 0.78%
+- Measured conductivity: 291.41 S/cm
+
+## Results and Discussion
+The high conductivity (291.41 S/cm) of this composite can be attributed to several key factors:
+
+1. **High CNT Loading**: The total CNT content (55.79%) exceeds the P3HT content (44.3%), suggesting operation well above the percolation threshold. This enables formation of extensive conductive pathways throughout the film.
+
+2. **Dominant Long SWCNT Contribution**: The predominance of long single-walled CNTs (D1, 54.68%) is particularly significant. Long SWCNTs create more efficient percolation networks due to their high aspect ratio, requiring fewer contact points between nanotubes to establish conductive pathways.
+
+3. **Minimal Junction Resistance**: The high proportion of D1 CNTs likely reduces the number of CNT-CNT junctions per conductive path compared to shorter CNTs, minimizing junction resistance which typically limits composite conductivity.
+
+4. **Synergistic P3HT Interaction**: The substantial P3HT content (44.3%) likely provides:
+   - Improved CNT dispersion through π-π interactions with the thiophene rings
+   - Secondary conductive pathways via the semiconducting polymer
+   - Reduced contact resistance at CNT-CNT junctions
+
+5. **Hierarchical Conductivity Network**: The small percentages of other CNT types (D2, D6, D8) may contribute to a hierarchical conductive network where MWCNTs and DWCNTs bridge gaps between SWCNT-rich regions.
+
+The exceptionally high conductivity suggests excellent dispersion of the CNTs within the P3HT matrix, with minimal aggregation that would otherwise reduce effective aspect ratio and conductivity.
+
+## Conclusion
+The high electrical conductivity of this composite (291.41 S/cm) results primarily from the formation of an extensive percolation network dominated by long SWCNTs, complemented by the semiconducting P3HT matrix. This composition represents an optimal balance for charge transport, with the high loading of long SWCNTs providing efficient conductive pathways while maintaining sufficient polymer content for processing and film integrity. 
+
+**The Actual Conductivity is 291.41 S/cm**","Parameters: P3HT content (%): 44.3, D1 content (%): 54.68, D2 content (%): 0.04, D6 content (%): 0.29, D8 content (%): 0.78, Conductivity (measured) (S/cm): 291.41 
+
+**The Actual Conductivity is 291.41 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,25,43.49,46.89,4.18,5.1,0.37,111.8949727,"P3HT content (%): 43.49, D1 content (%): 46.89, D2 content (%): 4.18, D6 content (%): 5.1, D8 content (%): 0.37, Conductivity (measured) (S/cm): 111.8949727","# Electrical Conductivity Analysis of P3HT-CNT Composite Film
+
+## Composition Analysis
+The thin film composite consists of:
+- P3HT: 43.49%
+- Carbon nanotubes:
+  * Long single-walled (D1): 46.89%
+  * Short single-walled (D2): 4.18%
+  * Double-walled (D6): 5.10%
+  * Multi-walled (D8): 0.37%
+- Measured conductivity: 111.89 S/cm
+
+## Results and Discussion
+The high conductivity (111.89 S/cm) observed in this composite can be attributed to several key factors:
+
+The dominant presence of long single-walled CNTs (D1, 46.89%) is likely the primary contributor to the excellent conductivity. Long SWCNTs create extended conductive pathways throughout the matrix, significantly exceeding the percolation threshold. Their high aspect ratio facilitates efficient electron transport with minimal junction resistance.
+
+The P3HT content (43.49%) provides a complementary conductive polymer matrix that enhances charge transport between CNTs. The π-conjugated structure of P3HT creates favorable π-π interactions with the CNT sidewalls, improving interfacial contact and charge transfer between components.
+
+The smaller fractions of short SWCNTs (D2) and DWCNTs (D6) likely fill gaps between the longer nanotubes, creating additional conductive bridges and reducing the overall percolation threshold. The minimal presence of MWCNTs (D8, 0.37%) may provide localized high-conductivity nodes without significantly affecting the overall morphology.
+
+The nearly 1:1 ratio between P3HT and total CNT content (43.49% vs. 56.51%) represents an optimal balance that allows for sufficient CNT network formation while maintaining good dispersion within the polymer matrix, preventing CNT aggregation that would reduce effective surface area for charge transport.
+
+## Conclusion
+The exceptional conductivity of this composite results from the synergistic combination of a high loading of long SWCNTs forming a percolated network, complemented by a substantial P3HT fraction that provides both additional conductivity and improved CNT dispersion through π-π interactions.","Report: # Electrical Conductivity Analysis of P3HT-CNT Composite Film
+
+## Composition Analysis
+The thin film composite consists of:
+- P3HT: 43.49%
+- Carbon nanotubes:
+  * Long single-walled (D1): 46.89%
+  * Short single-walled (D2): 4.18%
+  * Double-walled (D6): 5.10%
+  * Multi-walled (D8): 0.37%
+- Measured conductivity: 111.89 S/cm
+
+## Results and Discussion
+The high conductivity (111.89 S/cm) observed in this composite can be attributed to several key factors:
+
+The dominant presence of long single-walled CNTs (D1, 46.89%) is likely the primary contributor to the excellent conductivity. Long SWCNTs create extended conductive pathways throughout the matrix, significantly exceeding the percolation threshold. Their high aspect ratio facilitates efficient electron transport with minimal junction resistance.
+
+The P3HT content (43.49%) provides a complementary conductive polymer matrix that enhances charge transport between CNTs. The π-conjugated structure of P3HT creates favorable π-π interactions with the CNT sidewalls, improving interfacial contact and charge transfer between components.
+
+The smaller fractions of short SWCNTs (D2) and DWCNTs (D6) likely fill gaps between the longer nanotubes, creating additional conductive bridges and reducing the overall percolation threshold. The minimal presence of MWCNTs (D8, 0.37%) may provide localized high-conductivity nodes without significantly affecting the overall morphology.
+
+The nearly 1:1 ratio between P3HT and total CNT content (43.49% vs. 56.51%) represents an optimal balance that allows for sufficient CNT network formation while maintaining good dispersion within the polymer matrix, preventing CNT aggregation that would reduce effective surface area for charge transport.
+
+## Conclusion
+The exceptional conductivity of this composite results from the synergistic combination of a high loading of long SWCNTs forming a percolated network, complemented by a substantial P3HT fraction that provides both additional conductivity and improved CNT dispersion through π-π interactions. 
+
+**The Actual Conductivity is 111.89 S/cm**","Parameters: P3HT content (%): 43.49, D1 content (%): 46.89, D2 content (%): 4.18, D6 content (%): 5.1, D8 content (%): 0.37, Conductivity (measured) (S/cm): 111.8949727 
+
+**The Actual Conductivity is 111.89 S/cm**"
+llm_experiment_p3ht_conductivity_trajectory_parameters_seed39.csv,26,40.67,59.26,0.04,0.04,0.07,546.79,"P3HT content (%): 40.67, D1 content (%): 59.26, D2 content (%): 0.04, D6 content (%): 0.04, D8 content (%): 0.07, Conductivity (measured) (S/cm): 546.79","# Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition
+The thin film composite consists of:
+- P3HT: 40.67%
+- Long single-walled CNTs (D1): 59.26%
+- Short single-walled CNTs (D2): 0.04%
+- Double-walled CNTs (D6): 0.04%
+- Multi-walled CNTs (D8): 0.07%
+
+Measured conductivity: 546.79 S/cm
+
+## Results and Discussion
+
+The high conductivity (546.79 S/cm) observed in this composite can be attributed to several key factors related to its composition:
+
+The dominant presence of long single-walled CNTs (D1, 59.26%) is the primary contributor to the excellent conductivity. Long SWCNTs create extensive conductive pathways throughout the matrix, significantly exceeding the percolation threshold. Their high aspect ratio facilitates efficient electron transport with minimal junction resistance compared to shorter CNT variants.
+
+The P3HT content (40.67%) provides a complementary conductive polymer matrix that enhances charge transport between CNTs. The π-conjugated structure of P3HT creates favorable π-π interactions with the CNT sidewalls, improving interfacial contact and charge transfer efficiency between the components.
+
+The minimal presence of other CNT types (D2, D6, D8 totaling only 0.15%) suggests a deliberate formulation strategy focused on maximizing conductivity through a predominantly long SWCNT network. The trace amounts of these secondary CNTs may serve to fill small gaps in the primary conductive network.
+
+The high D1:P3HT ratio (approximately 3:2) indicates an optimal balance where sufficient polymer is present to aid dispersion and film formation, while the CNT concentration remains high enough to form robust conductive pathways throughout the composite.
+
+## Conclusion
+
+The exceptional conductivity of this composite can be attributed to the formation of an extensive percolation network dominated by long single-walled CNTs, complemented by the conductive P3HT matrix. The composition represents an optimized formulation where the high loading of long SWCNTs creates efficient electron transport pathways, while the P3HT content is sufficient to ensure good dispersion and interfacial contact without diluting the conductive network.","Report: # Electrical Conductivity Analysis of P3HT/CNT Composite Film
+
+## Composition
+The thin film composite consists of:
+- P3HT: 40.67%
+- Long single-walled CNTs (D1): 59.26%
+- Short single-walled CNTs (D2): 0.04%
+- Double-walled CNTs (D6): 0.04%
+- Multi-walled CNTs (D8): 0.07%
+
+Measured conductivity: 546.79 S/cm
+
+## Results and Discussion
+
+The high conductivity (546.79 S/cm) observed in this composite can be attributed to several key factors related to its composition:
+
+The dominant presence of long single-walled CNTs (D1, 59.26%) is the primary contributor to the excellent conductivity. Long SWCNTs create extensive conductive pathways throughout the matrix, significantly exceeding the percolation threshold. Their high aspect ratio facilitates efficient electron transport with minimal junction resistance compared to shorter CNT variants.
+
+The P3HT content (40.67%) provides a complementary conductive polymer matrix that enhances charge transport between CNTs. The π-conjugated structure of P3HT creates favorable π-π interactions with the CNT sidewalls, improving interfacial contact and charge transfer efficiency between the components.
+
+The minimal presence of other CNT types (D2, D6, D8 totaling only 0.15%) suggests a deliberate formulation strategy focused on maximizing conductivity through a predominantly long SWCNT network. The trace amounts of these secondary CNTs may serve to fill small gaps in the primary conductive network.
+
+The high D1:P3HT ratio (approximately 3:2) indicates an optimal balance where sufficient polymer is present to aid dispersion and film formation, while the CNT concentration remains high enough to form robust conductive pathways throughout the composite.
+
+## Conclusion
+
+The exceptional conductivity of this composite can be attributed to the formation of an extensive percolation network dominated by long single-walled CNTs, complemented by the conductive P3HT matrix. The composition represents an optimized formulation where the high loading of long SWCNTs creates efficient electron transport pathways, while the P3HT content is sufficient to ensure good dispersion and interfacial contact without diluting the conductive network. 
+
+**The Actual Conductivity is 546.79 S/cm**","Parameters: P3HT content (%): 40.67, D1 content (%): 59.26, D2 content (%): 0.04, D6 content (%): 0.04, D8 content (%): 0.07, Conductivity (measured) (S/cm): 546.79 
+
+**The Actual Conductivity is 546.79 S/cm**"

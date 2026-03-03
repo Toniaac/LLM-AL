@@ -1,0 +1,264 @@
+Trajectory_File,Iteration,Auto,Heating,Concentration,Batch,Sample,Elastic Modulus_mean,Elastic Modulus_std,Yield Strength_mean,Yield Strength_std,Creep Strain_mean,Creep Strain_std,Plateau Slope_mean,Plateau Slope_std,Densification Slope_mean,Densification Slope_std,Changepoint_mean,Changepoint_std,Average Standard Deviation_mean,Average Standard Deviation_std,Coefficient of Variation_mean,Coefficient of Variation_std,Index,Date,Coefficient of Variation,Heating Block Temperature,Mixed,Rest Time (days),Coupon-to-Bath Wait Time (min),Relative Humidity,Nitrogen (Side from drop),Nitrogen (After blade),Formatted_Parameters,Report,Report with output,Formatted_Parameters with output
+llm_experiment_membrane_modulus_trajectory_parameters_seed40.csv,0,True,False,17.0,29,1,211.5086541241532,9.683664363471635,16.245948090833846,2.063627466880948,0.0436210600806008,0.0101124745492096,138.76247800999369,8.15634463730832,870.2081484937619,184.20536466923204,0.5413007534367748,0.1256061640374322,51.45875949536667,0.0,0.1607517827754513,0.0,54,2024-10-23,0.1607517827754513,25,False,0,10.0,68,0,1,Index: 54; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 0; Coupon-to-Bath Wait Time (min): 10.0; Relative Humidity: 68; Nitrogen (Side from drop): 0; Nitrogen (After blade): 1,"# Experimental Report: Automated Membrane Synthesis via NIPS
+
+## Experiment Parameters (Index: 54)
+
+A polysulfone membrane was synthesized using non-solvent-induced phase separation (NIPS) with the following conditions:
+
+- **Synthesis Method**: Automated robotic system
+- **Polymer Solution**: 17.0% polysulfone in PolarClean solvent
+- **Solution Preparation**: Premixed manually without heating (ambient temperature 25??C)
+- **Solution Rest Time**: Used immediately after preparation (0 days)
+- **Casting Conditions**:
+  - 10.0 minute wait time between coupon casting and NIPS bath immersion
+  - 68% relative humidity during synthesis
+  - No nitrogen flow during drop-casting
+  - Laminar dry nitrogen flow applied after blade-casting until bath immersion
+
+The experiment utilized automated blade-casting with controlled environmental parameters to investigate the effects of nitrogen flow post-casting on membrane morphology and performance.","Report: # Experimental Report: Automated Membrane Synthesis via NIPS
+
+## Experiment Parameters (Index: 54)
+
+A polysulfone membrane was synthesized using non-solvent-induced phase separation (NIPS) with the following conditions:
+
+- **Synthesis Method**: Automated robotic system
+- **Polymer Solution**: 17.0% polysulfone in PolarClean solvent
+- **Solution Preparation**: Premixed manually without heating (ambient temperature 25??C)
+- **Solution Rest Time**: Used immediately after preparation (0 days)
+- **Casting Conditions**:
+  - 10.0 minute wait time between coupon casting and NIPS bath immersion
+  - 68% relative humidity during synthesis
+  - No nitrogen flow during drop-casting
+  - Laminar dry nitrogen flow applied after blade-casting until bath immersion
+
+The experiment utilized automated blade-casting with controlled environmental parameters to investigate the effects of nitrogen flow post-casting on membrane morphology and performance. 
+
+**The measured Elastic Modulus is 211.51 with a standard deviation of 9.68 bar.**","Parameters: Index: 54; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 0; Coupon-to-Bath Wait Time (min): 10.0; Relative Humidity: 68; Nitrogen (Side from drop): 0; Nitrogen (After blade): 1 
+
+**The measured Elastic Modulus is 211.51 with a standard deviation of 9.68 bar.**"
+llm_experiment_membrane_modulus_trajectory_parameters_seed40.csv,1,True,True,17.0,10,1,270.69323356331364,20.80209461222964,24.66227225302007,12.804074725884062,,,221.8107112847204,45.69715676717337,707.8281748486745,142.56396451729546,0.5095304111591948,0.1170151072682776,40.85401033182774,0.0,0.1447744550164999,0.0,19,2024-04-24,0.1447744550164999,50,False,1,0.0,96,0,0,Index: 19; Auto: True; Heating: True; Concentration: 17.0; Heating Block Temperature: 50; Mixed: False; Rest Time (days): 1; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 96; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"# Experimental Report: Automated Membrane Synthesis via NIPS
+
+## Experiment Parameters
+- **Experiment ID**: 19
+- **Synthesis Method**: Automated NIPS using robotic system
+- **Polymer Solution**: 17.0% polysulfone in PolarClean solvent
+- **Solution Preparation**: 
+  - Premixed manually (not mixed by robot)
+  - Heated during mixing at 50??C
+  - Solution rested for 1 day in sample vial before casting
+
+## Casting Conditions
+- **Environmental Conditions**: 96% relative humidity
+- **Casting Protocol**: 
+  - Drop-cast polymer solution onto coupon
+  - Blade casting performed by automated system
+  - No nitrogen flow applied during any stage
+  - Immediate immersion in non-solvent bath (0 minute wait time)
+
+This experiment evaluated membrane formation under high humidity conditions without nitrogen protection, using a heated, manually premixed polymer solution that was allowed to rest for 24 hours before automated processing.","Report: # Experimental Report: Automated Membrane Synthesis via NIPS
+
+## Experiment Parameters
+- **Experiment ID**: 19
+- **Synthesis Method**: Automated NIPS using robotic system
+- **Polymer Solution**: 17.0% polysulfone in PolarClean solvent
+- **Solution Preparation**: 
+  - Premixed manually (not mixed by robot)
+  - Heated during mixing at 50??C
+  - Solution rested for 1 day in sample vial before casting
+
+## Casting Conditions
+- **Environmental Conditions**: 96% relative humidity
+- **Casting Protocol**: 
+  - Drop-cast polymer solution onto coupon
+  - Blade casting performed by automated system
+  - No nitrogen flow applied during any stage
+  - Immediate immersion in non-solvent bath (0 minute wait time)
+
+This experiment evaluated membrane formation under high humidity conditions without nitrogen protection, using a heated, manually premixed polymer solution that was allowed to rest for 24 hours before automated processing. 
+
+**The measured Elastic Modulus is 270.69 with a standard deviation of 20.8 bar.**","Parameters: Index: 19; Auto: True; Heating: True; Concentration: 17.0; Heating Block Temperature: 50; Mixed: False; Rest Time (days): 1; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 96; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0 
+
+**The measured Elastic Modulus is 270.69 with a standard deviation of 20.8 bar.**"
+llm_experiment_membrane_modulus_trajectory_parameters_seed40.csv,2,True,True,13.0,9,1,65.48719407925006,7.960978212493984,16.342432610428144,6.287248936811681,,,22.11614433894298,9.843953343517576,1530.5916079509188,48.48173296493128,0.7815358776956913,0.1039292146698188,54.58844093575168,0.0,0.120734773328813,0.0,18,2024-04-04,0.120734773328813,50,True,1,0.0,96,0,0,Index: 18; Auto: True; Heating: True; Concentration: 13.0; Heating Block Temperature: 50; Mixed: True; Rest Time (days): 1; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 96; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"# Experimental Report: Automated Membrane Synthesis via NIPS
+
+## Experiment #18
+
+A polysulfone membrane was synthesized using an automated non-solvent-induced phase separation (NIPS) process. The polymer solution was prepared at 13.0% w/w polysulfone concentration in PolarClean solvent. The solution was mixed using the robotic system with heating at 50??C via heating block. After preparation, the solution was rested in a sample vial for 1 day before processing.
+
+The membrane casting was performed under high humidity conditions (96% RH). The polymer solution was automatically drop-cast onto the substrate and then blade-cast. Immediately following blade casting (0.0 min wait time), the sample was immersed in the NIPS bath. No nitrogen flow was applied either from the side during drop-casting or after blade-casting.
+
+The entire synthesis process was fully automated using the robotic system, demonstrating the capability for reproducible membrane fabrication under controlled conditions.","Report: # Experimental Report: Automated Membrane Synthesis via NIPS
+
+## Experiment #18
+
+A polysulfone membrane was synthesized using an automated non-solvent-induced phase separation (NIPS) process. The polymer solution was prepared at 13.0% w/w polysulfone concentration in PolarClean solvent. The solution was mixed using the robotic system with heating at 50??C via heating block. After preparation, the solution was rested in a sample vial for 1 day before processing.
+
+The membrane casting was performed under high humidity conditions (96% RH). The polymer solution was automatically drop-cast onto the substrate and then blade-cast. Immediately following blade casting (0.0 min wait time), the sample was immersed in the NIPS bath. No nitrogen flow was applied either from the side during drop-casting or after blade-casting.
+
+The entire synthesis process was fully automated using the robotic system, demonstrating the capability for reproducible membrane fabrication under controlled conditions. 
+
+**The measured Elastic Modulus is 65.49 with a standard deviation of 7.96 bar.**","Parameters: Index: 18; Auto: True; Heating: True; Concentration: 13.0; Heating Block Temperature: 50; Mixed: True; Rest Time (days): 1; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 96; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0 
+
+**The measured Elastic Modulus is 65.49 with a standard deviation of 7.96 bar.**"
+llm_experiment_membrane_modulus_trajectory_parameters_seed40.csv,3,True,False,17.0,19,2,242.91509227554656,26.320162235539826,53.29180792101937,53.3616754505929,0.0605456931945689,0.000883965888271,680.6481740496316,620.6892229688629,370.8013925632121,746.632154861808,0.4538126779195276,0.0052196372626771,47.73680293624742,0.0,0.1292678303822495,0.0,40,2024-09-11,0.1292678303822495,25,False,0,0.0,68,1,0,Index: 40; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 0; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 68; Nitrogen (Side from drop): 1; Nitrogen (After blade): 0,"# Experimental Report: Automated Membrane Synthesis via NIPS
+
+## Experiment Parameters
+- **Experiment ID**: 40
+- **Synthesis Method**: Automated robotic system
+- **Polymer**: Polysulfone at 17.0% concentration in PolarClean solvent
+- **Processing Conditions**:
+  - Pre-mixed polymer solution (not mixed by robot)
+  - No heating during mixing (ambient temperature of 25??C)
+  - No solution rest time (used immediately after preparation)
+  - Zero wait time between blade casting and NIPS bath immersion
+  - Ambient relative humidity: 68%
+
+## Environmental Control
+- Dry nitrogen flow was applied from the side during drop-casting
+- No nitrogen flow was applied after blade casting
+
+## Procedure
+The experiment utilized an automated robotic system to synthesize polysulfone membranes via non-solvent-induced phase separation. A pre-mixed 17% polysulfone solution in PolarClean was prepared at room temperature without heating. The solution was drop-cast onto the substrate with nitrogen flow applied from the side to minimize humidity effects. After blade casting, the sample was immediately transferred to the NIPS bath (0-minute wait time) without additional nitrogen flow. The synthesis was conducted under relatively high humidity conditions (68% RH).","Report: # Experimental Report: Automated Membrane Synthesis via NIPS
+
+## Experiment Parameters
+- **Experiment ID**: 40
+- **Synthesis Method**: Automated robotic system
+- **Polymer**: Polysulfone at 17.0% concentration in PolarClean solvent
+- **Processing Conditions**:
+  - Pre-mixed polymer solution (not mixed by robot)
+  - No heating during mixing (ambient temperature of 25??C)
+  - No solution rest time (used immediately after preparation)
+  - Zero wait time between blade casting and NIPS bath immersion
+  - Ambient relative humidity: 68%
+
+## Environmental Control
+- Dry nitrogen flow was applied from the side during drop-casting
+- No nitrogen flow was applied after blade casting
+
+## Procedure
+The experiment utilized an automated robotic system to synthesize polysulfone membranes via non-solvent-induced phase separation. A pre-mixed 17% polysulfone solution in PolarClean was prepared at room temperature without heating. The solution was drop-cast onto the substrate with nitrogen flow applied from the side to minimize humidity effects. After blade casting, the sample was immediately transferred to the NIPS bath (0-minute wait time) without additional nitrogen flow. The synthesis was conducted under relatively high humidity conditions (68% RH). 
+
+**The measured Elastic Modulus is 242.92 with a standard deviation of 26.32 bar.**","Parameters: Index: 40; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 0; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 68; Nitrogen (Side from drop): 1; Nitrogen (After blade): 0 
+
+**The measured Elastic Modulus is 242.92 with a standard deviation of 26.32 bar.**"
+llm_experiment_membrane_modulus_trajectory_parameters_seed40.csv,4,True,True,17.0,8,1,172.0732296612731,7.440453177067441,14.18716828982452,0.5397807744949846,,,73.45889243850954,2.1555134076152145,894.6047083524742,28.718774377893347,0.590602500049319,0.0023559361787384,48.05883167952536,0.0,0.008656542,0.0,17,2024-03-28,0.008656542,50,False,1,0.0,53,0,0,Index: 17; Auto: True; Heating: True; Concentration: 17.0; Heating Block Temperature: 50; Mixed: False; Rest Time (days): 1; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 53; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"# Experimental Report: Automated Membrane Synthesis via NIPS
+
+## Experiment Parameters
+- **Experiment ID**: 17
+- **Synthesis Method**: Automated NIPS using robotic system
+- **Polymer Solution**: 17% polysulfone in PolarClean solvent
+- **Solution Preparation**: 
+  - Premixed manually (not mixed by robot)
+  - Heated during mixing at 50??C
+  - Rested for 1 day in sample vial before casting
+
+## Casting Conditions
+- **Environmental Conditions**: 53% relative humidity
+- **Casting Protocol**: 
+  - Drop-cast polymer solution onto coupon
+  - Blade-cast to form uniform film
+  - Immediate immersion in NIPS bath (0 min wait time)
+  - No nitrogen flow applied during any stage of the process
+
+The membrane was successfully synthesized using the automated robotic system with controlled parameters to ensure reproducibility of the phase separation process.","Report: # Experimental Report: Automated Membrane Synthesis via NIPS
+
+## Experiment Parameters
+- **Experiment ID**: 17
+- **Synthesis Method**: Automated NIPS using robotic system
+- **Polymer Solution**: 17% polysulfone in PolarClean solvent
+- **Solution Preparation**: 
+  - Premixed manually (not mixed by robot)
+  - Heated during mixing at 50??C
+  - Rested for 1 day in sample vial before casting
+
+## Casting Conditions
+- **Environmental Conditions**: 53% relative humidity
+- **Casting Protocol**: 
+  - Drop-cast polymer solution onto coupon
+  - Blade-cast to form uniform film
+  - Immediate immersion in NIPS bath (0 min wait time)
+  - No nitrogen flow applied during any stage of the process
+
+The membrane was successfully synthesized using the automated robotic system with controlled parameters to ensure reproducibility of the phase separation process. 
+
+**The measured Elastic Modulus is 172.07 with a standard deviation of 7.44 bar.**","Parameters: Index: 17; Auto: True; Heating: True; Concentration: 17.0; Heating Block Temperature: 50; Mixed: False; Rest Time (days): 1; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 53; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0 
+
+**The measured Elastic Modulus is 172.07 with a standard deviation of 7.44 bar.**"
+llm_experiment_membrane_modulus_trajectory_parameters_seed40.csv,5,True,False,17.0,3,1,179.2410423946837,23.71078197252873,58.30330971037684,66.35736374008198,,,-912.80077275411,1533.960520901146,541.0927919198687,164.8768891097686,0.6593077572518787,0.0266139135919431,47.94906400440546,0.0,0.013383717,0.0,4,2024-02-12,0.013383717,25,False,4,0.0,64,0,0,Index: 4; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 4; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 64; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0,"# Experimental Report: Automated Membrane Synthesis via NIPS
+
+## Experiment Details
+- **Experiment ID**: Index 4
+- **Synthesis Method**: Automated NIPS (Non-solvent-Induced Phase Separation)
+- **Polymer**: Polysulfone at 17.0% concentration
+- **Solvent**: PolarClean
+
+## Procedure
+A premixed polysulfone solution (17.0% concentration in PolarClean) was used after a 4-day rest period in a sample vial. The solution was processed at ambient temperature (25??C) without heating during the mixing phase. The robotic system performed automated blade casting of the polymer solution onto the substrate coupon. Immediately following blade casting (0.0 min wait time), the sample was immersed in the NIPS bath. The experiment was conducted at 64% relative humidity without nitrogen flow protection either during drop casting or after blade casting.
+
+## Conditions
+- Automated process: Yes
+- Ambient conditions: 25??C, 64% RH
+- No nitrogen protection employed
+- No heating during solution preparation
+- Immediate immersion in coagulation bath after casting
+
+This experiment represents standard automated NIPS membrane fabrication without environmental controls or extended evaporation time.","Report: # Experimental Report: Automated Membrane Synthesis via NIPS
+
+## Experiment Details
+- **Experiment ID**: Index 4
+- **Synthesis Method**: Automated NIPS (Non-solvent-Induced Phase Separation)
+- **Polymer**: Polysulfone at 17.0% concentration
+- **Solvent**: PolarClean
+
+## Procedure
+A premixed polysulfone solution (17.0% concentration in PolarClean) was used after a 4-day rest period in a sample vial. The solution was processed at ambient temperature (25??C) without heating during the mixing phase. The robotic system performed automated blade casting of the polymer solution onto the substrate coupon. Immediately following blade casting (0.0 min wait time), the sample was immersed in the NIPS bath. The experiment was conducted at 64% relative humidity without nitrogen flow protection either during drop casting or after blade casting.
+
+## Conditions
+- Automated process: Yes
+- Ambient conditions: 25??C, 64% RH
+- No nitrogen protection employed
+- No heating during solution preparation
+- Immediate immersion in coagulation bath after casting
+
+This experiment represents standard automated NIPS membrane fabrication without environmental controls or extended evaporation time. 
+
+**The measured Elastic Modulus is 179.24 with a standard deviation of 23.71 bar.**","Parameters: Index: 4; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 4; Coupon-to-Bath Wait Time (min): 0.0; Relative Humidity: 64; Nitrogen (Side from drop): 0; Nitrogen (After blade): 0 
+
+**The measured Elastic Modulus is 179.24 with a standard deviation of 23.71 bar.**"
+llm_experiment_membrane_modulus_trajectory_parameters_seed40.csv,6,True,False,17.0,25,1,228.310761552046,,129.56245922934576,,0.1093930302330949,,0.0,,-556.6929062987388,,0.5653239436021503,,46.73932772881614,,0.1285164296048623,,49,2024-09-23,0.1285164296048623,25,False,0,10.0,95,1,0,Index: 49; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 0; Coupon-to-Bath Wait Time (min): 10.0; Relative Humidity: 95; Nitrogen (Side from drop): 1; Nitrogen (After blade): 0,"# Experimental Report: Automated Membrane Synthesis via NIPS
+
+## Experiment Parameters (Index: 49)
+
+A polysulfone membrane was synthesized using non-solvent-induced phase separation (NIPS) under the following conditions:
+
+- **Synthesis Method**: Automated robotic system
+- **Polymer Solution**: 17.0% polysulfone in PolarClean solvent (premixed manually)
+- **Processing Conditions**:
+  - No heating during solution preparation (ambient temperature of 25??C)
+  - No solution rest time (used immediately after preparation)
+  - Laminar dry nitrogen flow applied from the side during drop-casting
+  - No nitrogen flow after blade-casting
+  - 10-minute delay between blade-casting and immersion in NIPS bath
+  - High ambient relative humidity (95%)
+
+The experiment utilized automated blade-casting followed by controlled immersion timing to investigate membrane formation under high humidity conditions with selective nitrogen protection during the initial casting phase.","Report: # Experimental Report: Automated Membrane Synthesis via NIPS
+
+## Experiment Parameters (Index: 49)
+
+A polysulfone membrane was synthesized using non-solvent-induced phase separation (NIPS) under the following conditions:
+
+- **Synthesis Method**: Automated robotic system
+- **Polymer Solution**: 17.0% polysulfone in PolarClean solvent (premixed manually)
+- **Processing Conditions**:
+  - No heating during solution preparation (ambient temperature of 25??C)
+  - No solution rest time (used immediately after preparation)
+  - Laminar dry nitrogen flow applied from the side during drop-casting
+  - No nitrogen flow after blade-casting
+  - 10-minute delay between blade-casting and immersion in NIPS bath
+  - High ambient relative humidity (95%)
+
+The experiment utilized automated blade-casting followed by controlled immersion timing to investigate membrane formation under high humidity conditions with selective nitrogen protection during the initial casting phase. 
+
+**The measured Elastic Modulus is 228.31 with a standard deviation of nan bar.**","Parameters: Index: 49; Auto: True; Heating: False; Concentration: 17.0; Heating Block Temperature: 25; Mixed: False; Rest Time (days): 0; Coupon-to-Bath Wait Time (min): 10.0; Relative Humidity: 95; Nitrogen (Side from drop): 1; Nitrogen (After blade): 0 
+
+**The measured Elastic Modulus is 228.31 with a standard deviation of nan bar.**"

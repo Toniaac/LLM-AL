@@ -1,0 +1,1247 @@
+Trajectory_File,Iteration,composition,yield strength,Fe,C,Mn,Si,Cr,Ni,Mo,V,Nb,Co,Al,Ti,N,W,Formatted_Parameters,Report,Report with output,Formatted_Parameters with output
+llm_experiment_yield_strength_trajectory_parameters_seed40.csv,0,Fe0.803C0.000470Mn0.000823Si0.000805Cr0.0511Ni0.117Mo0.0184V0.000111Nb0.0000608Co0.0000959Al0.00544Ti0.00224,1212.6,0.803,0.00047,0.000823,0.000805,0.0511,0.117,0.0184,0.000111,6.08e-05,9.59e-05,0.00544,0.00224,0.0,0.0,"Fe: 0.803, C: 0.00047, Mn: 0.000823, Si: 0.000805, Cr: 0.0511, Ni: 0.117, Mo: 0.0184, V: 0.000111, Nb: 6.08e-05, Co: 9.59e-05, Al: 0.00544, Ti: 0.00224, N: 0.0, W: 0.0","# Experimental Report: Estimation of Yield Strength Based on Steel Composition
+
+## Abstract
+This report presents an analysis of a steel sample with a specific elemental composition to estimate its yield strength. The analysis considers the strengthening mechanisms influenced by various alloying elements and their potential contributions to the mechanical properties of the steel.
+
+## 1. Introduction
+The mechanical properties of steel, particularly yield strength, are significantly influenced by its chemical composition. This study aims to correlate the provided elemental composition with expected yield strength through established metallurgical principles and strengthening mechanisms.
+
+## 2. Sample Composition
+The steel sample has the following composition (weight fraction):
+- Fe: 0.803 (80.3%)
+- Cr: 0.0511 (5.11%)
+- Ni: 0.117 (11.7%)
+- Mo: 0.0184 (1.84%)
+- Al: 0.00544 (0.544%)
+- Ti: 0.00224 (0.224%)
+- C: 0.00047 (0.047%)
+- Mn: 0.000823 (0.0823%)
+- Si: 0.000805 (0.0805%)
+- V: 0.000111 (0.0111%)
+- Nb: 6.08e-05 (0.00608%)
+- Co: 9.59e-05 (0.00959%)
+- N, W: 0.0 (0%)
+
+## 3. Analysis and Discussion
+
+### 3.1 Steel Classification
+Based on the composition, this appears to be a low-carbon stainless steel with significant nickel content, resembling an austenitic stainless steel (potentially similar to 300-series). The key indicators are:
+- Low carbon content (0.047%)
+- High chromium (5.11%) and nickel (11.7%) content
+- Presence of molybdenum (1.84%)
+
+### 3.2 Strengthening Mechanisms
+
+#### 3.2.1 Solid Solution Strengthening
+- **Chromium (5.11%)**: Contributes approximately 80-100 MPa to yield strength
+- **Nickel (11.7%)**: Stabilizes austenite phase, contributing 40-60 MPa
+- **Molybdenum (1.84%)**: Highly effective solid solution strengthener, adding approximately 60-80 MPa
+- **Silicon (0.0805%)** and **Manganese (0.0823%)**: Minimal contribution due to low concentrations
+
+#### 3.2.2 Precipitation Hardening
+- **Aluminum (0.544%)** and **Titanium (0.224%)**: Potential for forming intermetallic precipitates
+- **Niobium (0.00608%)** and **Vanadium (0.0111%)**: Despite low concentrations, may form carbides that contribute to precipitation strengthening
+
+#### 3.2.3 Grain Refinement
+- **Aluminum** and **Titanium**: Act as grain refiners, potentially reducing grain size and increasing yield strength via the Hall-Petch relationship
+
+### 3.3 Yield Strength Estimation
+Based on the composition analysis and established metallurgical relationships:
+
+1. Base strength of iron matrix: ~100-150 MPa
+2. Solid solution strengthening contribution: ~180-240 MPa
+3. Precipitation hardening contribution: ~30-50 MPa
+4. Grain refinement contribution: ~20-40 MPa
+
+**Estimated yield strength range: 330-480 MPa**
+
+## 4. Limitations and Considerations
+- This estimation does not account for processing history (cold working, heat treatment)
+- Microstructural features (grain size, phase distribution) significantly impact actual yield strength
+- The interaction effects between alloying elements are complex and may not be fully captured
+- Actual mechanical testing would be required for precise determination
+
+## 5. Conclusion
+The analyzed steel sample appears to be a low-carbon austenitic stainless steel with an estimated yield strength range of 330-480 MPa. The primary strengthening mechanisms are solid solution strengthening from Cr, Ni, and Mo, with additional contributions from potential precipitation hardening and grain refinement effects from Al, Ti, Nb, and V.
+
+## 6. Recommendations
+For more accurate yield strength determination, the following are recommended:
+- Microstructural analysis via optical and electron microscopy
+- Hardness testing to correlate with yield strength
+- Direct mechanical testing (tensile testing)
+- Analysis of processing history and heat treatment conditions","Report: # Experimental Report: Estimation of Yield Strength Based on Steel Composition
+
+## Abstract
+This report presents an analysis of a steel sample with a specific elemental composition to estimate its yield strength. The analysis considers the strengthening mechanisms influenced by various alloying elements and their potential contributions to the mechanical properties of the steel.
+
+## 1. Introduction
+The mechanical properties of steel, particularly yield strength, are significantly influenced by its chemical composition. This study aims to correlate the provided elemental composition with expected yield strength through established metallurgical principles and strengthening mechanisms.
+
+## 2. Sample Composition
+The steel sample has the following composition (weight fraction):
+- Fe: 0.803 (80.3%)
+- Cr: 0.0511 (5.11%)
+- Ni: 0.117 (11.7%)
+- Mo: 0.0184 (1.84%)
+- Al: 0.00544 (0.544%)
+- Ti: 0.00224 (0.224%)
+- C: 0.00047 (0.047%)
+- Mn: 0.000823 (0.0823%)
+- Si: 0.000805 (0.0805%)
+- V: 0.000111 (0.0111%)
+- Nb: 6.08e-05 (0.00608%)
+- Co: 9.59e-05 (0.00959%)
+- N, W: 0.0 (0%)
+
+## 3. Analysis and Discussion
+
+### 3.1 Steel Classification
+Based on the composition, this appears to be a low-carbon stainless steel with significant nickel content, resembling an austenitic stainless steel (potentially similar to 300-series). The key indicators are:
+- Low carbon content (0.047%)
+- High chromium (5.11%) and nickel (11.7%) content
+- Presence of molybdenum (1.84%)
+
+### 3.2 Strengthening Mechanisms
+
+#### 3.2.1 Solid Solution Strengthening
+- **Chromium (5.11%)**: Contributes approximately 80-100 MPa to yield strength
+- **Nickel (11.7%)**: Stabilizes austenite phase, contributing 40-60 MPa
+- **Molybdenum (1.84%)**: Highly effective solid solution strengthener, adding approximately 60-80 MPa
+- **Silicon (0.0805%)** and **Manganese (0.0823%)**: Minimal contribution due to low concentrations
+
+#### 3.2.2 Precipitation Hardening
+- **Aluminum (0.544%)** and **Titanium (0.224%)**: Potential for forming intermetallic precipitates
+- **Niobium (0.00608%)** and **Vanadium (0.0111%)**: Despite low concentrations, may form carbides that contribute to precipitation strengthening
+
+#### 3.2.3 Grain Refinement
+- **Aluminum** and **Titanium**: Act as grain refiners, potentially reducing grain size and increasing yield strength via the Hall-Petch relationship
+
+### 3.3 Yield Strength Estimation
+Based on the composition analysis and established metallurgical relationships:
+
+1. Base strength of iron matrix: ~100-150 MPa
+2. Solid solution strengthening contribution: ~180-240 MPa
+3. Precipitation hardening contribution: ~30-50 MPa
+4. Grain refinement contribution: ~20-40 MPa
+
+**Estimated yield strength range: 330-480 MPa**
+
+## 4. Limitations and Considerations
+- This estimation does not account for processing history (cold working, heat treatment)
+- Microstructural features (grain size, phase distribution) significantly impact actual yield strength
+- The interaction effects between alloying elements are complex and may not be fully captured
+- Actual mechanical testing would be required for precise determination
+
+## 5. Conclusion
+The analyzed steel sample appears to be a low-carbon austenitic stainless steel with an estimated yield strength range of 330-480 MPa. The primary strengthening mechanisms are solid solution strengthening from Cr, Ni, and Mo, with additional contributions from potential precipitation hardening and grain refinement effects from Al, Ti, Nb, and V.
+
+## 6. Recommendations
+For more accurate yield strength determination, the following are recommended:
+- Microstructural analysis via optical and electron microscopy
+- Hardness testing to correlate with yield strength
+- Direct mechanical testing (tensile testing)
+- Analysis of processing history and heat treatment conditions 
+
+**The Actual Yield Strength is 1212.6 MPa**","Parameters: Fe: 0.803, C: 0.00047, Mn: 0.000823, Si: 0.000805, Cr: 0.0511, Ni: 0.117, Mo: 0.0184, V: 0.000111, Nb: 6.08e-05, Co: 9.59e-05, Al: 0.00544, Ti: 0.00224, N: 0.0, W: 0.0 
+
+**The Actual Yield Strength is 1212.6 MPa**"
+llm_experiment_yield_strength_trajectory_parameters_seed40.csv,1,Fe0.799C0.000468Mn0.0256Si0.000401Cr0.000108Ni0.173Mo0.000117V0.000110Nb0.0000605Co0.0000955Al0.00104Ti0.000470,1471.1,0.799,0.000468,0.0256,0.000401,0.000108,0.173,0.000117,0.00011,6.05e-05,9.55e-05,0.00104,0.00047,0.0,0.0,"Fe: 0.799, C: 0.000468, Mn: 0.0256, Si: 0.000401, Cr: 0.000108, Ni: 0.173, Mo: 0.000117, V: 0.00011, Nb: 6.05e-05, Co: 9.55e-05, Al: 0.00104, Ti: 0.00047, N: 0.0, W: 0.0","# Experimental Report: Estimation of Yield Strength Based on Steel Composition
+
+## 1. Introduction
+
+This report presents an analysis of a steel sample with the following elemental composition (mass fraction):
+
+| Element | Content |
+|---------|---------|
+| Fe | 0.799 |
+| Ni | 0.173 |
+| Mn | 0.0256 |
+| Al | 0.00104 |
+| Ti | 0.00047 |
+| C | 0.000468 |
+| Si | 0.000401 |
+| Mo | 0.000117 |
+| V | 0.00011 |
+| Cr | 0.000108 |
+| Co | 0.0000955 |
+| Nb | 0.0000605 |
+| N | 0.0 |
+| W | 0.0 |
+
+The objective is to estimate the yield strength based on this composition using established metallurgical principles and empirical relationships.
+
+## 2. Material Classification and Analysis
+
+### 2.1 Steel Type Identification
+The composition indicates an austenitic stainless steel with:
+- High nickel content (17.3%)
+- Low carbon content (0.0468%)
+- Moderate manganese (2.56%)
+- Presence of titanium as a stabilizing element
+
+This composition most closely resembles a 300-series austenitic stainless steel, specifically similar to a modified 304L or 316L grade.
+
+### 2.2 Strengthening Mechanisms
+
+Several strengthening mechanisms are relevant for this composition:
+
+1. **Solid Solution Strengthening**:
+   - Nickel (17.3%): Primary austenite stabilizer, contributes ~30-40 MPa
+   - Manganese (2.56%): Contributes ~20-25 MPa
+   - Molybdenum (0.0117%): Minimal contribution
+
+2. **Grain Boundary Strengthening**:
+   - Titanium (0.047%) and aluminum (0.104%) likely form fine precipitates that can refine grain structure
+
+3. **Precipitation Hardening**:
+   - Limited due to low carbon content
+   - Ti/Nb may form carbides but their effect is minimal at these concentrations
+
+4. **Work Hardening**:
+   - Austenitic stainless steels typically exhibit high work hardening rates
+   - Cannot be directly determined from composition alone
+
+## 3. Yield Strength Estimation
+
+### 3.1 Base Strength Calculation
+
+Using the modified Hall-Petch relationship and linear superposition of strengthening contributions:
+
+σy = σ₀ + Σ(kᵢ·Cᵢ) + ky·d⁻¹/²
+
+Where:
+- σ₀ = base strength of pure iron (~70 MPa)
+- kᵢ = strengthening coefficient for element i
+- Cᵢ = concentration of element i
+- ky = grain boundary strengthening coefficient
+- d = grain size (assumed to be typical for this class of steel)
+
+### 3.2 Estimated Yield Strength
+
+Based on the composition and typical processing conditions for austenitic stainless steels:
+
+- Base yield strength (annealed condition): **210-240 MPa**
+- With typical cold working: **290-350 MPa**
+
+## 4. Discussion
+
+The relatively high nickel content (17.3%) strongly suggests an austenitic microstructure, which typically exhibits lower yield strength but excellent ductility and work hardening capability. The very low carbon content (0.0468%) indicates this is likely a low-carbon variant designed for improved weldability and reduced susceptibility to sensitization.
+
+The presence of titanium, albeit in small amounts, suggests it may be added as a stabilizing element to prevent chromium carbide formation and intergranular corrosion. However, the chromium content appears unusually low for a stainless steel (0.0108%), which raises questions about corrosion resistance.
+
+## 5. Conclusion
+
+Based on compositional analysis, this steel is estimated to have a yield strength of 210-240 MPa in the annealed condition. The high nickel content suggests good ductility and toughness, though the unusually low chromium content may compromise corrosion resistance typically associated with stainless steels.
+
+Further mechanical testing and microstructural analysis would be required to validate these estimates and determine the actual performance characteristics of this steel.","Report: # Experimental Report: Estimation of Yield Strength Based on Steel Composition
+
+## 1. Introduction
+
+This report presents an analysis of a steel sample with the following elemental composition (mass fraction):
+
+| Element | Content |
+|---------|---------|
+| Fe | 0.799 |
+| Ni | 0.173 |
+| Mn | 0.0256 |
+| Al | 0.00104 |
+| Ti | 0.00047 |
+| C | 0.000468 |
+| Si | 0.000401 |
+| Mo | 0.000117 |
+| V | 0.00011 |
+| Cr | 0.000108 |
+| Co | 0.0000955 |
+| Nb | 0.0000605 |
+| N | 0.0 |
+| W | 0.0 |
+
+The objective is to estimate the yield strength based on this composition using established metallurgical principles and empirical relationships.
+
+## 2. Material Classification and Analysis
+
+### 2.1 Steel Type Identification
+The composition indicates an austenitic stainless steel with:
+- High nickel content (17.3%)
+- Low carbon content (0.0468%)
+- Moderate manganese (2.56%)
+- Presence of titanium as a stabilizing element
+
+This composition most closely resembles a 300-series austenitic stainless steel, specifically similar to a modified 304L or 316L grade.
+
+### 2.2 Strengthening Mechanisms
+
+Several strengthening mechanisms are relevant for this composition:
+
+1. **Solid Solution Strengthening**:
+   - Nickel (17.3%): Primary austenite stabilizer, contributes ~30-40 MPa
+   - Manganese (2.56%): Contributes ~20-25 MPa
+   - Molybdenum (0.0117%): Minimal contribution
+
+2. **Grain Boundary Strengthening**:
+   - Titanium (0.047%) and aluminum (0.104%) likely form fine precipitates that can refine grain structure
+
+3. **Precipitation Hardening**:
+   - Limited due to low carbon content
+   - Ti/Nb may form carbides but their effect is minimal at these concentrations
+
+4. **Work Hardening**:
+   - Austenitic stainless steels typically exhibit high work hardening rates
+   - Cannot be directly determined from composition alone
+
+## 3. Yield Strength Estimation
+
+### 3.1 Base Strength Calculation
+
+Using the modified Hall-Petch relationship and linear superposition of strengthening contributions:
+
+σy = σ₀ + Σ(kᵢ·Cᵢ) + ky·d⁻¹/²
+
+Where:
+- σ₀ = base strength of pure iron (~70 MPa)
+- kᵢ = strengthening coefficient for element i
+- Cᵢ = concentration of element i
+- ky = grain boundary strengthening coefficient
+- d = grain size (assumed to be typical for this class of steel)
+
+### 3.2 Estimated Yield Strength
+
+Based on the composition and typical processing conditions for austenitic stainless steels:
+
+- Base yield strength (annealed condition): **210-240 MPa**
+- With typical cold working: **290-350 MPa**
+
+## 4. Discussion
+
+The relatively high nickel content (17.3%) strongly suggests an austenitic microstructure, which typically exhibits lower yield strength but excellent ductility and work hardening capability. The very low carbon content (0.0468%) indicates this is likely a low-carbon variant designed for improved weldability and reduced susceptibility to sensitization.
+
+The presence of titanium, albeit in small amounts, suggests it may be added as a stabilizing element to prevent chromium carbide formation and intergranular corrosion. However, the chromium content appears unusually low for a stainless steel (0.0108%), which raises questions about corrosion resistance.
+
+## 5. Conclusion
+
+Based on compositional analysis, this steel is estimated to have a yield strength of 210-240 MPa in the annealed condition. The high nickel content suggests good ductility and toughness, though the unusually low chromium content may compromise corrosion resistance typically associated with stainless steels.
+
+Further mechanical testing and microstructural analysis would be required to validate these estimates and determine the actual performance characteristics of this steel. 
+
+**The Actual Yield Strength is 1471.1 MPa**","Parameters: Fe: 0.799, C: 0.000468, Mn: 0.0256, Si: 0.000401, Cr: 0.000108, Ni: 0.173, Mo: 0.000117, V: 0.00011, Nb: 6.05e-05, Co: 9.55e-05, Al: 0.00104, Ti: 0.00047, N: 0.0, W: 0.0 
+
+**The Actual Yield Strength is 1471.1 MPa**"
+llm_experiment_yield_strength_trajectory_parameters_seed40.csv,2,Fe0.796C0.000469Mn0.000103Si0.000201Cr0.000108Ni0.174Mo0.00587V0.000111Nb0.0000606Co0.0000956Al0.00167Ti0.0212,1737.2,0.796,0.000469,0.000103,0.000201,0.000108,0.174,0.00587,0.000111,6.06e-05,9.56e-05,0.00167,0.0212,0.0,0.0,"Fe: 0.796, C: 0.000469, Mn: 0.000103, Si: 0.000201, Cr: 0.000108, Ni: 0.174, Mo: 0.00587, V: 0.000111, Nb: 6.06e-05, Co: 9.56e-05, Al: 0.00167, Ti: 0.0212, N: 0.0, W: 0.0","# Experimental Report: Estimation of Yield Strength Based on Steel Composition
+
+## 1. Introduction
+
+This report analyzes the yield strength estimation of a steel sample based on its elemental composition. The sample shows characteristics of a nickel-containing alloy steel with significant titanium content and low carbon concentration.
+
+## 2. Composition Analysis
+
+The steel sample contains (by weight fraction):
+- Fe: 0.796 (79.6%)
+- Ni: 0.174 (17.4%)
+- Ti: 0.0212 (2.12%)
+- Al: 0.00167 (0.167%)
+- Mo: 0.00587 (0.587%)
+- C: 0.000469 (0.0469%)
+
+Other elements (Mn, Si, Cr, V, Nb, Co) are present in trace amounts (<0.02% each).
+
+## 3. Metallurgical Considerations
+
+### 3.1 Alloy Classification
+The composition suggests a nickel-based maraging steel or precipitation-hardening stainless steel with the following key features:
+- High nickel content (17.4%)
+- Very low carbon content (0.0469%)
+- Significant titanium (2.12%) and molybdenum (0.587%)
+
+### 3.2 Strengthening Mechanisms
+Several mechanisms likely contribute to the yield strength:
+
+1. **Precipitation hardening**: The high Ti content combined with Ni, Mo, and Al suggests formation of intermetallic precipitates (Ni₃Ti, Ni₃Mo, Ni₃Al) that significantly increase strength through precipitation hardening.
+
+2. **Solid solution strengthening**: Ni, Mo, and other solute elements distort the iron lattice, impeding dislocation movement.
+
+3. **Minimal carbon strengthening**: The very low carbon content indicates that traditional carbon-based strengthening is not a primary mechanism.
+
+## 4. Yield Strength Estimation
+
+### 4.1 Base Strength Contribution
+- Pure iron base: ~50 MPa
+
+### 4.2 Solid Solution Strengthening
+- Nickel contribution: ~80-100 MPa (17.4% Ni)
+- Molybdenum contribution: ~40-50 MPa (0.587% Mo)
+
+### 4.3 Precipitation Hardening
+- Ti-Ni precipitates: ~400-500 MPa (2.12% Ti is significant)
+- Al-Ni precipitates: ~30-50 MPa (0.167% Al)
+
+### 4.4 Estimated Yield Strength Range
+Based on composition analysis and assuming proper heat treatment to achieve optimal precipitation:
+- **Estimated yield strength: 900-1200 MPa**
+
+## 5. Discussion
+
+The steel appears to be a variant of maraging steel or precipitation-hardening stainless steel, where strength derives primarily from intermetallic precipitates rather than carbon-based mechanisms. The high nickel and titanium contents are particularly significant for strength development.
+
+The very low carbon content (0.0469%) is characteristic of maraging steels, which rely on precipitation of intermetallic compounds rather than carbides for strengthening. This typically results in excellent combination of high strength and good toughness.
+
+## 6. Conclusion
+
+The analyzed steel composition indicates a precipitation-hardening alloy with estimated yield strength in the range of 900-1200 MPa when properly heat-treated. Actual yield strength would depend on the specific heat treatment history, which cannot be determined from composition alone.
+
+## 7. Recommendations
+
+For precise yield strength determination, mechanical testing (tensile testing) is recommended, along with microstructural analysis to confirm the presence and distribution of strengthening precipitates.","Report: # Experimental Report: Estimation of Yield Strength Based on Steel Composition
+
+## 1. Introduction
+
+This report analyzes the yield strength estimation of a steel sample based on its elemental composition. The sample shows characteristics of a nickel-containing alloy steel with significant titanium content and low carbon concentration.
+
+## 2. Composition Analysis
+
+The steel sample contains (by weight fraction):
+- Fe: 0.796 (79.6%)
+- Ni: 0.174 (17.4%)
+- Ti: 0.0212 (2.12%)
+- Al: 0.00167 (0.167%)
+- Mo: 0.00587 (0.587%)
+- C: 0.000469 (0.0469%)
+
+Other elements (Mn, Si, Cr, V, Nb, Co) are present in trace amounts (<0.02% each).
+
+## 3. Metallurgical Considerations
+
+### 3.1 Alloy Classification
+The composition suggests a nickel-based maraging steel or precipitation-hardening stainless steel with the following key features:
+- High nickel content (17.4%)
+- Very low carbon content (0.0469%)
+- Significant titanium (2.12%) and molybdenum (0.587%)
+
+### 3.2 Strengthening Mechanisms
+Several mechanisms likely contribute to the yield strength:
+
+1. **Precipitation hardening**: The high Ti content combined with Ni, Mo, and Al suggests formation of intermetallic precipitates (Ni₃Ti, Ni₃Mo, Ni₃Al) that significantly increase strength through precipitation hardening.
+
+2. **Solid solution strengthening**: Ni, Mo, and other solute elements distort the iron lattice, impeding dislocation movement.
+
+3. **Minimal carbon strengthening**: The very low carbon content indicates that traditional carbon-based strengthening is not a primary mechanism.
+
+## 4. Yield Strength Estimation
+
+### 4.1 Base Strength Contribution
+- Pure iron base: ~50 MPa
+
+### 4.2 Solid Solution Strengthening
+- Nickel contribution: ~80-100 MPa (17.4% Ni)
+- Molybdenum contribution: ~40-50 MPa (0.587% Mo)
+
+### 4.3 Precipitation Hardening
+- Ti-Ni precipitates: ~400-500 MPa (2.12% Ti is significant)
+- Al-Ni precipitates: ~30-50 MPa (0.167% Al)
+
+### 4.4 Estimated Yield Strength Range
+Based on composition analysis and assuming proper heat treatment to achieve optimal precipitation:
+- **Estimated yield strength: 900-1200 MPa**
+
+## 5. Discussion
+
+The steel appears to be a variant of maraging steel or precipitation-hardening stainless steel, where strength derives primarily from intermetallic precipitates rather than carbon-based mechanisms. The high nickel and titanium contents are particularly significant for strength development.
+
+The very low carbon content (0.0469%) is characteristic of maraging steels, which rely on precipitation of intermetallic compounds rather than carbides for strengthening. This typically results in excellent combination of high strength and good toughness.
+
+## 6. Conclusion
+
+The analyzed steel composition indicates a precipitation-hardening alloy with estimated yield strength in the range of 900-1200 MPa when properly heat-treated. Actual yield strength would depend on the specific heat treatment history, which cannot be determined from composition alone.
+
+## 7. Recommendations
+
+For precise yield strength determination, mechanical testing (tensile testing) is recommended, along with microstructural analysis to confirm the presence and distribution of strengthening precipitates. 
+
+**The Actual Yield Strength is 1737.2 MPa**","Parameters: Fe: 0.796, C: 0.000469, Mn: 0.000103, Si: 0.000201, Cr: 0.000108, Ni: 0.174, Mo: 0.00587, V: 0.000111, Nb: 6.06e-05, Co: 9.56e-05, Al: 0.00167, Ti: 0.0212, N: 0.0, W: 0.0 
+
+**The Actual Yield Strength is 1737.2 MPa**"
+llm_experiment_yield_strength_trajectory_parameters_seed40.csv,3,Fe0.800C0.000470Mn0.000616Si0.000602Cr0.0506Ni0.117Mo0.0186V0.000111Nb0.0000607Co0.0000957Al0.00982Ti0.00224,1390.4,0.8,0.00047,0.000616,0.000602,0.0506,0.117,0.0186,0.000111,6.07e-05,9.57e-05,0.00982,0.00224,0.0,0.0,"Fe: 0.8, C: 0.00047, Mn: 0.000616, Si: 0.000602, Cr: 0.0506, Ni: 0.117, Mo: 0.0186, V: 0.000111, Nb: 6.07e-05, Co: 9.57e-05, Al: 0.00982, Ti: 0.00224, N: 0.0, W: 0.0","# Experimental Report: Estimation of Yield Strength Based on Steel Composition
+
+## Abstract
+This report presents an analysis of a steel sample with a unique elemental composition to estimate its yield strength. The analysis considers the effects of various alloying elements on microstructure and strengthening mechanisms to predict mechanical properties.
+
+## 1. Introduction
+Yield strength is a critical mechanical property for engineering applications. This study aims to correlate the provided elemental composition with expected yield strength through established metallurgical principles and strengthening mechanisms.
+
+## 2. Material Composition Analysis
+The steel sample contains (in weight %):
+- Fe: 80.0% (base element)
+- Ni: 11.7%
+- Cr: 5.06%
+- Mo: 1.86%
+- Al: 0.982%
+- Ti: 0.224%
+- C: 0.047%
+- Mn: 0.0616%
+- Si: 0.0602%
+- V: 0.0111%
+- Co: 0.00957%
+- Nb: 0.00607%
+
+## 3. Metallurgical Classification and Considerations
+
+### 3.1 Steel Type Identification
+The composition indicates a high-nickel, chromium-containing stainless steel or specialty alloy with:
+- High Ni content (11.7%) - Promotes austenite formation
+- Significant Cr content (5.06%) - Contributes to corrosion resistance
+- Notable Mo content (1.86%) - Enhances pitting resistance and high-temperature strength
+- Low carbon content (0.047%) - Suggests limited carbide formation
+
+### 3.2 Strengthening Mechanisms
+
+#### 3.2.1 Solid Solution Strengthening
+- Ni, Cr, and Mo provide substantial solid solution strengthening
+- Estimated contribution: 150-200 MPa
+
+#### 3.2.2 Precipitation Hardening
+- Ti (0.224%) and Al (0.982%) suggest potential for precipitation hardening
+- Ti can form intermetallic compounds (Ni₃Ti) in nickel-rich steels
+- Al may contribute to γ' precipitation in nickel-rich matrices
+- Estimated contribution: 100-150 MPa
+
+#### 3.2.3 Grain Refinement
+- Microalloying elements (V, Nb) act as grain refiners
+- Estimated contribution: 30-50 MPa
+
+#### 3.2.4 Work Hardening
+- Austenitic structure (promoted by Ni) typically exhibits good work hardening
+- Not applicable to yield strength estimation in annealed condition
+
+## 4. Yield Strength Estimation
+
+### 4.1 Base Strength Calculation
+Using the modified Hall-Petch relationship and considering alloying contributions:
+
+σy = σ₀ + Δσss + Δσp + kyd^(-1/2)
+
+Where:
+- σ₀: Friction stress (base strength of iron matrix) ≈ 70 MPa
+- Δσss: Solid solution strengthening ≈ 175 MPa
+- Δσp: Precipitation strengthening ≈ 125 MPa
+- kyd^(-1/2): Grain boundary strengthening ≈ 40 MPa
+
+### 4.2 Estimated Yield Strength
+Based on the composition analysis and strengthening mechanisms:
+- Estimated yield strength: 410 ± 30 MPa in annealed condition
+
+## 5. Discussion
+The steel appears to be a specialty alloy with characteristics between austenitic stainless steel and precipitation-hardened nickel alloys. The relatively high Al and Ti contents suggest potential for age-hardening treatments, which could significantly increase yield strength beyond the estimated value.
+
+The low carbon content indicates limited carbide formation, which would maintain good ductility and toughness. The presence of Mo enhances high-temperature strength and creep resistance.
+
+## 6. Conclusion
+The analyzed steel composition suggests a yield strength of approximately 410 MPa in the annealed condition. Heat treatment, particularly age hardening, could potentially increase this value significantly. The alloy appears designed for applications requiring corrosion resistance and moderate strength.
+
+## 7. Recommendations
+Experimental verification through tensile testing is recommended to confirm the estimated yield strength. Additionally, microstructural analysis would provide valuable insights into the actual strengthening mechanisms present in the alloy.","Report: # Experimental Report: Estimation of Yield Strength Based on Steel Composition
+
+## Abstract
+This report presents an analysis of a steel sample with a unique elemental composition to estimate its yield strength. The analysis considers the effects of various alloying elements on microstructure and strengthening mechanisms to predict mechanical properties.
+
+## 1. Introduction
+Yield strength is a critical mechanical property for engineering applications. This study aims to correlate the provided elemental composition with expected yield strength through established metallurgical principles and strengthening mechanisms.
+
+## 2. Material Composition Analysis
+The steel sample contains (in weight %):
+- Fe: 80.0% (base element)
+- Ni: 11.7%
+- Cr: 5.06%
+- Mo: 1.86%
+- Al: 0.982%
+- Ti: 0.224%
+- C: 0.047%
+- Mn: 0.0616%
+- Si: 0.0602%
+- V: 0.0111%
+- Co: 0.00957%
+- Nb: 0.00607%
+
+## 3. Metallurgical Classification and Considerations
+
+### 3.1 Steel Type Identification
+The composition indicates a high-nickel, chromium-containing stainless steel or specialty alloy with:
+- High Ni content (11.7%) - Promotes austenite formation
+- Significant Cr content (5.06%) - Contributes to corrosion resistance
+- Notable Mo content (1.86%) - Enhances pitting resistance and high-temperature strength
+- Low carbon content (0.047%) - Suggests limited carbide formation
+
+### 3.2 Strengthening Mechanisms
+
+#### 3.2.1 Solid Solution Strengthening
+- Ni, Cr, and Mo provide substantial solid solution strengthening
+- Estimated contribution: 150-200 MPa
+
+#### 3.2.2 Precipitation Hardening
+- Ti (0.224%) and Al (0.982%) suggest potential for precipitation hardening
+- Ti can form intermetallic compounds (Ni₃Ti) in nickel-rich steels
+- Al may contribute to γ' precipitation in nickel-rich matrices
+- Estimated contribution: 100-150 MPa
+
+#### 3.2.3 Grain Refinement
+- Microalloying elements (V, Nb) act as grain refiners
+- Estimated contribution: 30-50 MPa
+
+#### 3.2.4 Work Hardening
+- Austenitic structure (promoted by Ni) typically exhibits good work hardening
+- Not applicable to yield strength estimation in annealed condition
+
+## 4. Yield Strength Estimation
+
+### 4.1 Base Strength Calculation
+Using the modified Hall-Petch relationship and considering alloying contributions:
+
+σy = σ₀ + Δσss + Δσp + kyd^(-1/2)
+
+Where:
+- σ₀: Friction stress (base strength of iron matrix) ≈ 70 MPa
+- Δσss: Solid solution strengthening ≈ 175 MPa
+- Δσp: Precipitation strengthening ≈ 125 MPa
+- kyd^(-1/2): Grain boundary strengthening ≈ 40 MPa
+
+### 4.2 Estimated Yield Strength
+Based on the composition analysis and strengthening mechanisms:
+- Estimated yield strength: 410 ± 30 MPa in annealed condition
+
+## 5. Discussion
+The steel appears to be a specialty alloy with characteristics between austenitic stainless steel and precipitation-hardened nickel alloys. The relatively high Al and Ti contents suggest potential for age-hardening treatments, which could significantly increase yield strength beyond the estimated value.
+
+The low carbon content indicates limited carbide formation, which would maintain good ductility and toughness. The presence of Mo enhances high-temperature strength and creep resistance.
+
+## 6. Conclusion
+The analyzed steel composition suggests a yield strength of approximately 410 MPa in the annealed condition. Heat treatment, particularly age hardening, could potentially increase this value significantly. The alloy appears designed for applications requiring corrosion resistance and moderate strength.
+
+## 7. Recommendations
+Experimental verification through tensile testing is recommended to confirm the estimated yield strength. Additionally, microstructural analysis would provide valuable insights into the actual strengthening mechanisms present in the alloy. 
+
+**The Actual Yield Strength is 1390.4 MPa**","Parameters: Fe: 0.8, C: 0.00047, Mn: 0.000616, Si: 0.000602, Cr: 0.0506, Ni: 0.117, Mo: 0.0186, V: 0.000111, Nb: 6.07e-05, Co: 9.57e-05, Al: 0.00982, Ti: 0.00224, N: 0.0, W: 0.0 
+
+**The Actual Yield Strength is 1390.4 MPa**"
+llm_experiment_yield_strength_trajectory_parameters_seed40.csv,4,Fe0.799C0.000471Mn0.000103Si0.000201Cr0.000109Ni0.165Mo0.0118V0.000111Nb0.0000609Co0.0000960Al0.00147Ti0.0215,1874.6,0.799,0.000471,0.000103,0.000201,0.000109,0.165,0.0118,0.000111,6.09e-05,9.6e-05,0.00147,0.0215,0.0,0.0,"Fe: 0.799, C: 0.000471, Mn: 0.000103, Si: 0.000201, Cr: 0.000109, Ni: 0.165, Mo: 0.0118, V: 0.000111, Nb: 6.09e-05, Co: 9.6e-05, Al: 0.00147, Ti: 0.0215, N: 0.0, W: 0.0","# Experimental Report: Estimation of Yield Strength Based on Steel Composition
+
+## Abstract
+This report analyzes the yield strength estimation of a steel sample based on its elemental composition. The sample exhibits characteristics of a precipitation-hardened maraging steel with significant nickel and titanium content, suggesting potential for high strength with good toughness.
+
+## 1. Introduction
+Yield strength is a critical mechanical property for engineering applications. This study aims to estimate the yield strength of a steel sample based on its elemental composition and established metallurgical principles.
+
+## 2. Material Composition Analysis
+The steel sample has the following key composition (weight fraction):
+- Fe: 0.799 (base element)
+- Ni: 0.165 (16.5%)
+- Ti: 0.0215 (2.15%)
+- Mo: 0.0118 (1.18%)
+- Al: 0.00147 (0.147%)
+- C: 0.000471 (0.0471%)
+
+Notable characteristics:
+- Very low carbon content (0.0471%)
+- High nickel content (16.5%)
+- Significant titanium content (2.15%)
+- Presence of molybdenum (1.18%)
+
+## 3. Metallurgical Classification and Strengthening Mechanisms
+
+### 3.1 Steel Classification
+The composition strongly indicates a maraging steel, specifically resembling an 18Ni maraging steel variant. Key identifiers include:
+- High nickel content (~16.5%)
+- Very low carbon content
+- Presence of Ti, Mo, and Al as precipitation hardening elements
+
+### 3.2 Strengthening Mechanisms
+Primary strengthening mechanisms expected in this steel:
+
+1. **Precipitation hardening**: Ti, Mo, and Al form intermetallic compounds (primarily Ni₃Ti, Fe₂Mo) during aging treatment
+2. **Solid solution strengthening**: Ni, Mo contribute to matrix strengthening
+3. **Minimal contribution from carbon**: The extremely low carbon content indicates minimal carbide strengthening
+
+## 4. Yield Strength Estimation
+
+### 4.1 Base Strength Contribution
+- Ferrite matrix (Fe): ~280 MPa
+
+### 4.2 Solid Solution Strengthening
+- Ni contribution: ~120-150 MPa
+- Mo contribution: ~40-60 MPa
+
+### 4.3 Precipitation Hardening
+- Ti-based precipitates (Ni₃Ti): ~600-700 MPa
+- Mo-based precipitates: ~100-150 MPa
+- Al contribution: ~20-30 MPa
+
+### 4.4 Estimated Yield Strength
+Based on composition analysis and typical strengthening contributions in similar maraging steels:
+- Estimated yield strength range: 1200-1500 MPa (in aged condition)
+- Unaged condition would exhibit significantly lower strength (~700-800 MPa)
+
+## 5. Discussion
+The steel composition resembles a maraging steel with the following characteristics:
+- The high Ni content (16.5%) promotes formation of a martensitic structure with good toughness
+- The Ti content (2.15%) is optimized for precipitation of Ni₃Ti particles during aging
+- Mo (1.18%) contributes to both solid solution strengthening and precipitation hardening
+- The very low carbon content is typical of maraging steels, minimizing carbide formation and improving toughness
+
+The yield strength estimation assumes proper heat treatment, including solution treatment and aging to achieve optimal precipitation hardening.
+
+## 6. Conclusion
+Based on compositional analysis, the steel sample appears to be a maraging steel with an estimated yield strength of 1200-1500 MPa in the properly aged condition. The high nickel and titanium content, combined with low carbon, suggests a material designed for high strength with good toughness and ductility.
+
+## 7. Recommendations
+For precise yield strength determination, mechanical testing is recommended, along with microstructural analysis to confirm precipitate formation and distribution.","Report: # Experimental Report: Estimation of Yield Strength Based on Steel Composition
+
+## Abstract
+This report analyzes the yield strength estimation of a steel sample based on its elemental composition. The sample exhibits characteristics of a precipitation-hardened maraging steel with significant nickel and titanium content, suggesting potential for high strength with good toughness.
+
+## 1. Introduction
+Yield strength is a critical mechanical property for engineering applications. This study aims to estimate the yield strength of a steel sample based on its elemental composition and established metallurgical principles.
+
+## 2. Material Composition Analysis
+The steel sample has the following key composition (weight fraction):
+- Fe: 0.799 (base element)
+- Ni: 0.165 (16.5%)
+- Ti: 0.0215 (2.15%)
+- Mo: 0.0118 (1.18%)
+- Al: 0.00147 (0.147%)
+- C: 0.000471 (0.0471%)
+
+Notable characteristics:
+- Very low carbon content (0.0471%)
+- High nickel content (16.5%)
+- Significant titanium content (2.15%)
+- Presence of molybdenum (1.18%)
+
+## 3. Metallurgical Classification and Strengthening Mechanisms
+
+### 3.1 Steel Classification
+The composition strongly indicates a maraging steel, specifically resembling an 18Ni maraging steel variant. Key identifiers include:
+- High nickel content (~16.5%)
+- Very low carbon content
+- Presence of Ti, Mo, and Al as precipitation hardening elements
+
+### 3.2 Strengthening Mechanisms
+Primary strengthening mechanisms expected in this steel:
+
+1. **Precipitation hardening**: Ti, Mo, and Al form intermetallic compounds (primarily Ni₃Ti, Fe₂Mo) during aging treatment
+2. **Solid solution strengthening**: Ni, Mo contribute to matrix strengthening
+3. **Minimal contribution from carbon**: The extremely low carbon content indicates minimal carbide strengthening
+
+## 4. Yield Strength Estimation
+
+### 4.1 Base Strength Contribution
+- Ferrite matrix (Fe): ~280 MPa
+
+### 4.2 Solid Solution Strengthening
+- Ni contribution: ~120-150 MPa
+- Mo contribution: ~40-60 MPa
+
+### 4.3 Precipitation Hardening
+- Ti-based precipitates (Ni₃Ti): ~600-700 MPa
+- Mo-based precipitates: ~100-150 MPa
+- Al contribution: ~20-30 MPa
+
+### 4.4 Estimated Yield Strength
+Based on composition analysis and typical strengthening contributions in similar maraging steels:
+- Estimated yield strength range: 1200-1500 MPa (in aged condition)
+- Unaged condition would exhibit significantly lower strength (~700-800 MPa)
+
+## 5. Discussion
+The steel composition resembles a maraging steel with the following characteristics:
+- The high Ni content (16.5%) promotes formation of a martensitic structure with good toughness
+- The Ti content (2.15%) is optimized for precipitation of Ni₃Ti particles during aging
+- Mo (1.18%) contributes to both solid solution strengthening and precipitation hardening
+- The very low carbon content is typical of maraging steels, minimizing carbide formation and improving toughness
+
+The yield strength estimation assumes proper heat treatment, including solution treatment and aging to achieve optimal precipitation hardening.
+
+## 6. Conclusion
+Based on compositional analysis, the steel sample appears to be a maraging steel with an estimated yield strength of 1200-1500 MPa in the properly aged condition. The high nickel and titanium content, combined with low carbon, suggests a material designed for high strength with good toughness and ductility.
+
+## 7. Recommendations
+For precise yield strength determination, mechanical testing is recommended, along with microstructural analysis to confirm precipitate formation and distribution. 
+
+**The Actual Yield Strength is 1874.6 MPa**","Parameters: Fe: 0.799, C: 0.000471, Mn: 0.000103, Si: 0.000201, Cr: 0.000109, Ni: 0.165, Mo: 0.0118, V: 0.000111, Nb: 6.09e-05, Co: 9.6e-05, Al: 0.00147, Ti: 0.0215, N: 0.0, W: 0.0 
+
+**The Actual Yield Strength is 1874.6 MPa**"
+llm_experiment_yield_strength_trajectory_parameters_seed40.csv,5,Fe0.770C0.000470Mn0.000103Si0.000201Cr0.000109Ni0.168Mo0.0124V0.0222Nb0.0000607Co0.0000957Al0.00251Ti0.0236,1998.6,0.77,0.00047,0.000103,0.000201,0.000109,0.168,0.0124,0.0222,6.07e-05,9.57e-05,0.00251,0.0236,0.0,0.0,"Fe: 0.77, C: 0.00047, Mn: 0.000103, Si: 0.000201, Cr: 0.000109, Ni: 0.168, Mo: 0.0124, V: 0.0222, Nb: 6.07e-05, Co: 9.57e-05, Al: 0.00251, Ti: 0.0236, N: 0.0, W: 0.0","# Experimental Report: Estimation of Yield Strength Based on Steel Composition
+
+## 1. Introduction
+
+This report presents an analysis of a steel sample with the following elemental composition (by weight fraction):
+
+| Element | Content |
+|---------|---------|
+| Fe | 0.77000 |
+| Ni | 0.16800 |
+| Ti | 0.02360 |
+| V  | 0.02220 |
+| Al | 0.00251 |
+| Mo | 0.01240 |
+| C  | 0.00047 |
+| Si | 0.00020 |
+| Cr | 0.00011 |
+| Mn | 0.00010 |
+| Co | 0.00010 |
+| Nb | 0.00006 |
+| N  | 0.00000 |
+| W  | 0.00000 |
+
+The objective is to estimate the yield strength based on this composition using established metallurgical principles.
+
+## 2. Methodology
+
+The yield strength estimation was approached through:
+1. Classification of the steel type based on composition
+2. Analysis of strengthening mechanisms
+3. Application of empirical relationships between composition and mechanical properties
+
+## 3. Results and Discussion
+
+### 3.1 Steel Classification
+
+The analyzed sample appears to be a precipitation-hardened maraging steel based on:
+- High nickel content (16.8%)
+- Low carbon content (0.047%)
+- Significant titanium (2.36%) and vanadium (2.22%) additions
+- Presence of molybdenum (1.24%)
+- Aluminum content (0.251%)
+
+This composition is characteristic of 18Ni maraging steels, specifically resembling the 18Ni-250 grade with modifications.
+
+### 3.2 Strengthening Mechanisms
+
+The primary strengthening mechanisms in this steel are:
+
+1. **Precipitation hardening**: Ti, Mo, and V form intermetallic compounds (Ni₃Ti, Ni₃Mo, Fe₂Mo) that significantly increase yield strength through precipitation hardening.
+
+2. **Solid solution strengthening**: Ni, Mo, and V contribute to solid solution strengthening of the martensitic matrix.
+
+3. **Grain refinement**: V, Al, and Ti act as grain refiners, contributing to strength through the Hall-Petch relationship.
+
+4. **Dislocation strengthening**: The martensitic structure provides high dislocation density.
+
+### 3.3 Yield Strength Estimation
+
+Based on empirical relationships for similar maraging steels:
+
+1. **Base strength of martensite matrix**: ~250-300 MPa
+
+2. **Precipitation hardening contribution**:
+   - Ni₃Ti precipitates: ~400-450 MPa
+   - Mo-based precipitates: ~150-200 MPa
+   - V-based strengthening: ~100-150 MPa
+
+3. **Solid solution strengthening**:
+   - Ni contribution: ~50-70 MPa
+   - Mo contribution: ~30-40 MPa
+
+4. **Grain refinement contribution**: ~50-80 MPa
+
+Estimated total yield strength: 880-1240 MPa
+
+## 4. Limitations
+
+1. The estimation does not account for processing history (solution treatment, aging conditions).
+2. The unusually high Ti and V content compared to standard maraging steels may introduce unpredicted strengthening effects.
+3. The relatively low iron content (77%) suggests possible measurement issues or the presence of unaccounted elements.
+
+## 5. Conclusion
+
+The analyzed steel sample appears to be a modified maraging steel with significant precipitation hardening potential. Based on its composition, particularly the high Ni, Ti, V, and Mo content, the estimated yield strength is in the range of 880-1240 MPa. This estimation assumes proper heat treatment to achieve optimal precipitation hardening.
+
+For more accurate determination, mechanical testing and microstructural analysis are recommended to validate these estimates and understand the actual precipitation state.","Report: # Experimental Report: Estimation of Yield Strength Based on Steel Composition
+
+## 1. Introduction
+
+This report presents an analysis of a steel sample with the following elemental composition (by weight fraction):
+
+| Element | Content |
+|---------|---------|
+| Fe | 0.77000 |
+| Ni | 0.16800 |
+| Ti | 0.02360 |
+| V  | 0.02220 |
+| Al | 0.00251 |
+| Mo | 0.01240 |
+| C  | 0.00047 |
+| Si | 0.00020 |
+| Cr | 0.00011 |
+| Mn | 0.00010 |
+| Co | 0.00010 |
+| Nb | 0.00006 |
+| N  | 0.00000 |
+| W  | 0.00000 |
+
+The objective is to estimate the yield strength based on this composition using established metallurgical principles.
+
+## 2. Methodology
+
+The yield strength estimation was approached through:
+1. Classification of the steel type based on composition
+2. Analysis of strengthening mechanisms
+3. Application of empirical relationships between composition and mechanical properties
+
+## 3. Results and Discussion
+
+### 3.1 Steel Classification
+
+The analyzed sample appears to be a precipitation-hardened maraging steel based on:
+- High nickel content (16.8%)
+- Low carbon content (0.047%)
+- Significant titanium (2.36%) and vanadium (2.22%) additions
+- Presence of molybdenum (1.24%)
+- Aluminum content (0.251%)
+
+This composition is characteristic of 18Ni maraging steels, specifically resembling the 18Ni-250 grade with modifications.
+
+### 3.2 Strengthening Mechanisms
+
+The primary strengthening mechanisms in this steel are:
+
+1. **Precipitation hardening**: Ti, Mo, and V form intermetallic compounds (Ni₃Ti, Ni₃Mo, Fe₂Mo) that significantly increase yield strength through precipitation hardening.
+
+2. **Solid solution strengthening**: Ni, Mo, and V contribute to solid solution strengthening of the martensitic matrix.
+
+3. **Grain refinement**: V, Al, and Ti act as grain refiners, contributing to strength through the Hall-Petch relationship.
+
+4. **Dislocation strengthening**: The martensitic structure provides high dislocation density.
+
+### 3.3 Yield Strength Estimation
+
+Based on empirical relationships for similar maraging steels:
+
+1. **Base strength of martensite matrix**: ~250-300 MPa
+
+2. **Precipitation hardening contribution**:
+   - Ni₃Ti precipitates: ~400-450 MPa
+   - Mo-based precipitates: ~150-200 MPa
+   - V-based strengthening: ~100-150 MPa
+
+3. **Solid solution strengthening**:
+   - Ni contribution: ~50-70 MPa
+   - Mo contribution: ~30-40 MPa
+
+4. **Grain refinement contribution**: ~50-80 MPa
+
+Estimated total yield strength: 880-1240 MPa
+
+## 4. Limitations
+
+1. The estimation does not account for processing history (solution treatment, aging conditions).
+2. The unusually high Ti and V content compared to standard maraging steels may introduce unpredicted strengthening effects.
+3. The relatively low iron content (77%) suggests possible measurement issues or the presence of unaccounted elements.
+
+## 5. Conclusion
+
+The analyzed steel sample appears to be a modified maraging steel with significant precipitation hardening potential. Based on its composition, particularly the high Ni, Ti, V, and Mo content, the estimated yield strength is in the range of 880-1240 MPa. This estimation assumes proper heat treatment to achieve optimal precipitation hardening.
+
+For more accurate determination, mechanical testing and microstructural analysis are recommended to validate these estimates and understand the actual precipitation state. 
+
+**The Actual Yield Strength is 1998.6 MPa**","Parameters: Fe: 0.77, C: 0.00047, Mn: 0.000103, Si: 0.000201, Cr: 0.000109, Ni: 0.168, Mo: 0.0124, V: 0.0222, Nb: 6.07e-05, Co: 9.57e-05, Al: 0.00251, Ti: 0.0236, N: 0.0, W: 0.0 
+
+**The Actual Yield Strength is 1998.6 MPa**"
+llm_experiment_yield_strength_trajectory_parameters_seed40.csv,6,Fe0.765C0.000909Mn0.00109Si0.0618Cr0.000105Ni0.170Mo0.000114V0.000107Nb0.0000587Co0.0000926Al0.000607,1419.4,0.765,0.000909,0.00109,0.0618,0.000105,0.17,0.000114,0.000107,5.87e-05,9.26e-05,0.000607,0.0,0.0,0.0,"Fe: 0.765, C: 0.000909, Mn: 0.00109, Si: 0.0618, Cr: 0.000105, Ni: 0.17, Mo: 0.000114, V: 0.000107, Nb: 5.87e-05, Co: 9.26e-05, Al: 0.000607, Ti: 0.0, N: 0.0, W: 0.0","# Experimental Report: Estimation of Yield Strength Based on Steel Composition
+
+## 1. Introduction
+This report analyzes a steel sample with the following weight percentage composition:
+- Fe: 76.5%
+- Si: 6.18%
+- Ni: 17.0%
+- C: 0.0909%
+- Mn: 0.109%
+- Cr: 0.0105%
+- Mo: 0.0114%
+- V: 0.0107%
+- Nb: 0.00587%
+- Co: 0.00926%
+- Al: 0.0607%
+- Ti, N, W: 0%
+
+The objective is to estimate the yield strength based on this elemental composition using established metallurgical principles.
+
+## 2. Material Classification and Analysis
+
+### 2.1 Steel Type Identification
+The composition indicates a high-silicon, high-nickel alloy steel with relatively low carbon content. This appears to be a specialized silicon-nickel steel, potentially used in electrical or magnetic applications.
+
+### 2.2 Key Strengthening Mechanisms
+
+#### 2.2.1 Solid Solution Strengthening
+- **Silicon (6.18%)**: Provides significant solid solution strengthening. Each 1% Si typically increases yield strength by approximately 83 MPa.
+- **Nickel (17.0%)**: Contributes to solid solution strengthening while enhancing toughness. Each 1% Ni typically adds approximately 30 MPa to yield strength.
+
+#### 2.2.2 Other Strengthening Contributions
+- **Carbon (0.0909%)**: Despite low concentration, contributes to strengthening through interstitial solid solution and potential carbide formation.
+- **Manganese (0.109%)**: Enhances hardenability and provides modest solid solution strengthening.
+- **Aluminum (0.0607%)**: May contribute to grain refinement and precipitation strengthening.
+
+## 3. Yield Strength Estimation
+
+### 3.1 Base Strength Calculation
+Using the linear superposition model for solid solution strengthening:
+
+σy = σ0 + Σ(ki × Ci)
+
+Where:
+- σ0 = Base strength of pure iron (≈ 50 MPa)
+- ki = Strengthening coefficient for element i
+- Ci = Concentration of element i (wt%)
+
+### 3.2 Primary Strengthening Contributions
+- Silicon contribution: 6.18% × 83 MPa/% = 513 MPa
+- Nickel contribution: 17.0% × 30 MPa/% = 510 MPa
+- Other elements (C, Mn, Cr, etc.): ≈ 50-75 MPa (estimated)
+
+### 3.3 Estimated Yield Strength
+Base strength + Si contribution + Ni contribution + Other elements:
+50 MPa + 513 MPa + 510 MPa + 50-75 MPa ≈ 1125-1150 MPa
+
+## 4. Discussion
+
+The high silicon content (6.18%) is particularly notable as it significantly exceeds typical structural steel compositions (usually <1%). This suggests the alloy may be designed for:
+- Electrical applications (silicon steel/electrical steel)
+- Specialized magnetic properties
+- Corrosion resistance in specific environments
+
+The high nickel content (17%) further supports specialized applications, potentially including:
+- Enhanced corrosion resistance
+- Improved toughness at low temperatures
+- Specific magnetic property requirements
+
+## 5. Conclusion
+
+Based on compositional analysis, the estimated yield strength of this silicon-nickel steel is approximately 1125-1150 MPa. This estimation relies primarily on solid solution strengthening mechanisms from the high silicon and nickel contents.
+
+For more accurate determination, mechanical testing (tensile testing) is recommended, as microstructural factors including grain size, heat treatment history, and processing conditions would significantly influence the actual yield strength.","Report: # Experimental Report: Estimation of Yield Strength Based on Steel Composition
+
+## 1. Introduction
+This report analyzes a steel sample with the following weight percentage composition:
+- Fe: 76.5%
+- Si: 6.18%
+- Ni: 17.0%
+- C: 0.0909%
+- Mn: 0.109%
+- Cr: 0.0105%
+- Mo: 0.0114%
+- V: 0.0107%
+- Nb: 0.00587%
+- Co: 0.00926%
+- Al: 0.0607%
+- Ti, N, W: 0%
+
+The objective is to estimate the yield strength based on this elemental composition using established metallurgical principles.
+
+## 2. Material Classification and Analysis
+
+### 2.1 Steel Type Identification
+The composition indicates a high-silicon, high-nickel alloy steel with relatively low carbon content. This appears to be a specialized silicon-nickel steel, potentially used in electrical or magnetic applications.
+
+### 2.2 Key Strengthening Mechanisms
+
+#### 2.2.1 Solid Solution Strengthening
+- **Silicon (6.18%)**: Provides significant solid solution strengthening. Each 1% Si typically increases yield strength by approximately 83 MPa.
+- **Nickel (17.0%)**: Contributes to solid solution strengthening while enhancing toughness. Each 1% Ni typically adds approximately 30 MPa to yield strength.
+
+#### 2.2.2 Other Strengthening Contributions
+- **Carbon (0.0909%)**: Despite low concentration, contributes to strengthening through interstitial solid solution and potential carbide formation.
+- **Manganese (0.109%)**: Enhances hardenability and provides modest solid solution strengthening.
+- **Aluminum (0.0607%)**: May contribute to grain refinement and precipitation strengthening.
+
+## 3. Yield Strength Estimation
+
+### 3.1 Base Strength Calculation
+Using the linear superposition model for solid solution strengthening:
+
+σy = σ0 + Σ(ki × Ci)
+
+Where:
+- σ0 = Base strength of pure iron (≈ 50 MPa)
+- ki = Strengthening coefficient for element i
+- Ci = Concentration of element i (wt%)
+
+### 3.2 Primary Strengthening Contributions
+- Silicon contribution: 6.18% × 83 MPa/% = 513 MPa
+- Nickel contribution: 17.0% × 30 MPa/% = 510 MPa
+- Other elements (C, Mn, Cr, etc.): ≈ 50-75 MPa (estimated)
+
+### 3.3 Estimated Yield Strength
+Base strength + Si contribution + Ni contribution + Other elements:
+50 MPa + 513 MPa + 510 MPa + 50-75 MPa ≈ 1125-1150 MPa
+
+## 4. Discussion
+
+The high silicon content (6.18%) is particularly notable as it significantly exceeds typical structural steel compositions (usually <1%). This suggests the alloy may be designed for:
+- Electrical applications (silicon steel/electrical steel)
+- Specialized magnetic properties
+- Corrosion resistance in specific environments
+
+The high nickel content (17%) further supports specialized applications, potentially including:
+- Enhanced corrosion resistance
+- Improved toughness at low temperatures
+- Specific magnetic property requirements
+
+## 5. Conclusion
+
+Based on compositional analysis, the estimated yield strength of this silicon-nickel steel is approximately 1125-1150 MPa. This estimation relies primarily on solid solution strengthening mechanisms from the high silicon and nickel contents.
+
+For more accurate determination, mechanical testing (tensile testing) is recommended, as microstructural factors including grain size, heat treatment history, and processing conditions would significantly influence the actual yield strength. 
+
+**The Actual Yield Strength is 1419.4 MPa**","Parameters: Fe: 0.765, C: 0.000909, Mn: 0.00109, Si: 0.0618, Cr: 0.000105, Ni: 0.17, Mo: 0.000114, V: 0.000107, Nb: 5.87e-05, Co: 9.26e-05, Al: 0.000607, Ti: 0.0, N: 0.0, W: 0.0 
+
+**The Actual Yield Strength is 1419.4 MPa**"
+llm_experiment_yield_strength_trajectory_parameters_seed40.csv,7,Fe0.662C0.000477Mn0.000521Si0.00102Cr0.000110Ni0.168Mo0.0236V0.000112Nb0.0000616Co0.119Al0.00488Ti0.0213,2372.4,0.662,0.000477,0.000521,0.00102,0.00011,0.168,0.0236,0.000112,6.16e-05,0.119,0.00488,0.0213,0.0,0.0,"Fe: 0.662, C: 0.000477, Mn: 0.000521, Si: 0.00102, Cr: 0.00011, Ni: 0.168, Mo: 0.0236, V: 0.000112, Nb: 6.16e-05, Co: 0.119, Al: 0.00488, Ti: 0.0213, N: 0.0, W: 0.0","# Experimental Report: Estimation of Yield Strength Based on Elemental Composition
+
+## Abstract
+This report analyzes the yield strength estimation of a steel sample based on its elemental composition. The sample exhibits characteristics of a maraging steel with significant nickel, cobalt, molybdenum, and titanium content, suggesting precipitation hardening mechanisms contribute substantially to its mechanical properties.
+
+## 1. Introduction
+Yield strength in steels is influenced by multiple strengthening mechanisms including solid solution strengthening, precipitation hardening, grain refinement, and dislocation interactions. This analysis aims to correlate the provided elemental composition with expected yield strength through established metallurgical principles.
+
+## 2. Material Composition Analysis
+The steel sample contains (by weight fraction):
+- Fe: 0.662 (base element)
+- Ni: 0.168 (16.8%)
+- Co: 0.119 (11.9%)
+- Mo: 0.0236 (2.36%)
+- Ti: 0.0213 (2.13%)
+- Al: 0.00488 (0.488%)
+- Si: 0.00102 (0.102%)
+- Mn: 0.000521 (0.0521%)
+- C: 0.000477 (0.0477%)
+- Other elements in trace amounts
+
+## 3. Classification and Metallurgical Assessment
+The composition strongly resembles a maraging steel, specifically similar to 18Ni maraging steel (likely grade 250 or 300), characterized by:
+- Very low carbon content (0.0477%)
+- High nickel content (16.8%)
+- Significant cobalt (11.9%)
+- Presence of molybdenum (2.36%) and titanium (2.13%)
+
+## 4. Strengthening Mechanisms
+
+### 4.1 Precipitation Hardening
+The primary strengthening mechanism in this steel is precipitation hardening through intermetallic compounds:
+- Ni₃Ti precipitates (from Ti and Ni)
+- Fe₂Mo precipitates (from Mo)
+- Ni₃Al precipitates (from Al and Ni)
+
+### 4.2 Solid Solution Strengthening
+- Cobalt contributes to solid solution strengthening and enhances precipitation kinetics
+- Nickel provides matrix strengthening and martensite stabilization
+
+### 4.3 Grain Refinement
+- Titanium and aluminum act as grain refiners
+- Niobium (0.00616%) provides additional grain refinement
+
+## 5. Yield Strength Estimation
+
+Based on the composition, the yield strength can be estimated using the following approach:
+
+### 5.1 Base Strength Contribution
+- Martensitic matrix: ~250 MPa
+
+### 5.2 Precipitation Hardening Contribution
+- Ni₃Ti precipitates: ~500-600 MPa
+- Fe₂Mo precipitates: ~200-250 MPa
+- Ni₃Al precipitates: ~50-100 MPa
+
+### 5.3 Solid Solution Strengthening
+- Co and Ni contribution: ~150-200 MPa
+
+### 5.4 Estimated Total Yield Strength
+The estimated yield strength range is 1150-1400 MPa, typical of 18Ni maraging steels in the grade 250-300 range.
+
+## 6. Discussion
+The very low carbon content (0.0477%) is characteristic of maraging steels, which rely on intermetallic precipitates rather than carbides for strengthening. The high nickel content promotes the formation of a ductile martensitic structure, while cobalt enhances the precipitation of strengthening phases during aging.
+
+The titanium and molybdenum contents are particularly significant for yield strength, as they form the primary strengthening precipitates. The aluminum content, while lower, contributes to both precipitation hardening and grain refinement.
+
+## 7. Conclusion
+Based on elemental composition analysis, this steel sample is identified as a maraging steel with an estimated yield strength of 1150-1400 MPa. The strength derives primarily from precipitation hardening mechanisms, with contributions from solid solution strengthening and grain refinement.
+
+## 8. Recommendations for Further Testing
+- Age hardening response testing at various temperatures (480-510°C)
+- Microstructural analysis to confirm precipitate types and distribution
+- Tensile testing to verify the estimated yield strength
+- Fracture toughness evaluation","Report: # Experimental Report: Estimation of Yield Strength Based on Elemental Composition
+
+## Abstract
+This report analyzes the yield strength estimation of a steel sample based on its elemental composition. The sample exhibits characteristics of a maraging steel with significant nickel, cobalt, molybdenum, and titanium content, suggesting precipitation hardening mechanisms contribute substantially to its mechanical properties.
+
+## 1. Introduction
+Yield strength in steels is influenced by multiple strengthening mechanisms including solid solution strengthening, precipitation hardening, grain refinement, and dislocation interactions. This analysis aims to correlate the provided elemental composition with expected yield strength through established metallurgical principles.
+
+## 2. Material Composition Analysis
+The steel sample contains (by weight fraction):
+- Fe: 0.662 (base element)
+- Ni: 0.168 (16.8%)
+- Co: 0.119 (11.9%)
+- Mo: 0.0236 (2.36%)
+- Ti: 0.0213 (2.13%)
+- Al: 0.00488 (0.488%)
+- Si: 0.00102 (0.102%)
+- Mn: 0.000521 (0.0521%)
+- C: 0.000477 (0.0477%)
+- Other elements in trace amounts
+
+## 3. Classification and Metallurgical Assessment
+The composition strongly resembles a maraging steel, specifically similar to 18Ni maraging steel (likely grade 250 or 300), characterized by:
+- Very low carbon content (0.0477%)
+- High nickel content (16.8%)
+- Significant cobalt (11.9%)
+- Presence of molybdenum (2.36%) and titanium (2.13%)
+
+## 4. Strengthening Mechanisms
+
+### 4.1 Precipitation Hardening
+The primary strengthening mechanism in this steel is precipitation hardening through intermetallic compounds:
+- Ni₃Ti precipitates (from Ti and Ni)
+- Fe₂Mo precipitates (from Mo)
+- Ni₃Al precipitates (from Al and Ni)
+
+### 4.2 Solid Solution Strengthening
+- Cobalt contributes to solid solution strengthening and enhances precipitation kinetics
+- Nickel provides matrix strengthening and martensite stabilization
+
+### 4.3 Grain Refinement
+- Titanium and aluminum act as grain refiners
+- Niobium (0.00616%) provides additional grain refinement
+
+## 5. Yield Strength Estimation
+
+Based on the composition, the yield strength can be estimated using the following approach:
+
+### 5.1 Base Strength Contribution
+- Martensitic matrix: ~250 MPa
+
+### 5.2 Precipitation Hardening Contribution
+- Ni₃Ti precipitates: ~500-600 MPa
+- Fe₂Mo precipitates: ~200-250 MPa
+- Ni₃Al precipitates: ~50-100 MPa
+
+### 5.3 Solid Solution Strengthening
+- Co and Ni contribution: ~150-200 MPa
+
+### 5.4 Estimated Total Yield Strength
+The estimated yield strength range is 1150-1400 MPa, typical of 18Ni maraging steels in the grade 250-300 range.
+
+## 6. Discussion
+The very low carbon content (0.0477%) is characteristic of maraging steels, which rely on intermetallic precipitates rather than carbides for strengthening. The high nickel content promotes the formation of a ductile martensitic structure, while cobalt enhances the precipitation of strengthening phases during aging.
+
+The titanium and molybdenum contents are particularly significant for yield strength, as they form the primary strengthening precipitates. The aluminum content, while lower, contributes to both precipitation hardening and grain refinement.
+
+## 7. Conclusion
+Based on elemental composition analysis, this steel sample is identified as a maraging steel with an estimated yield strength of 1150-1400 MPa. The strength derives primarily from precipitation hardening mechanisms, with contributions from solid solution strengthening and grain refinement.
+
+## 8. Recommendations for Further Testing
+- Age hardening response testing at various temperatures (480-510°C)
+- Microstructural analysis to confirm precipitate types and distribution
+- Tensile testing to verify the estimated yield strength
+- Fracture toughness evaluation 
+
+**The Actual Yield Strength is 2372.4 MPa**","Parameters: Fe: 0.662, C: 0.000477, Mn: 0.000521, Si: 0.00102, Cr: 0.00011, Ni: 0.168, Mo: 0.0236, V: 0.000112, Nb: 6.16e-05, Co: 0.119, Al: 0.00488, Ti: 0.0213, N: 0.0, W: 0.0 
+
+**The Actual Yield Strength is 2372.4 MPa**"

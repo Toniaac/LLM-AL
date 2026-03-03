@@ -1,0 +1,36 @@
+Iteration,Index,Observed Target Value,Predicted Target Value,Uncertainty,Min Instability index in Dataset,Phase,Stopping Reason
+0,2,144074.0,,,23707.0,WarmStart,WarmStart
+1,28,57484.0,,,23707.0,WarmStart,WarmStart
+2,29,286689.0,,,23707.0,WarmStart,WarmStart
+3,43,228347.0,,,23707.0,WarmStart,WarmStart
+4,50,199330.0,,,23707.0,WarmStart,WarmStart
+5,51,293210.0,,,23707.0,WarmStart,WarmStart
+6,52,456484.0,,,23707.0,WarmStart,WarmStart
+7,53,374938.0,,,23707.0,WarmStart,WarmStart
+8,54,376516.0,,,23707.0,WarmStart,WarmStart
+9,55,463506.0,,,23707.0,WarmStart,WarmStart
+10,58,221696.0,,,23707.0,WarmStart,WarmStart
+11,66,284939.0,,,23707.0,WarmStart,WarmStart
+12,67,227835.0,,,23707.0,WarmStart,WarmStart
+13,74,140574.0,,,23707.0,WarmStart,WarmStart
+14,75,59256.0,,,23707.0,WarmStart,WarmStart
+15,85,27122.0,,,23707.0,WarmStart,WarmStart
+16,86,91681.0,,,23707.0,WarmStart,WarmStart
+17,101,239057.0,,,23707.0,WarmStart,WarmStart
+18,116,26197.0,,,23707.0,WarmStart,WarmStart
+19,117,38370.0,,,23707.0,WarmStart,WarmStart
+20,118,107494.0,,,23707.0,WarmStart,WarmStart
+21,119,119938.0,,,23707.0,WarmStart,WarmStart
+22,127,184086.0,,,23707.0,WarmStart,WarmStart
+23,98,147202.0,113431.890625,32070.1015625,23707.0,ActiveLearning,Continuing
+24,60,38893.0,140039.453125,38009.47265625,23707.0,ActiveLearning,Continuing
+25,59,123157.0,118080.2265625,45621.76171875,23707.0,ActiveLearning,Continuing
+26,3,239852.0,119382.4296875,45279.09765625,23707.0,ActiveLearning,Continuing
+27,30,209698.0,129355.6015625,45570.37890625,23707.0,ActiveLearning,Continuing
+28,61,449878.0,128173.078125,42926.0,23707.0,ActiveLearning,Continuing
+29,44,299002.0,121124.90625,53431.9140625,23707.0,ActiveLearning,Continuing
+30,124,55524.0,153158.328125,41268.70703125,23707.0,ActiveLearning,Continuing
+31,125,88158.0,116196.515625,43938.72265625,23707.0,ActiveLearning,Continuing
+32,126,93928.0,102612.28125,26380.04296875,23707.0,ActiveLearning,Continuing
+33,84,24723.0,128738.3671875,72806.8125,23707.0,ActiveLearning,Continuing
+34,112,23707.0,68353.71875,64301.33203125,23707.0,ActiveLearning,Min Instability index in Dataset reached
