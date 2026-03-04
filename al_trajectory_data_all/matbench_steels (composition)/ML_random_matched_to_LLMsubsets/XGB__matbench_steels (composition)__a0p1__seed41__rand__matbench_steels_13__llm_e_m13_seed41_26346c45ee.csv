@@ -1,0 +1,27 @@
+Iteration,Index,Observed Target Value,Predicted Target Value,Uncertainty,Max yield strength in Dataset,Phase,Stopping Reason
+0,14,1564.0,,,2510.3,WarmStart,WarmStart
+1,29,1254.0,,,2510.3,WarmStart,WarmStart
+2,49,1550.3,,,2510.3,WarmStart,WarmStart
+3,58,1276.5,,,2510.3,WarmStart,WarmStart
+4,72,1317.0,,,2510.3,WarmStart,WarmStart
+5,126,1391.8,,,2510.3,WarmStart,WarmStart
+6,136,1199.0,,,2510.3,WarmStart,WarmStart
+7,150,1846.5,,,2510.3,WarmStart,WarmStart
+8,191,2411.5,,,2510.3,WarmStart,WarmStart
+9,215,1688.1,,,2510.3,WarmStart,WarmStart
+10,255,1280.2,,,2510.3,WarmStart,WarmStart
+11,298,1040.4,,,2510.3,WarmStart,WarmStart
+12,309,1212.0,,,2510.3,WarmStart,WarmStart
+13,69,1131.9,1939.178466796875,551.6943359375,2510.3,ActiveLearning,Continuing
+14,262,1309.1,1951.1707763671875,373.6762390136719,2510.3,ActiveLearning,Continuing
+15,106,2381.6,1925.1790771484375,602.3463134765625,2510.3,ActiveLearning,Continuing
+16,237,1350.4,2219.285400390625,308.1929931640625,2510.3,ActiveLearning,Continuing
+17,273,2402.3,2078.567138671875,432.0360107421875,2510.3,ActiveLearning,Continuing
+18,206,2331.1,2256.64013671875,270.5704650878906,2510.3,ActiveLearning,Continuing
+19,99,2411.5,2371.265380859375,67.5055923461914,2510.3,ActiveLearning,Continuing
+20,31,2487.3,2386.513427734375,31.6053409576416,2510.3,ActiveLearning,Continuing
+21,71,2501.1,2309.73193359375,143.9069366455078,2510.3,ActiveLearning,Continuing
+22,292,2372.4,2370.0693359375,38.48200607299805,2510.3,ActiveLearning,Continuing
+23,47,1228.9,2247.64501953125,181.51406860351562,2510.3,ActiveLearning,Continuing
+24,212,2249.6,2178.173828125,165.32296752929688,2510.3,ActiveLearning,Continuing
+25,306,2510.3,2074.641845703125,362.2462463378906,2510.3,ActiveLearning,Max yield strength in Dataset reached
