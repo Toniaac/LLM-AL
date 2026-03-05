@@ -1,7 +1,7 @@
 # Training-Free Active Learning with Large Language Models for Materials Discovery
 
 ## 📖 Overview
-
+<img src="llm_al_workflow_r.png" height="400">
 Active learning (AL) enables accelerated materials discovery by prioritizing informative experiments.  
 However, conventional machine-learning–based AL methods typically require:
 
